@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Bulbasaur",
+        "price": "£63.00"
+    },
+    {
+        "name": "Ivysaur",
+        "price": "£87.00"
+    },
+    {
+        "name": "Venusaur",
+        "price": "£105.00"
+    },
+    {
+        "name": "Charmander",
+        "price": "£48.00"
+    },
+    {
+        "name": "Charmeleon",
+        "price": "£165.00"
+    },
+    {
+        "name": "Charizard",
+        "price": "£156.00"
+    },
+    {
+        "name": "Squirtle",
+        "price": "£130.00"
+    },
+    {
+        "name": "Wartortle",
+        "price": "£123.00"
+    },
+    {
+        "name": "Blastoise",
+        "price": "£76.00"
+    },
+    {
+        "name": "Caterpie",
+        "price": "£73.00"
+    },
+    {
+        "name": "Metapod",
+        "price": "£148.00"
+    },
+    {
+        "name": "Butterfree",
+        "price": "£162.00"
+    },
+    {
+        "name": "Weedle",
+        "price": "£25.00"
+    },
+    {
+        "name": "Kakuna",
+        "price": "£148.00"
+    },
+    {
+        "name": "Beedrill",
+        "price": "£168.00"
+    },
+    {
+        "name": "Pidgey",
+        "price": "£159.00"
+    }
+]

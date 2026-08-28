@@ -1,0 +1,8 @@
+napravi request na stranicu
+"https://scrapeme.live/shop/"
+pomocu requests.get
+parsuj tu stranicu u html pomocu beautifulsoup4
+odstampaj prvi h1 element pomocu .find
+ako nesto zakoci ili nije jasno,
+javi se profesoru :)
++ 381 63 704 2234
