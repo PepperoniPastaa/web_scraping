@@ -45,50 +45,57 @@ while current_url:
 
 
 pokemons = []
-for link in all_articles_links:
-    if link["visited"] == False:
-        response = requests.get(link["url"], timeout=30)
+counter = 1
+for link in all_articles_links:   
+    try:
+        if link["visited"] == False:
+            response = requests.get(link["url"], timeout=30)
+            print("Scraping...", counter)
+            counter+= 1
+            articles_content = BeautifulSoup (response.text, "html.parser")
 
-        articles_content = BeautifulSoup (response.text, "html.parser")
+            name = articles_content.find ("h1", {"class": "product_title"})
+            name = name.get_text(strip=True)
 
-        name = articles_content.find ("h1", {"class": "product_title"})
-        name = name.get_text(strip=True)
-
-        price = articles_content.find ("span", {"class": "price"})
-        price = price.get_text(strip=True)
-
-
-        tags_container = articles_content.find("span", {"class": "tagged_as"})
-        if tags_container:
-            tags = [
-                tag.get_text(strip=True)
-                for tag in tags_container.find_all("a")  
-            ]
-        else:
-            tags = []
+            price = articles_content.find ("span", {"class": "price"})
+            price = price.get_text(strip=True)
+            price = float(price.replace("£", ""))
 
 
-        categories_container = articles_content.find_all("span", {"class": "posted_in"})
-        if categories_container:
-            categories = [
-            category.get_text(strip=True)
-                for category in categories_container.find("a")
-            ]
-        else:
-            categories = []
+            tags_container = articles_content.find("span", {"class": "tagged_as"})
+            if tags_container:
+                tags = []
+                for tag in tags_container.find_all("a"):
+                    tag_text = tag.get_text(strip=True)
+                    tags.append(tag_text)    
+            else:
+                tags = []
 
 
-        pokemon_dict = {
-            "name" : name,
-            "price" : price,
-            "tags" : tags, 
-            "category" : categories
-        }
+            categories_container = articles_content.find_all("span", {"class": "posted_in"})
+            if categories_container:
+                categories = []
+                for container in categories_container:
+                    for category in container.find_all("a"):
+                        category_text = category.get_text(strip=True)
+                        categories.append(category_text)
+            else:
+                categories = []
 
-        pokemons.append(pokemon_dict)
 
-        link ["visited"] = True
+            pokemon_dict = {
+                "name" : name,
+                "price" : price,
+                "tags" : tags, 
+                "category" : categories
+            }
 
+            pokemons.append(pokemon_dict)
+
+            link ["visited"] = True
+    except Exception as e:
+        print (e)
+            
 
 
 

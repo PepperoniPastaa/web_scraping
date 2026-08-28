@@ -1,0 +1,9811 @@
+[
+    {
+        "name": "Bulbasaur",
+        "price": 25.0,
+        "tags": [
+            "bulbasaur",
+            "Overgrow",
+            "Seed"
+        ],
+        "category": [
+            "Pokemon",
+            "Seed"
+        ]
+    },
+    {
+        "name": "Ivysaur",
+        "price": 25.0,
+        "tags": [
+            "ivysaur",
+            "Overgrow",
+            "Seed"
+        ],
+        "category": [
+            "Pokemon",
+            "Seed"
+        ]
+    },
+    {
+        "name": "Venusaur",
+        "price": 84.0,
+        "tags": [
+            "Overgrow",
+            "Seed",
+            "venusaur"
+        ],
+        "category": [
+            "Pokemon",
+            "Seed"
+        ]
+    },
+    {
+        "name": "Charmander",
+        "price": 148.0,
+        "tags": [
+            "Blaze",
+            "charmander",
+            "Lizard"
+        ],
+        "category": [
+            "Lizard",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Charmeleon",
+        "price": 148.0,
+        "tags": [
+            "Blaze",
+            "charmeleon",
+            "Flame"
+        ],
+        "category": [
+            "Flame",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Charizard",
+        "price": 48.0,
+        "tags": [
+            "Blaze",
+            "Charizard",
+            "Flame"
+        ],
+        "category": [
+            "Flame",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Squirtle",
+        "price": 73.0,
+        "tags": [
+            "squirtle",
+            "Tiny Turtle",
+            "Torrent"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Turtle"
+        ]
+    },
+    {
+        "name": "Wartortle",
+        "price": 73.0,
+        "tags": [
+            "Torrent",
+            "Turtle",
+            "wartortle"
+        ],
+        "category": [
+            "Pokemon",
+            "Turtle"
+        ]
+    },
+    {
+        "name": "Blastoise",
+        "price": 60.0,
+        "tags": [
+            "blastoise",
+            "Shellfish",
+            "Torrent"
+        ],
+        "category": [
+            "Pokemon",
+            "Shellfish"
+        ]
+    },
+    {
+        "name": "Caterpie",
+        "price": 25.0,
+        "tags": [
+            "caterpie",
+            "Shield Dust",
+            "Worm"
+        ],
+        "category": [
+            "Pokemon",
+            "Worm"
+        ]
+    },
+    {
+        "name": "Metapod",
+        "price": 148.0,
+        "tags": [
+            "Cocoon",
+            "metapod",
+            "Shed Skin"
+        ],
+        "category": [
+            "Cocoon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Butterfree",
+        "price": 105.0,
+        "tags": [
+            "Butterfly",
+            "butterfree",
+            "Compound Eyes"
+        ],
+        "category": [
+            "Butterfly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Weedle",
+        "price": 130.0,
+        "tags": [
+            "Hairy Bug",
+            "Shield Dust",
+            "weedle"
+        ],
+        "category": [
+            "Hairy Bug",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kakuna",
+        "price": 130.0,
+        "tags": [
+            "Cocoon",
+            "kakuna",
+            "Shed Skin"
+        ],
+        "category": [
+            "Cocoon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Beedrill",
+        "price": 130.0,
+        "tags": [
+            "beedrill",
+            "Poison Bee",
+            "Swarm"
+        ],
+        "category": [
+            "Poison Bee",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pidgey",
+        "price": 76.0,
+        "tags": [
+            "Keen Eye",
+            "pidgey",
+            "Tiny Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Bird"
+        ]
+    },
+    {
+        "name": "Pidgeotto",
+        "price": 76.0,
+        "tags": [
+            "Bird",
+            "Keen Eye",
+            "pidgeotto"
+        ],
+        "category": [
+            "Bird",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pidgeot",
+        "price": 128.0,
+        "tags": [
+            "Bird",
+            "Keen Eye",
+            "pidgeot"
+        ],
+        "category": [
+            "Bird",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rattata",
+        "price": 105.0,
+        "tags": [
+            "Mouse",
+            "rattata",
+            "Run Away"
+        ],
+        "category": [
+            "Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Raticate",
+        "price": 130.0,
+        "tags": [
+            "Mouse",
+            "raticate",
+            "Run Away"
+        ],
+        "category": [
+            "Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spearow",
+        "price": 156.0,
+        "tags": [
+            "Keen Eye",
+            "spearow",
+            "Tiny Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Bird"
+        ]
+    },
+    {
+        "name": "Fearow",
+        "price": 76.0,
+        "tags": [
+            "Beak",
+            "fearow",
+            "Keen Eye"
+        ],
+        "category": [
+            "Beak",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ekans",
+        "price": 76.0,
+        "tags": [
+            "ekans",
+            "Shed Skin",
+            "Snake"
+        ],
+        "category": [
+            "Pokemon",
+            "Snake"
+        ]
+    },
+    {
+        "name": "Arbok",
+        "price": 128.0,
+        "tags": [
+            "arbok",
+            "Cobra",
+            "Shed Skin"
+        ],
+        "category": [
+            "Cobra",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pikachu",
+        "price": 159.0,
+        "tags": [
+            "Mouse",
+            "pikachu",
+            "Static"
+        ],
+        "category": [
+            "Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Raichu",
+        "price": 156.0,
+        "tags": [
+            "Mouse",
+            "raichu",
+            "Static"
+        ],
+        "category": [
+            "Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sandshrew",
+        "price": 162.0,
+        "tags": [
+            "Mouse",
+            "Sand Veil",
+            "sandshrew"
+        ],
+        "category": [
+            "Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sandslash",
+        "price": 165.0,
+        "tags": [
+            "Mouse",
+            "Sand Veil",
+            "sandslash"
+        ],
+        "category": [
+            "Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nidorina",
+        "price": 76.0,
+        "tags": [
+            "nidorina",
+            "Poison Pin",
+            "Poison Point"
+        ],
+        "category": [
+            "Poison Pin",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nidoqueen",
+        "price": 156.0,
+        "tags": [
+            "Drill",
+            "nidoqueen",
+            "Poison Point"
+        ],
+        "category": [
+            "Drill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nidorino",
+        "price": 87.0,
+        "tags": [
+            "nidorino",
+            "Poison Pin",
+            "Poison Point"
+        ],
+        "category": [
+            "Poison Pin",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nidoking",
+        "price": 159.0,
+        "tags": [
+            "Drill",
+            "nidoking",
+            "Poison Point"
+        ],
+        "category": [
+            "Drill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Clefairy",
+        "price": 105.0,
+        "tags": [
+            "clefairy",
+            "Cute Charm",
+            "Fairy"
+        ],
+        "category": [
+            "Fairy",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Clefable",
+        "price": 60.0,
+        "tags": [
+            "clefable",
+            "Cute Charm",
+            "Fairy"
+        ],
+        "category": [
+            "Fairy",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vulpix",
+        "price": 148.0,
+        "tags": [
+            "Flash Fire",
+            "Fox",
+            "vulpix"
+        ],
+        "category": [
+            "Fox",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ninetales",
+        "price": 55.0,
+        "tags": [
+            "Flash Fire",
+            "Fox",
+            "ninetales"
+        ],
+        "category": [
+            "Fox",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jigglypuff",
+        "price": 87.0,
+        "tags": [
+            "Balloon",
+            "Cute Charm",
+            "jigglypuff"
+        ],
+        "category": [
+            "Balloon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wigglytuff",
+        "price": 128.0,
+        "tags": [
+            "Balloon",
+            "Cute Charm",
+            "wigglytuff"
+        ],
+        "category": [
+            "Balloon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zubat",
+        "price": 156.0,
+        "tags": [
+            "Bat",
+            "Inner Focus",
+            "zubat"
+        ],
+        "category": [
+            "Bat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Golbat",
+        "price": 156.0,
+        "tags": [
+            "Bat",
+            "golbat",
+            "Inner Focus"
+        ],
+        "category": [
+            "Bat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Oddish",
+        "price": 168.0,
+        "tags": [
+            "Chlorophyll",
+            "oddish",
+            "Weed"
+        ],
+        "category": [
+            "Pokemon",
+            "Weed"
+        ]
+    },
+    {
+        "name": "Gloom",
+        "price": 165.0,
+        "tags": [
+            "Chlorophyll",
+            "gloom",
+            "Weed"
+        ],
+        "category": [
+            "Pokemon",
+            "Weed"
+        ]
+    },
+    {
+        "name": "Vileplume",
+        "price": 168.0,
+        "tags": [
+            "Chlorophyll",
+            "Flower",
+            "vileplume"
+        ],
+        "category": [
+            "Flower",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Paras",
+        "price": 73.0,
+        "tags": [
+            "Effect Spore",
+            "Mushroom",
+            "paras"
+        ],
+        "category": [
+            "Mushroom",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Parasect",
+        "price": 73.0,
+        "tags": [
+            "Effect Spore",
+            "Mushroom",
+            "parasect"
+        ],
+        "category": [
+            "Mushroom",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Venonat",
+        "price": 55.0,
+        "tags": [
+            "Compound Eyes",
+            "Insect",
+            "venonat"
+        ],
+        "category": [
+            "Insect",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Venomoth",
+        "price": 159.0,
+        "tags": [
+            "Poison Moth",
+            "Shield Dust",
+            "venomoth"
+        ],
+        "category": [
+            "Poison Moth",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Diglett",
+        "price": 60.0,
+        "tags": [
+            "diglett",
+            "Mole",
+            "Sand Veil"
+        ],
+        "category": [
+            "Mole",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dugtrio",
+        "price": 148.0,
+        "tags": [
+            "dugtrio",
+            "Mole",
+            "Sand Veil"
+        ],
+        "category": [
+            "Mole",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Meowth",
+        "price": 95.0,
+        "tags": [
+            "meowth",
+            "Pickup",
+            "Scratch Cat"
+        ],
+        "category": [
+            "Pokemon",
+            "Scratch Cat"
+        ]
+    },
+    {
+        "name": "Persian",
+        "price": 123.0,
+        "tags": [
+            "Classy Cat",
+            "persian",
+            "Technician"
+        ],
+        "category": [
+            "Classy Cat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Psyduck",
+        "price": 133.0,
+        "tags": [
+            "Damp",
+            "Duck",
+            "psyduck"
+        ],
+        "category": [
+            "Duck",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Golduck",
+        "price": 95.0,
+        "tags": [
+            "Damp",
+            "Duck",
+            "golduck"
+        ],
+        "category": [
+            "Duck",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mankey",
+        "price": 105.0,
+        "tags": [
+            "mankey",
+            "Pig Monkey",
+            "Vital Spirit"
+        ],
+        "category": [
+            "Pig Monkey",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Primeape",
+        "price": 105.0,
+        "tags": [
+            "Pig Monkey",
+            "primeape",
+            "Vital Spirit"
+        ],
+        "category": [
+            "Pig Monkey",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Growlithe",
+        "price": 130.0,
+        "tags": [
+            "growlithe",
+            "Intimidate",
+            "Puppy"
+        ],
+        "category": [
+            "Pokemon",
+            "Puppy"
+        ]
+    },
+    {
+        "name": "Arcanine",
+        "price": 148.0,
+        "tags": [
+            "arcanine",
+            "Intimidate",
+            "Legendary"
+        ],
+        "category": [
+            "Legendary",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Poliwag",
+        "price": 48.0,
+        "tags": [
+            "Damp",
+            "poliwag",
+            "Tadpole"
+        ],
+        "category": [
+            "Pokemon",
+            "Tadpole"
+        ]
+    },
+    {
+        "name": "Poliwhirl",
+        "price": 48.0,
+        "tags": [
+            "Damp",
+            "poliwhirl",
+            "Tadpole"
+        ],
+        "category": [
+            "Pokemon",
+            "Tadpole"
+        ]
+    },
+    {
+        "name": "Poliwrath",
+        "price": 25.0,
+        "tags": [
+            "Damp",
+            "poliwrath",
+            "Tadpole"
+        ],
+        "category": [
+            "Pokemon",
+            "Tadpole"
+        ]
+    },
+    {
+        "name": "Abra",
+        "price": 159.0,
+        "tags": [
+            "abra",
+            "Inner Focus",
+            "Psi"
+        ],
+        "category": [
+            "Pokemon",
+            "Psi"
+        ]
+    },
+    {
+        "name": "Kadabra",
+        "price": 55.0,
+        "tags": [
+            "Inner Focus",
+            "kadabra",
+            "Psi"
+        ],
+        "category": [
+            "Pokemon",
+            "Psi"
+        ]
+    },
+    {
+        "name": "Alakazam",
+        "price": 87.0,
+        "tags": [
+            "alakazam",
+            "Inner Focus",
+            "Psi"
+        ],
+        "category": [
+            "Pokemon",
+            "Psi"
+        ]
+    },
+    {
+        "name": "Machop",
+        "price": 168.0,
+        "tags": [
+            "Guts",
+            "machop",
+            "Superpower"
+        ],
+        "category": [
+            "Pokemon",
+            "Superpower"
+        ]
+    },
+    {
+        "name": "Machoke",
+        "price": 48.0,
+        "tags": [
+            "Guts",
+            "machoke",
+            "Superpower"
+        ],
+        "category": [
+            "Pokemon",
+            "Superpower"
+        ]
+    },
+    {
+        "name": "Machamp",
+        "price": 25.0,
+        "tags": [
+            "Guts",
+            "machamp",
+            "Superpower"
+        ],
+        "category": [
+            "Pokemon",
+            "Superpower"
+        ]
+    },
+    {
+        "name": "Bellsprout",
+        "price": 130.0,
+        "tags": [
+            "bellsprout",
+            "Chlorophyll",
+            "Flower"
+        ],
+        "category": [
+            "Flower",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Weepinbell",
+        "price": 128.0,
+        "tags": [
+            "Chlorophyll",
+            "Flycatcher",
+            "weepinbell"
+        ],
+        "category": [
+            "Flycatcher",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Victreebel",
+        "price": 159.0,
+        "tags": [
+            "Chlorophyll",
+            "Flycatcher",
+            "victreebel"
+        ],
+        "category": [
+            "Flycatcher",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tentacool",
+        "price": 148.0,
+        "tags": [
+            "Clear Body",
+            "Jellyfish",
+            "tentacool"
+        ],
+        "category": [
+            "Jellyfish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tentacruel",
+        "price": 162.0,
+        "tags": [
+            "Clear Body",
+            "Jellyfish",
+            "tentacruel"
+        ],
+        "category": [
+            "Jellyfish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Geodude",
+        "price": 25.0,
+        "tags": [
+            "geodude",
+            "Rock",
+            "Rock Head"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Graveler",
+        "price": 87.0,
+        "tags": [
+            "graveler",
+            "Rock",
+            "Rock Head"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Golem",
+        "price": 48.0,
+        "tags": [
+            "golem",
+            "Megaton",
+            "Rock Head"
+        ],
+        "category": [
+            "Megaton",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ponyta",
+        "price": 84.0,
+        "tags": [
+            "Fire Horse",
+            "ponyta",
+            "Run Away"
+        ],
+        "category": [
+            "Fire Horse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rapidash",
+        "price": 168.0,
+        "tags": [
+            "Fire Horse",
+            "rapidash",
+            "Run Away"
+        ],
+        "category": [
+            "Fire Horse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slowpoke",
+        "price": 133.0,
+        "tags": [
+            "Dopey",
+            "Oblivious",
+            "slowpoke"
+        ],
+        "category": [
+            "Dopey",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slowbro",
+        "price": 84.0,
+        "tags": [
+            "Hermit Crab",
+            "Oblivious",
+            "slowbro"
+        ],
+        "category": [
+            "Hermit Crab",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Magnemite",
+        "price": 130.0,
+        "tags": [
+            "magnemite",
+            "Magnet",
+            "Sturdy"
+        ],
+        "category": [
+            "Magnet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Magneton",
+        "price": 105.0,
+        "tags": [
+            "Magnet",
+            "magneton",
+            "Sturdy"
+        ],
+        "category": [
+            "Magnet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Farfetchd",
+        "price": 60.0,
+        "tags": [
+            "farfetchd",
+            "Keen Eye",
+            "Wild Duck"
+        ],
+        "category": [
+            "Pokemon",
+            "Wild Duck"
+        ]
+    },
+    {
+        "name": "Doduo",
+        "price": 84.0,
+        "tags": [
+            "doduo",
+            "Run Away",
+            "Twin Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Twin Bird"
+        ]
+    },
+    {
+        "name": "Dodrio",
+        "price": 168.0,
+        "tags": [
+            "dodrio",
+            "Run Away",
+            "Triple Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Triple Bird"
+        ]
+    },
+    {
+        "name": "Seel",
+        "price": 185.0,
+        "tags": [
+            "Sea Lion",
+            "seel",
+            "Thick Fat"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Lion"
+        ]
+    },
+    {
+        "name": "Dewgong",
+        "price": 185.0,
+        "tags": [
+            "dewgong",
+            "Sea Lion",
+            "Thick Fat"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Lion"
+        ]
+    },
+    {
+        "name": "Grimer",
+        "price": 185.0,
+        "tags": [
+            "grimer",
+            "Sludge",
+            "Stench"
+        ],
+        "category": [
+            "Pokemon",
+            "Sludge"
+        ]
+    },
+    {
+        "name": "Muk",
+        "price": 48.0,
+        "tags": [
+            "muk",
+            "Sludge",
+            "Stench"
+        ],
+        "category": [
+            "Pokemon",
+            "Sludge"
+        ]
+    },
+    {
+        "name": "Shellder",
+        "price": 60.0,
+        "tags": [
+            "Bivalve",
+            "Shell Armor",
+            "shellder"
+        ],
+        "category": [
+            "Bivalve",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cloyster",
+        "price": 55.0,
+        "tags": [
+            "Bivalve",
+            "cloyster",
+            "Shell Armor"
+        ],
+        "category": [
+            "Bivalve",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gastly",
+        "price": 105.0,
+        "tags": [
+            "Gas",
+            "gastly",
+            "Levitate"
+        ],
+        "category": [
+            "Gas",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Haunter",
+        "price": 148.0,
+        "tags": [
+            "Gas",
+            "haunter",
+            "Levitate"
+        ],
+        "category": [
+            "Gas",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gengar",
+        "price": 95.0,
+        "tags": [
+            "gengar",
+            "Levitate",
+            "Shadow"
+        ],
+        "category": [
+            "Pokemon",
+            "Shadow"
+        ]
+    },
+    {
+        "name": "Onix",
+        "price": 185.0,
+        "tags": [
+            "onix",
+            "Rock Head",
+            "Rock Snake"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock Snake"
+        ]
+    },
+    {
+        "name": "Drowzee",
+        "price": 87.0,
+        "tags": [
+            "drowzee",
+            "Hypnosis",
+            "Insomnia"
+        ],
+        "category": [
+            "Hypnosis",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hypno",
+        "price": 165.0,
+        "tags": [
+            "hypno",
+            "Hypnosis",
+            "Insomnia"
+        ],
+        "category": [
+            "Hypnosis",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Krabby",
+        "price": 95.0,
+        "tags": [
+            "krabby",
+            "River Crab",
+            "Shell Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "River Crab"
+        ]
+    },
+    {
+        "name": "Kingler",
+        "price": 168.0,
+        "tags": [
+            "kingler",
+            "Pincer",
+            "Shell Armor"
+        ],
+        "category": [
+            "Pincer",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Voltorb",
+        "price": 60.0,
+        "tags": [
+            "Ball",
+            "Static",
+            "voltorb"
+        ],
+        "category": [
+            "Ball",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Electrode",
+        "price": 84.0,
+        "tags": [
+            "Ball",
+            "electrode",
+            "Static"
+        ],
+        "category": [
+            "Ball",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Exeggcute",
+        "price": 48.0,
+        "tags": [
+            "Chlorophyll",
+            "Egg",
+            "exeggcute"
+        ],
+        "category": [
+            "Egg",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Exeggutor",
+        "price": 95.0,
+        "tags": [
+            "Chlorophyll",
+            "Coconut",
+            "exeggutor"
+        ],
+        "category": [
+            "Coconut",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cubone",
+        "price": 168.0,
+        "tags": [
+            "cubone",
+            "Lonely",
+            "Rock Head"
+        ],
+        "category": [
+            "Lonely",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Marowak",
+        "price": 105.0,
+        "tags": [
+            "Bone Keeper",
+            "marowak",
+            "Rock Head"
+        ],
+        "category": [
+            "Bone Keeper",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hitmonlee",
+        "price": 55.0,
+        "tags": [
+            "hitmonlee",
+            "Kicking",
+            "Limber"
+        ],
+        "category": [
+            "Kicking",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hitmonchan",
+        "price": 156.0,
+        "tags": [
+            "hitmonchan",
+            "Keen Eye",
+            "Punching"
+        ],
+        "category": [
+            "Pokemon",
+            "Punching"
+        ]
+    },
+    {
+        "name": "Lickitung",
+        "price": 84.0,
+        "tags": [
+            "Licking",
+            "lickitung",
+            "Oblivious"
+        ],
+        "category": [
+            "Licking",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Koffing",
+        "price": 95.0,
+        "tags": [
+            "koffing",
+            "Levitate",
+            "Poison Gas"
+        ],
+        "category": [
+            "Poison Gas",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Weezing",
+        "price": 162.0,
+        "tags": [
+            "Levitate",
+            "Poison Gas",
+            "weezing"
+        ],
+        "category": [
+            "Poison Gas",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rhyhorn",
+        "price": 182.0,
+        "tags": [
+            "rhyhorn",
+            "Rock Head",
+            "Spikes"
+        ],
+        "category": [
+            "Pokemon",
+            "Spikes"
+        ]
+    },
+    {
+        "name": "Rhydon",
+        "price": 156.0,
+        "tags": [
+            "Drill",
+            "rhydon",
+            "Rock Head"
+        ],
+        "category": [
+            "Drill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chansey",
+        "price": 126.0,
+        "tags": [
+            "chansey",
+            "Egg",
+            "Natural Cure"
+        ],
+        "category": [
+            "Egg",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tangela",
+        "price": 105.0,
+        "tags": [
+            "Chlorophyll",
+            "tangela",
+            "Vine"
+        ],
+        "category": [
+            "Pokemon",
+            "Vine"
+        ]
+    },
+    {
+        "name": "Kangaskhan",
+        "price": 25.0,
+        "tags": [
+            "Early Bird",
+            "kangaskhan",
+            "Parent"
+        ],
+        "category": [
+            "Parent",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Horsea",
+        "price": 123.0,
+        "tags": [
+            "Dragon",
+            "horsea",
+            "Swift Swim"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Seadra",
+        "price": 25.0,
+        "tags": [
+            "Dragon",
+            "Poison Point",
+            "seadra"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Goldeen",
+        "price": 95.0,
+        "tags": [
+            "goldeen",
+            "Goldfish",
+            "Swift Swim"
+        ],
+        "category": [
+            "Goldfish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Seaking",
+        "price": 156.0,
+        "tags": [
+            "Goldfish",
+            "seaking",
+            "Swift Swim"
+        ],
+        "category": [
+            "Goldfish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Staryu",
+        "price": 182.0,
+        "tags": [
+            "Natural Cure",
+            "Star Shape",
+            "staryu"
+        ],
+        "category": [
+            "Pokemon",
+            "Star Shape"
+        ]
+    },
+    {
+        "name": "Starmie",
+        "price": 185.0,
+        "tags": [
+            "Mysterious",
+            "Natural Cure",
+            "starmie"
+        ],
+        "category": [
+            "Mysterious",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mr-mime",
+        "price": 76.0,
+        "tags": [
+            "Barrier",
+            "mr-mime",
+            "Soundproof"
+        ],
+        "category": [
+            "Barrier",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Scyther",
+        "price": 156.0,
+        "tags": [
+            "Mantis",
+            "scyther",
+            "Swarm"
+        ],
+        "category": [
+            "Mantis",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jynx",
+        "price": 128.0,
+        "tags": [
+            "Human Shape",
+            "jynx",
+            "Oblivious"
+        ],
+        "category": [
+            "Human Shape",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Electabuzz",
+        "price": 48.0,
+        "tags": [
+            "electabuzz",
+            "Electric",
+            "Static"
+        ],
+        "category": [
+            "Electric",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Magmar",
+        "price": 148.0,
+        "tags": [
+            "Flame Body",
+            "magmar",
+            "Spitfire"
+        ],
+        "category": [
+            "Pokemon",
+            "Spitfire"
+        ]
+    },
+    {
+        "name": "Pinsir",
+        "price": 148.0,
+        "tags": [
+            "Hyper Cutter",
+            "pinsir",
+            "Stag Beetle"
+        ],
+        "category": [
+            "Pokemon",
+            "Stag Beetle"
+        ]
+    },
+    {
+        "name": "Tauros",
+        "price": 60.0,
+        "tags": [
+            "Intimidate",
+            "tauros",
+            "Wild Bull"
+        ],
+        "category": [
+            "Pokemon",
+            "Wild Bull"
+        ]
+    },
+    {
+        "name": "Magikarp",
+        "price": 55.0,
+        "tags": [
+            "Fish",
+            "magikarp",
+            "Swift Swim"
+        ],
+        "category": [
+            "Fish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gyarados",
+        "price": 73.0,
+        "tags": [
+            "Atrocious",
+            "gyarados",
+            "Intimidate"
+        ],
+        "category": [
+            "Atrocious",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lapras",
+        "price": 25.0,
+        "tags": [
+            "lapras",
+            "Transport",
+            "Water Absorb"
+        ],
+        "category": [
+            "Pokemon",
+            "Transport"
+        ]
+    },
+    {
+        "name": "Ditto",
+        "price": 128.0,
+        "tags": [
+            "ditto",
+            "Limber",
+            "Transform"
+        ],
+        "category": [
+            "Pokemon",
+            "Transform"
+        ]
+    },
+    {
+        "name": "Eevee",
+        "price": 128.0,
+        "tags": [
+            "eevee",
+            "Evolution",
+            "Run Away"
+        ],
+        "category": [
+            "Evolution",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vaporeon",
+        "price": 73.0,
+        "tags": [
+            "Bubble Jet",
+            "vaporeon",
+            "Water Absorb"
+        ],
+        "category": [
+            "Bubble Jet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jolteon",
+        "price": 105.0,
+        "tags": [
+            "jolteon",
+            "Lightning",
+            "Volt Absorb"
+        ],
+        "category": [
+            "Lightning",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Flareon",
+        "price": 123.0,
+        "tags": [
+            "Flame",
+            "flareon",
+            "Flash Fire"
+        ],
+        "category": [
+            "Flame",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Porygon",
+        "price": 148.0,
+        "tags": [
+            "porygon",
+            "Trace",
+            "Virtual"
+        ],
+        "category": [
+            "Pokemon",
+            "Virtual"
+        ]
+    },
+    {
+        "name": "Omanyte",
+        "price": 185.0,
+        "tags": [
+            "omanyte",
+            "Shell Armor",
+            "Spiral"
+        ],
+        "category": [
+            "Pokemon",
+            "Spiral"
+        ]
+    },
+    {
+        "name": "Omastar",
+        "price": 55.0,
+        "tags": [
+            "omastar",
+            "Shell Armor",
+            "Spiral"
+        ],
+        "category": [
+            "Pokemon",
+            "Spiral"
+        ]
+    },
+    {
+        "name": "Kabuto",
+        "price": 105.0,
+        "tags": [
+            "kabuto",
+            "Shellfish",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "Shellfish"
+        ]
+    },
+    {
+        "name": "Kabutops",
+        "price": 159.0,
+        "tags": [
+            "kabutops",
+            "Shellfish",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "Shellfish"
+        ]
+    },
+    {
+        "name": "Aerodactyl",
+        "price": 159.0,
+        "tags": [
+            "aerodactyl",
+            "Fossil",
+            "Rock Head"
+        ],
+        "category": [
+            "Fossil",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Snorlax",
+        "price": 130.0,
+        "tags": [
+            "Sleeping",
+            "snorlax",
+            "Thick Fat"
+        ],
+        "category": [
+            "Pokemon",
+            "Sleeping"
+        ]
+    },
+    {
+        "name": "Articuno",
+        "price": 73.0,
+        "tags": [
+            "articuno",
+            "Freeze",
+            "Pressure"
+        ],
+        "category": [
+            "Freeze",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zapdos",
+        "price": 148.0,
+        "tags": [
+            "Electric",
+            "Pressure",
+            "zapdos"
+        ],
+        "category": [
+            "Electric",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Moltres",
+        "price": 25.0,
+        "tags": [
+            "Flame",
+            "moltres",
+            "Pressure"
+        ],
+        "category": [
+            "Flame",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dratini",
+        "price": 165.0,
+        "tags": [
+            "Dragon",
+            "dratini",
+            "Shed Skin"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dragonair",
+        "price": 130.0,
+        "tags": [
+            "Dragon",
+            "dragonair",
+            "Shed Skin"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dragonite",
+        "price": 73.0,
+        "tags": [
+            "Dragon",
+            "dragonite",
+            "Inner Focus"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mewtwo",
+        "price": 73.0,
+        "tags": [
+            "Genetic",
+            "mewtwo",
+            "Pressure"
+        ],
+        "category": [
+            "Genetic",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mew",
+        "price": 128.0,
+        "tags": [
+            "mew",
+            "New Species",
+            "Synchronize"
+        ],
+        "category": [
+            "New Species",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chikorita",
+        "price": 87.0,
+        "tags": [
+            "chikorita",
+            "Leaf",
+            "Overgrow"
+        ],
+        "category": [
+            "Leaf",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bayleef",
+        "price": 148.0,
+        "tags": [
+            "bayleef",
+            "Leaf",
+            "Overgrow"
+        ],
+        "category": [
+            "Leaf",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Meganium",
+        "price": 133.0,
+        "tags": [
+            "Herb",
+            "meganium",
+            "Overgrow"
+        ],
+        "category": [
+            "Herb",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cyndaquil",
+        "price": 76.0,
+        "tags": [
+            "Blaze",
+            "cyndaquil",
+            "Fire Mouse"
+        ],
+        "category": [
+            "Fire Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Quilava",
+        "price": 95.0,
+        "tags": [
+            "Blaze",
+            "quilava",
+            "Volcano"
+        ],
+        "category": [
+            "Pokemon",
+            "Volcano"
+        ]
+    },
+    {
+        "name": "Typhlosion",
+        "price": 123.0,
+        "tags": [
+            "Blaze",
+            "typhlosion",
+            "Volcano"
+        ],
+        "category": [
+            "Pokemon",
+            "Volcano"
+        ]
+    },
+    {
+        "name": "Totodile",
+        "price": 105.0,
+        "tags": [
+            "Big Jaw",
+            "Torrent",
+            "totodile"
+        ],
+        "category": [
+            "Big Jaw",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Croconaw",
+        "price": 48.0,
+        "tags": [
+            "Big Jaw",
+            "croconaw",
+            "Torrent"
+        ],
+        "category": [
+            "Big Jaw",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Feraligatr",
+        "price": 105.0,
+        "tags": [
+            "Big Jaw",
+            "feraligatr",
+            "Torrent"
+        ],
+        "category": [
+            "Big Jaw",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sentret",
+        "price": 148.0,
+        "tags": [
+            "Keen Eye",
+            "Scout",
+            "sentret"
+        ],
+        "category": [
+            "Pokemon",
+            "Scout"
+        ]
+    },
+    {
+        "name": "Furret",
+        "price": 105.0,
+        "tags": [
+            "furret",
+            "Keen Eye",
+            "Long Body"
+        ],
+        "category": [
+            "Long Body",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hoothoot",
+        "price": 165.0,
+        "tags": [
+            "hoothoot",
+            "Keen Eye",
+            "Owl"
+        ],
+        "category": [
+            "Owl",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Noctowl",
+        "price": 76.0,
+        "tags": [
+            "Keen Eye",
+            "noctowl",
+            "Owl"
+        ],
+        "category": [
+            "Owl",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ledyba",
+        "price": 165.0,
+        "tags": [
+            "Five Star",
+            "ledyba",
+            "Swarm"
+        ],
+        "category": [
+            "Five Star",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ledian",
+        "price": 73.0,
+        "tags": [
+            "Five Star",
+            "ledian",
+            "Swarm"
+        ],
+        "category": [
+            "Five Star",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spinarak",
+        "price": 76.0,
+        "tags": [
+            "spinarak",
+            "String Spit",
+            "Swarm"
+        ],
+        "category": [
+            "Pokemon",
+            "String Spit"
+        ]
+    },
+    {
+        "name": "Ariados",
+        "price": 55.0,
+        "tags": [
+            "ariados",
+            "Long Leg",
+            "Swarm"
+        ],
+        "category": [
+            "Long Leg",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Crobat",
+        "price": 25.0,
+        "tags": [
+            "Bat",
+            "crobat",
+            "Inner Focus"
+        ],
+        "category": [
+            "Bat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chinchou",
+        "price": 73.0,
+        "tags": [
+            "Angler",
+            "chinchou",
+            "Illuminate"
+        ],
+        "category": [
+            "Angler",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lanturn",
+        "price": 55.0,
+        "tags": [
+            "Illuminate",
+            "lanturn",
+            "Light"
+        ],
+        "category": [
+            "Light",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pichu",
+        "price": 168.0,
+        "tags": [
+            "pichu",
+            "Static",
+            "Tiny Mouse"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Mouse"
+        ]
+    },
+    {
+        "name": "Cleffa",
+        "price": 165.0,
+        "tags": [
+            "cleffa",
+            "Cute Charm",
+            "Star Shape"
+        ],
+        "category": [
+            "Pokemon",
+            "Star Shape"
+        ]
+    },
+    {
+        "name": "Igglybuff",
+        "price": 148.0,
+        "tags": [
+            "Balloon",
+            "Cute Charm",
+            "igglybuff"
+        ],
+        "category": [
+            "Balloon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Togepi",
+        "price": 130.0,
+        "tags": [
+            "Serene Grace",
+            "Spike Ball",
+            "togepi"
+        ],
+        "category": [
+            "Pokemon",
+            "Spike Ball"
+        ]
+    },
+    {
+        "name": "Togetic",
+        "price": 48.0,
+        "tags": [
+            "Happiness",
+            "Serene Grace",
+            "togetic"
+        ],
+        "category": [
+            "Happiness",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Natu",
+        "price": 148.0,
+        "tags": [
+            "natu",
+            "Synchronize",
+            "Tiny Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Bird"
+        ]
+    },
+    {
+        "name": "Xatu",
+        "price": 148.0,
+        "tags": [
+            "Mystic",
+            "Synchronize",
+            "xatu"
+        ],
+        "category": [
+            "Mystic",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mareep",
+        "price": 123.0,
+        "tags": [
+            "mareep",
+            "Static",
+            "Wool"
+        ],
+        "category": [
+            "Pokemon",
+            "Wool"
+        ]
+    },
+    {
+        "name": "Flaaffy",
+        "price": 123.0,
+        "tags": [
+            "flaaffy",
+            "Static",
+            "Wool"
+        ],
+        "category": [
+            "Pokemon",
+            "Wool"
+        ]
+    },
+    {
+        "name": "Ampharos",
+        "price": 60.0,
+        "tags": [
+            "ampharos",
+            "Light",
+            "Static"
+        ],
+        "category": [
+            "Light",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bellossom",
+        "price": 48.0,
+        "tags": [
+            "bellossom",
+            "Chlorophyll",
+            "Flower"
+        ],
+        "category": [
+            "Flower",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Marill",
+        "price": 168.0,
+        "tags": [
+            "Aqua Mouse",
+            "marill",
+            "Thick Fat"
+        ],
+        "category": [
+            "Aqua Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Azumarill",
+        "price": 60.0,
+        "tags": [
+            "Aqua Rabbit",
+            "azumarill",
+            "Thick Fat"
+        ],
+        "category": [
+            "Aqua Rabbit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sudowoodo",
+        "price": 162.0,
+        "tags": [
+            "Imitation",
+            "Rock Head",
+            "sudowoodo"
+        ],
+        "category": [
+            "Imitation",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Politoed",
+        "price": 168.0,
+        "tags": [
+            "Damp",
+            "Frog",
+            "politoed"
+        ],
+        "category": [
+            "Frog",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hoppip",
+        "price": 76.0,
+        "tags": [
+            "Chlorophyll",
+            "Cottonweed",
+            "hoppip"
+        ],
+        "category": [
+            "Cottonweed",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skiploom",
+        "price": 168.0,
+        "tags": [
+            "Chlorophyll",
+            "Cottonweed",
+            "skiploom"
+        ],
+        "category": [
+            "Cottonweed",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jumpluff",
+        "price": 162.0,
+        "tags": [
+            "Chlorophyll",
+            "Cottonweed",
+            "jumpluff"
+        ],
+        "category": [
+            "Cottonweed",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Aipom",
+        "price": 165.0,
+        "tags": [
+            "aipom",
+            "Long Tail",
+            "Run Away"
+        ],
+        "category": [
+            "Long Tail",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sunkern",
+        "price": 87.0,
+        "tags": [
+            "Chlorophyll",
+            "Seed",
+            "sunkern"
+        ],
+        "category": [
+            "Pokemon",
+            "Seed"
+        ]
+    },
+    {
+        "name": "Sunflora",
+        "price": 87.0,
+        "tags": [
+            "Chlorophyll",
+            "sun",
+            "sunflora"
+        ],
+        "category": [
+            "Pokemon",
+            "Sun"
+        ]
+    },
+    {
+        "name": "Yanma",
+        "price": 156.0,
+        "tags": [
+            "Clear Wing",
+            "Compound Eyes",
+            "yanma"
+        ],
+        "category": [
+            "Clear Wing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wooper",
+        "price": 168.0,
+        "tags": [
+            "Damp",
+            "Water Fish",
+            "wooper"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Fish"
+        ]
+    },
+    {
+        "name": "Quagsire",
+        "price": 128.0,
+        "tags": [
+            "Damp",
+            "quagsire",
+            "Water Fish"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Fish"
+        ]
+    },
+    {
+        "name": "Espeon",
+        "price": 33.0,
+        "tags": [
+            "espeon",
+            "sun",
+            "Synchronize"
+        ],
+        "category": [
+            "Pokemon",
+            "Sun"
+        ]
+    },
+    {
+        "name": "Umbreon",
+        "price": 185.0,
+        "tags": [
+            "Moonlight",
+            "Synchronize",
+            "umbreon"
+        ],
+        "category": [
+            "Moonlight",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Murkrow",
+        "price": 159.0,
+        "tags": [
+            "Darkness",
+            "Insomnia",
+            "murkrow"
+        ],
+        "category": [
+            "Darkness",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slowking",
+        "price": 60.0,
+        "tags": [
+            "Oblivious",
+            "Royal",
+            "slowking"
+        ],
+        "category": [
+            "Pokemon",
+            "Royal"
+        ]
+    },
+    {
+        "name": "Misdreavus",
+        "price": 73.0,
+        "tags": [
+            "Levitate",
+            "misdreavus",
+            "Screech"
+        ],
+        "category": [
+            "Pokemon",
+            "Screech"
+        ]
+    },
+    {
+        "name": "Unown",
+        "price": 159.0,
+        "tags": [
+            "Levitate",
+            "Symbol",
+            "unown"
+        ],
+        "category": [
+            "Pokemon",
+            "Symbol"
+        ]
+    },
+    {
+        "name": "Wobbuffet",
+        "price": 48.0,
+        "tags": [
+            "Patient",
+            "Shadow Tag",
+            "wobbuffet"
+        ],
+        "category": [
+            "Patient",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Girafarig",
+        "price": 159.0,
+        "tags": [
+            "girafarig",
+            "Inner Focus",
+            "Long Neck"
+        ],
+        "category": [
+            "Long Neck",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gligar",
+        "price": 133.0,
+        "tags": [
+            "Fly Scorpion",
+            "gligar",
+            "Sand Veil"
+        ],
+        "category": [
+            "Fly Scorpion",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Steelix",
+        "price": 148.0,
+        "tags": [
+            "Iron Snake",
+            "Rock Head",
+            "steelix"
+        ],
+        "category": [
+            "Iron Snake",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Snubbull",
+        "price": 165.0,
+        "tags": [
+            "Fairy",
+            "Run Away",
+            "snubbull"
+        ],
+        "category": [
+            "Fairy",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Granbull",
+        "price": 156.0,
+        "tags": [
+            "Fairy",
+            "granbull",
+            "Intimidate"
+        ],
+        "category": [
+            "Fairy",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Qwilfish",
+        "price": 73.0,
+        "tags": [
+            "Balloon",
+            "Poison Point",
+            "qwilfish"
+        ],
+        "category": [
+            "Balloon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Scizor",
+        "price": 76.0,
+        "tags": [
+            "Pincer",
+            "scizor",
+            "Swarm"
+        ],
+        "category": [
+            "Pincer",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shuckle",
+        "price": 156.0,
+        "tags": [
+            "Mold",
+            "shuckle",
+            "Sturdy"
+        ],
+        "category": [
+            "Mold",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Heracross",
+        "price": 182.0,
+        "tags": [
+            "heracross",
+            "Single Horn",
+            "Swarm"
+        ],
+        "category": [
+            "Pokemon",
+            "Single Horn"
+        ]
+    },
+    {
+        "name": "Sneasel",
+        "price": 162.0,
+        "tags": [
+            "Keen Eye",
+            "Sharp Claw",
+            "sneasel"
+        ],
+        "category": [
+            "Pokemon",
+            "Sharp Claw"
+        ]
+    },
+    {
+        "name": "Teddiursa",
+        "price": 165.0,
+        "tags": [
+            "Little Bear",
+            "Pickup",
+            "teddiursa"
+        ],
+        "category": [
+            "Little Bear",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ursaring",
+        "price": 133.0,
+        "tags": [
+            "Guts",
+            "Hibernator",
+            "ursaring"
+        ],
+        "category": [
+            "Hibernator",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Magcargo",
+        "price": 165.0,
+        "tags": [
+            "Flame Body",
+            "Lava",
+            "magcargo"
+        ],
+        "category": [
+            "Lava",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Swinub",
+        "price": 165.0,
+        "tags": [
+            "Oblivious",
+            "Pig",
+            "swinub"
+        ],
+        "category": [
+            "Pig",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Piloswine",
+        "price": 87.0,
+        "tags": [
+            "Oblivious",
+            "piloswine",
+            "Swine"
+        ],
+        "category": [
+            "Pokemon",
+            "Swine"
+        ]
+    },
+    {
+        "name": "Corsola",
+        "price": 105.0,
+        "tags": [
+            "Coral",
+            "corsola",
+            "Natural Cure"
+        ],
+        "category": [
+            "Coral",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Remoraid",
+        "price": 156.0,
+        "tags": [
+            "Jet",
+            "remoraid",
+            "Sniper"
+        ],
+        "category": [
+            "Jet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Octillery",
+        "price": 162.0,
+        "tags": [
+            "Jet",
+            "octillery",
+            "Sniper"
+        ],
+        "category": [
+            "Jet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Delibird",
+        "price": 168.0,
+        "tags": [
+            "delibird",
+            "Delivery",
+            "Vital Spirit"
+        ],
+        "category": [
+            "Delivery",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mantine",
+        "price": 148.0,
+        "tags": [
+            "Kite",
+            "mantine",
+            "Water Absorb"
+        ],
+        "category": [
+            "Kite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skarmory",
+        "price": 84.0,
+        "tags": [
+            "Armor Bird",
+            "Keen Eye",
+            "skarmory"
+        ],
+        "category": [
+            "Armor Bird",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Houndour",
+        "price": 128.0,
+        "tags": [
+            "Dark",
+            "Flash Fire",
+            "houndour"
+        ],
+        "category": [
+            "Dark",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Houndoom",
+        "price": 165.0,
+        "tags": [
+            "Dark",
+            "Flash Fire",
+            "houndoom"
+        ],
+        "category": [
+            "Dark",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kingdra",
+        "price": 123.0,
+        "tags": [
+            "Dragon",
+            "kingdra",
+            "Swift Swim"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Phanpy",
+        "price": 156.0,
+        "tags": [
+            "Long Nose",
+            "phanpy",
+            "Pickup"
+        ],
+        "category": [
+            "Long Nose",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Donphan",
+        "price": 162.0,
+        "tags": [
+            "Armor",
+            "donphan",
+            "Sturdy"
+        ],
+        "category": [
+            "Armor",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Porygon2",
+        "price": 60.0,
+        "tags": [
+            "porygon2",
+            "Trace",
+            "Virtual"
+        ],
+        "category": [
+            "Pokemon",
+            "Virtual"
+        ]
+    },
+    {
+        "name": "Stantler",
+        "price": 133.0,
+        "tags": [
+            "Big Horn",
+            "Intimidate",
+            "stantler"
+        ],
+        "category": [
+            "Big Horn",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Smeargle",
+        "price": 60.0,
+        "tags": [
+            "Painter",
+            "smeargle",
+            "Technician"
+        ],
+        "category": [
+            "Painter",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tyrogue",
+        "price": 148.0,
+        "tags": [
+            "Guts",
+            "Scuffle",
+            "tyrogue"
+        ],
+        "category": [
+            "Pokemon",
+            "Scuffle"
+        ]
+    },
+    {
+        "name": "Hitmontop",
+        "price": 168.0,
+        "tags": [
+            "Handstand",
+            "hitmontop",
+            "Intimidate"
+        ],
+        "category": [
+            "Handstand",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Smoochum",
+        "price": 105.0,
+        "tags": [
+            "Kiss",
+            "Oblivious",
+            "smoochum"
+        ],
+        "category": [
+            "Kiss",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Elekid",
+        "price": 130.0,
+        "tags": [
+            "Electric",
+            "elekid",
+            "Static"
+        ],
+        "category": [
+            "Electric",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Magby",
+        "price": 95.0,
+        "tags": [
+            "Flame Body",
+            "Live Coal",
+            "magby"
+        ],
+        "category": [
+            "Live Coal",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Miltank",
+        "price": 159.0,
+        "tags": [
+            "Milk Cow",
+            "miltank",
+            "Thick Fat"
+        ],
+        "category": [
+            "Milk Cow",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Blissey",
+        "price": 25.0,
+        "tags": [
+            "blissey",
+            "Happiness",
+            "Natural Cure"
+        ],
+        "category": [
+            "Happiness",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Raikou",
+        "price": 159.0,
+        "tags": [
+            "Pressure",
+            "raikou",
+            "Thunder"
+        ],
+        "category": [
+            "Pokemon",
+            "Thunder"
+        ]
+    },
+    {
+        "name": "Entei",
+        "price": 60.0,
+        "tags": [
+            "entei",
+            "Pressure",
+            "Volcano"
+        ],
+        "category": [
+            "Pokemon",
+            "Volcano"
+        ]
+    },
+    {
+        "name": "Suicune",
+        "price": 162.0,
+        "tags": [
+            "Aurora",
+            "Pressure",
+            "suicune"
+        ],
+        "category": [
+            "Aurora",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Larvitar",
+        "price": 84.0,
+        "tags": [
+            "Guts",
+            "larvitar",
+            "Rock Skin"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock Skin"
+        ]
+    },
+    {
+        "name": "Pupitar",
+        "price": 95.0,
+        "tags": [
+            "Hard Shell",
+            "pupitar",
+            "Shed Skin"
+        ],
+        "category": [
+            "Hard Shell",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tyranitar",
+        "price": 185.0,
+        "tags": [
+            "Armor",
+            "Sand Stream",
+            "tyranitar"
+        ],
+        "category": [
+            "Armor",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lugia",
+        "price": 148.0,
+        "tags": [
+            "Diving",
+            "lugia",
+            "Pressure"
+        ],
+        "category": [
+            "Diving",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ho-oh",
+        "price": 148.0,
+        "tags": [
+            "ho-oh",
+            "Pressure",
+            "Rainbow"
+        ],
+        "category": [
+            "Pokemon",
+            "Rainbow"
+        ]
+    },
+    {
+        "name": "Celebi",
+        "price": 123.0,
+        "tags": [
+            "celebi",
+            "Natural Cure",
+            "Time Travel"
+        ],
+        "category": [
+            "Pokemon",
+            "Time Travel"
+        ]
+    },
+    {
+        "name": "Treecko",
+        "price": 87.0,
+        "tags": [
+            "Overgrow",
+            "treecko",
+            "Wood Gecko"
+        ],
+        "category": [
+            "Pokemon",
+            "Wood Gecko"
+        ]
+    },
+    {
+        "name": "Grovyle",
+        "price": 159.0,
+        "tags": [
+            "grovyle",
+            "Overgrow",
+            "Wood Gecko"
+        ],
+        "category": [
+            "Pokemon",
+            "Wood Gecko"
+        ]
+    },
+    {
+        "name": "Sceptile",
+        "price": 168.0,
+        "tags": [
+            "Forest",
+            "Overgrow",
+            "sceptile"
+        ],
+        "category": [
+            "Forest",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Torchic",
+        "price": 60.0,
+        "tags": [
+            "Blaze",
+            "Chick",
+            "torchic"
+        ],
+        "category": [
+            "Chick",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Combusken",
+        "price": 84.0,
+        "tags": [
+            "Blaze",
+            "combusken",
+            "Young Fowl"
+        ],
+        "category": [
+            "Pokemon",
+            "Young Fowl"
+        ]
+    },
+    {
+        "name": "Blaziken",
+        "price": 25.0,
+        "tags": [
+            "Blaze",
+            "blaziken"
+        ],
+        "category": [
+            "Blaze",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mudkip",
+        "price": 76.0,
+        "tags": [
+            "Mud Fish",
+            "mudkip",
+            "Torrent"
+        ],
+        "category": [
+            "Mud Fish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Marshtomp",
+        "price": 159.0,
+        "tags": [
+            "marshtomp",
+            "Mud Fish",
+            "Torrent"
+        ],
+        "category": [
+            "Mud Fish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Swampert",
+        "price": 133.0,
+        "tags": [
+            "Mud Fish",
+            "swampert",
+            "Torrent"
+        ],
+        "category": [
+            "Mud Fish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Poochyena",
+        "price": 148.0,
+        "tags": [
+            "Bite",
+            "poochyena",
+            "Run Away"
+        ],
+        "category": [
+            "Bite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mightyena",
+        "price": 133.0,
+        "tags": [
+            "Bite",
+            "Intimidate",
+            "mightyena"
+        ],
+        "category": [
+            "Bite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zigzagoon",
+        "price": 133.0,
+        "tags": [
+            "Pickup",
+            "Tiny Raccoon",
+            "zigzagoon"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Raccoon"
+        ]
+    },
+    {
+        "name": "Linoone",
+        "price": 55.0,
+        "tags": [
+            "linoone",
+            "Pickup",
+            "Rushing"
+        ],
+        "category": [
+            "Pokemon",
+            "Rushing"
+        ]
+    },
+    {
+        "name": "Wurmple",
+        "price": 95.0,
+        "tags": [
+            "Shield Dust",
+            "Worm",
+            "wurmple"
+        ],
+        "category": [
+            "Pokemon",
+            "Worm"
+        ]
+    },
+    {
+        "name": "Silcoon",
+        "price": 55.0,
+        "tags": [
+            "Cocoon",
+            "Shed Skin",
+            "silcoon"
+        ],
+        "category": [
+            "Cocoon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Beautifly",
+        "price": 73.0,
+        "tags": [
+            "beautifly",
+            "Butterfly",
+            "Swarm"
+        ],
+        "category": [
+            "Butterfly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cascoon",
+        "price": 128.0,
+        "tags": [
+            "cascoon",
+            "Cocoon",
+            "Shed Skin"
+        ],
+        "category": [
+            "Cocoon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dustox",
+        "price": 168.0,
+        "tags": [
+            "dustox",
+            "Poison Moth",
+            "Shield Dust"
+        ],
+        "category": [
+            "Poison Moth",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lotad",
+        "price": 48.0,
+        "tags": [
+            "lotad",
+            "Swift Swim",
+            "Water Weed"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Weed"
+        ]
+    },
+    {
+        "name": "Lombre",
+        "price": 148.0,
+        "tags": [
+            "Jolly",
+            "lombre",
+            "Swift Swim"
+        ],
+        "category": [
+            "Jolly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ludicolo",
+        "price": 182.0,
+        "tags": [
+            "Carefree",
+            "ludicolo",
+            "Swift Swim"
+        ],
+        "category": [
+            "Carefree",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Seedot",
+        "price": 95.0,
+        "tags": [
+            "Acorn",
+            "Chlorophyll",
+            "seedot"
+        ],
+        "category": [
+            "Acorn",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nuzleaf",
+        "price": 162.0,
+        "tags": [
+            "Chlorophyll",
+            "nuzleaf",
+            "Wily"
+        ],
+        "category": [
+            "Pokemon",
+            "Wily"
+        ]
+    },
+    {
+        "name": "Shiftry",
+        "price": 159.0,
+        "tags": [
+            "Chlorophyll",
+            "shiftry",
+            "Wicked"
+        ],
+        "category": [
+            "Pokemon",
+            "Wicked"
+        ]
+    },
+    {
+        "name": "Taillow",
+        "price": 55.0,
+        "tags": [
+            "Guts",
+            "taillow",
+            "Tiny Swallow"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Swallow"
+        ]
+    },
+    {
+        "name": "Swellow",
+        "price": 84.0,
+        "tags": [
+            "Guts",
+            "Swallow",
+            "swellow"
+        ],
+        "category": [
+            "Pokemon",
+            "Swallow"
+        ]
+    },
+    {
+        "name": "Wingull",
+        "price": 133.0,
+        "tags": [
+            "Keen Eye",
+            "Seagull",
+            "wingull"
+        ],
+        "category": [
+            "Pokemon",
+            "Seagull"
+        ]
+    },
+    {
+        "name": "Pelipper",
+        "price": 159.0,
+        "tags": [
+            "Keen Eye",
+            "pelipper",
+            "Water Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Bird"
+        ]
+    },
+    {
+        "name": "Ralts",
+        "price": 168.0,
+        "tags": [
+            "Feeling",
+            "ralts",
+            "Synchronize"
+        ],
+        "category": [
+            "Feeling",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kirlia",
+        "price": 73.0,
+        "tags": [
+            "Emotion",
+            "kirlia",
+            "Synchronize"
+        ],
+        "category": [
+            "Emotion",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gardevoir",
+        "price": 84.0,
+        "tags": [
+            "Embrace",
+            "gardevoir",
+            "Synchronize"
+        ],
+        "category": [
+            "Embrace",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Surskit",
+        "price": 130.0,
+        "tags": [
+            "Pond Skater",
+            "surskit",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "Pond Skater"
+        ]
+    },
+    {
+        "name": "Masquerain",
+        "price": 55.0,
+        "tags": [
+            "Eyeball",
+            "Intimidate",
+            "masquerain"
+        ],
+        "category": [
+            "Eyeball",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shroomish",
+        "price": 95.0,
+        "tags": [
+            "Effect Spore",
+            "Mushroom",
+            "shroomish"
+        ],
+        "category": [
+            "Mushroom",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Breloom",
+        "price": 95.0,
+        "tags": [
+            "breloom",
+            "Effect Spore",
+            "Mushroom"
+        ],
+        "category": [
+            "Mushroom",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slakoth",
+        "price": 182.0,
+        "tags": [
+            "Slacker",
+            "slakoth",
+            "Truant"
+        ],
+        "category": [
+            "Pokemon",
+            "Slacker"
+        ]
+    },
+    {
+        "name": "Vigoroth",
+        "price": 148.0,
+        "tags": [
+            "vigoroth",
+            "Vital Spirit",
+            "Wild Monkey"
+        ],
+        "category": [
+            "Pokemon",
+            "Wild Monkey"
+        ]
+    },
+    {
+        "name": "Slaking",
+        "price": 168.0,
+        "tags": [
+            "Lazy",
+            "slaking",
+            "Truant"
+        ],
+        "category": [
+            "Lazy",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nincada",
+        "price": 60.0,
+        "tags": [
+            "Compound Eyes",
+            "nincada",
+            "Trainee"
+        ],
+        "category": [
+            "Pokemon",
+            "Trainee"
+        ]
+    },
+    {
+        "name": "Ninjask",
+        "price": 156.0,
+        "tags": [
+            "Ninja",
+            "ninjask",
+            "Speed Boost"
+        ],
+        "category": [
+            "Ninja",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shedinja",
+        "price": 148.0,
+        "tags": [
+            "Shed",
+            "shedinja",
+            "Wonder Guard"
+        ],
+        "category": [
+            "Pokemon",
+            "Shed"
+        ]
+    },
+    {
+        "name": "Whismur",
+        "price": 87.0,
+        "tags": [
+            "Soundproof",
+            "whismur",
+            "Whisper"
+        ],
+        "category": [
+            "Pokemon",
+            "Whisper"
+        ]
+    },
+    {
+        "name": "Loudred",
+        "price": 162.0,
+        "tags": [
+            "Big Voice",
+            "loudred",
+            "Soundproof"
+        ],
+        "category": [
+            "Big Voice",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Exploud",
+        "price": 48.0,
+        "tags": [
+            "exploud",
+            "Loud Noise",
+            "Soundproof"
+        ],
+        "category": [
+            "Loud Noise",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Makuhita",
+        "price": 185.0,
+        "tags": [
+            "Guts",
+            "makuhita"
+        ],
+        "category": [
+            "Guts",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hariyama",
+        "price": 25.0,
+        "tags": [
+            "Arm Thrust",
+            "Guts",
+            "hariyama"
+        ],
+        "category": [
+            "Arm Thrust",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Azurill",
+        "price": 87.0,
+        "tags": [
+            "azurill",
+            "Polka Dot",
+            "Thick Fat"
+        ],
+        "category": [
+            "Pokemon",
+            "Polka Dot"
+        ]
+    },
+    {
+        "name": "Nosepass",
+        "price": 130.0,
+        "tags": [
+            "Compass",
+            "nosepass",
+            "Sturdy"
+        ],
+        "category": [
+            "Compass",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skitty",
+        "price": 25.0,
+        "tags": [
+            "Cute Charm",
+            "Kitten",
+            "skitty"
+        ],
+        "category": [
+            "Kitten",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Delcatty",
+        "price": 130.0,
+        "tags": [
+            "Cute Charm",
+            "delcatty",
+            "Prim"
+        ],
+        "category": [
+            "Pokemon",
+            "Prim"
+        ]
+    },
+    {
+        "name": "Sableye",
+        "price": 156.0,
+        "tags": [
+            "Darkness",
+            "Keen Eye",
+            "sableye"
+        ],
+        "category": [
+            "Darkness",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mawile",
+        "price": 130.0,
+        "tags": [
+            "Deceiver",
+            "Intimidate",
+            "mawile"
+        ],
+        "category": [
+            "Deceiver",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Aron",
+        "price": 130.0,
+        "tags": [
+            "aron",
+            "Iron Armor",
+            "Rock Head"
+        ],
+        "category": [
+            "Iron Armor",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lairon",
+        "price": 168.0,
+        "tags": [
+            "Iron Armor",
+            "lairon",
+            "Rock Head"
+        ],
+        "category": [
+            "Iron Armor",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Aggron",
+        "price": 123.0,
+        "tags": [
+            "aggron",
+            "Iron Armor",
+            "Rock Head"
+        ],
+        "category": [
+            "Iron Armor",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Meditite",
+        "price": 84.0,
+        "tags": [
+            "Meditate",
+            "meditite",
+            "Pure Power"
+        ],
+        "category": [
+            "Meditate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Medicham",
+        "price": 60.0,
+        "tags": [
+            "medicham",
+            "Meditate",
+            "Pure Power"
+        ],
+        "category": [
+            "Meditate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Electrike",
+        "price": 60.0,
+        "tags": [
+            "electrike",
+            "Lightning",
+            "Static"
+        ],
+        "category": [
+            "Lightning",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Manectric",
+        "price": 165.0,
+        "tags": [
+            "Discharge",
+            "manectric",
+            "Static"
+        ],
+        "category": [
+            "Discharge",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Plusle",
+        "price": 95.0,
+        "tags": [
+            "Cheering",
+            "Plus",
+            "plusle"
+        ],
+        "category": [
+            "Cheering",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Minun",
+        "price": 123.0,
+        "tags": [
+            "Cheering",
+            "minun",
+            "Minus"
+        ],
+        "category": [
+            "Cheering",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Volbeat",
+        "price": 87.0,
+        "tags": [
+            "Firefly",
+            "Swarm",
+            "volbeat"
+        ],
+        "category": [
+            "Firefly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Illumise",
+        "price": 165.0,
+        "tags": [
+            "Firefly",
+            "illumise",
+            "Tinted Lens"
+        ],
+        "category": [
+            "Firefly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Roselia",
+        "price": 95.0,
+        "tags": [
+            "Poison Point",
+            "roselia",
+            "Thorn"
+        ],
+        "category": [
+            "Pokemon",
+            "Thorn"
+        ]
+    },
+    {
+        "name": "Gulpin",
+        "price": 123.0,
+        "tags": [
+            "gulpin",
+            "Liquid Ooze",
+            "Stomach"
+        ],
+        "category": [
+            "Pokemon",
+            "Stomach"
+        ]
+    },
+    {
+        "name": "Swalot",
+        "price": 48.0,
+        "tags": [
+            "Liquid Ooze",
+            "Poison Bag",
+            "swalot"
+        ],
+        "category": [
+            "Poison Bag",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Carvanha",
+        "price": 60.0,
+        "tags": [
+            "carvanha",
+            "Rough Skin",
+            "Savage"
+        ],
+        "category": [
+            "Pokemon",
+            "Savage"
+        ]
+    },
+    {
+        "name": "Sharpedo",
+        "price": 25.0,
+        "tags": [
+            "Brutal",
+            "Rough Skin",
+            "sharpedo"
+        ],
+        "category": [
+            "Brutal",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wailmer",
+        "price": 73.0,
+        "tags": [
+            "Ball Whale",
+            "Oblivious",
+            "wailmer"
+        ],
+        "category": [
+            "Ball Whale",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wailord",
+        "price": 148.0,
+        "tags": [
+            "Float Whale",
+            "Oblivious",
+            "wailord"
+        ],
+        "category": [
+            "Float Whale",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Numel",
+        "price": 60.0,
+        "tags": [
+            "Numb",
+            "numel",
+            "Oblivious"
+        ],
+        "category": [
+            "Numb",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Camerupt",
+        "price": 25.0,
+        "tags": [
+            "camerupt",
+            "Eruption",
+            "Magma Armor"
+        ],
+        "category": [
+            "Eruption",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Torkoal",
+        "price": 76.0,
+        "tags": [
+            "Coal",
+            "torkoal",
+            "White Smoke"
+        ],
+        "category": [
+            "Coal",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spoink",
+        "price": 73.0,
+        "tags": [
+            "Bounce",
+            "Own Tempo",
+            "spoink"
+        ],
+        "category": [
+            "Bounce",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Grumpig",
+        "price": 105.0,
+        "tags": [
+            "grumpig",
+            "Manipulate",
+            "Own Tempo"
+        ],
+        "category": [
+            "Manipulate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spinda",
+        "price": 48.0,
+        "tags": [
+            "spinda",
+            "Spot Panda",
+            "Tangled Feet"
+        ],
+        "category": [
+            "Pokemon",
+            "Spot Panda"
+        ]
+    },
+    {
+        "name": "Trapinch",
+        "price": 87.0,
+        "tags": [
+            "Ant Pit",
+            "Arena Trap",
+            "trapinch"
+        ],
+        "category": [
+            "Ant Pit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vibrava",
+        "price": 25.0,
+        "tags": [
+            "Levitate",
+            "Vibration",
+            "vibrava"
+        ],
+        "category": [
+            "Pokemon",
+            "Vibration"
+        ]
+    },
+    {
+        "name": "Flygon",
+        "price": 123.0,
+        "tags": [
+            "flygon",
+            "Levitate",
+            "Mystic"
+        ],
+        "category": [
+            "Mystic",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cacnea",
+        "price": 95.0,
+        "tags": [
+            "cacnea",
+            "Cactus",
+            "Sand Veil"
+        ],
+        "category": [
+            "Cactus",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cacturne",
+        "price": 162.0,
+        "tags": [
+            "cacturne",
+            "Sand Veil",
+            "Scarecrow"
+        ],
+        "category": [
+            "Pokemon",
+            "Scarecrow"
+        ]
+    },
+    {
+        "name": "Swablu",
+        "price": 60.0,
+        "tags": [
+            "Cotton Bird",
+            "Natural Cure",
+            "swablu"
+        ],
+        "category": [
+            "Cotton Bird",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Altaria",
+        "price": 55.0,
+        "tags": [
+            "altaria",
+            "Humming",
+            "Natural Cure"
+        ],
+        "category": [
+            "Humming",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Seviper",
+        "price": 123.0,
+        "tags": [
+            "Fang Snake",
+            "seviper",
+            "Shed Skin"
+        ],
+        "category": [
+            "Fang Snake",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lunatone",
+        "price": 185.0,
+        "tags": [
+            "Levitate",
+            "lunatone",
+            "Meteorite"
+        ],
+        "category": [
+            "Meteorite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Solrock",
+        "price": 182.0,
+        "tags": [
+            "Levitate",
+            "Meteorite",
+            "solrock"
+        ],
+        "category": [
+            "Meteorite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Whiscash",
+        "price": 165.0,
+        "tags": [
+            "Oblivious",
+            "whiscash",
+            "Whiskers"
+        ],
+        "category": [
+            "Pokemon",
+            "Whiskers"
+        ]
+    },
+    {
+        "name": "Corphish",
+        "price": 123.0,
+        "tags": [
+            "corphish",
+            "Ruffian",
+            "Shell Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "Ruffian"
+        ]
+    },
+    {
+        "name": "Crawdaunt",
+        "price": 159.0,
+        "tags": [
+            "crawdaunt",
+            "Rogue",
+            "Shell Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "Rogue"
+        ]
+    },
+    {
+        "name": "Baltoy",
+        "price": 165.0,
+        "tags": [
+            "baltoy",
+            "Clay Doll",
+            "Levitate"
+        ],
+        "category": [
+            "Clay Doll",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Claydol",
+        "price": 105.0,
+        "tags": [
+            "Clay Doll",
+            "claydol",
+            "Levitate"
+        ],
+        "category": [
+            "Clay Doll",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lileep",
+        "price": 133.0,
+        "tags": [
+            "lileep",
+            "Sea Lily",
+            "Suction Cups"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Lily"
+        ]
+    },
+    {
+        "name": "Cradily",
+        "price": 87.0,
+        "tags": [
+            "Barnacle",
+            "cradily",
+            "Suction Cups"
+        ],
+        "category": [
+            "Barnacle",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Anorith",
+        "price": 84.0,
+        "tags": [
+            "anorith",
+            "Battle Armor",
+            "Old Shrimp"
+        ],
+        "category": [
+            "Old Shrimp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Armaldo",
+        "price": 25.0,
+        "tags": [
+            "armaldo",
+            "Battle Armor",
+            "Plate"
+        ],
+        "category": [
+            "Plate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Feebas",
+        "price": 87.0,
+        "tags": [
+            "feebas",
+            "Fish",
+            "Oblivious"
+        ],
+        "category": [
+            "Fish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Milotic",
+        "price": 156.0,
+        "tags": [
+            "Marvel Scale",
+            "milotic",
+            "Tender"
+        ],
+        "category": [
+            "Pokemon",
+            "Tender"
+        ]
+    },
+    {
+        "name": "Castform",
+        "price": 185.0,
+        "tags": [
+            "castform",
+            "Forecast",
+            "Weather"
+        ],
+        "category": [
+            "Pokemon",
+            "Weather"
+        ]
+    },
+    {
+        "name": "Kecleon",
+        "price": 159.0,
+        "tags": [
+            "Color Change",
+            "Color Swap",
+            "kecleon"
+        ],
+        "category": [
+            "Color Swap",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shuppet",
+        "price": 148.0,
+        "tags": [
+            "Insomnia",
+            "Puppet",
+            "shuppet"
+        ],
+        "category": [
+            "Pokemon",
+            "Puppet"
+        ]
+    },
+    {
+        "name": "Banette",
+        "price": 185.0,
+        "tags": [
+            "banette",
+            "Insomnia",
+            "Marionette"
+        ],
+        "category": [
+            "Marionette",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Duskull",
+        "price": 95.0,
+        "tags": [
+            "duskull",
+            "Levitate",
+            "Requiem"
+        ],
+        "category": [
+            "Pokemon",
+            "Requiem"
+        ]
+    },
+    {
+        "name": "Dusclops",
+        "price": 168.0,
+        "tags": [
+            "Beckon",
+            "dusclops",
+            "Pressure"
+        ],
+        "category": [
+            "Beckon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tropius",
+        "price": 193.0,
+        "tags": [
+            "Chlorophyll",
+            "fruit",
+            "tropius"
+        ],
+        "category": [
+            "Fruit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chimecho",
+        "price": 130.0,
+        "tags": [
+            "chimecho",
+            "Levitate",
+            "Wind Chime"
+        ],
+        "category": [
+            "Pokemon",
+            "Wind Chime"
+        ]
+    },
+    {
+        "name": "Absol",
+        "price": 55.0,
+        "tags": [
+            "absol",
+            "Disaster",
+            "Pressure"
+        ],
+        "category": [
+            "Disaster",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wynaut",
+        "price": 156.0,
+        "tags": [
+            "Bright",
+            "Shadow Tag",
+            "wynaut"
+        ],
+        "category": [
+            "Bright",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Snorunt",
+        "price": 48.0,
+        "tags": [
+            "Inner Focus",
+            "snorunt",
+            "Snow Hat"
+        ],
+        "category": [
+            "Pokemon",
+            "Snow Hat"
+        ]
+    },
+    {
+        "name": "Glalie",
+        "price": 148.0,
+        "tags": [
+            "Face",
+            "glalie",
+            "Inner Focus"
+        ],
+        "category": [
+            "Face",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spheal",
+        "price": 162.0,
+        "tags": [
+            "Clap",
+            "spheal",
+            "Thick Fat"
+        ],
+        "category": [
+            "Clap",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sealeo",
+        "price": 128.0,
+        "tags": [
+            "Ball Roll",
+            "sealeo",
+            "Thick Fat"
+        ],
+        "category": [
+            "Ball Roll",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Walrein",
+        "price": 133.0,
+        "tags": [
+            "Ice Break",
+            "Thick Fat",
+            "walrein"
+        ],
+        "category": [
+            "Ice Break",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Clamperl",
+        "price": 130.0,
+        "tags": [
+            "Bivalve",
+            "clamperl",
+            "Shell Armor"
+        ],
+        "category": [
+            "Bivalve",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Huntail",
+        "price": 159.0,
+        "tags": [
+            "Deep Sea",
+            "huntail",
+            "Swift Swim"
+        ],
+        "category": [
+            "Deep Sea",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gorebyss",
+        "price": 159.0,
+        "tags": [
+            "gorebyss",
+            "South Sea",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "South Sea"
+        ]
+    },
+    {
+        "name": "Relicanth",
+        "price": 165.0,
+        "tags": [
+            "Longevity",
+            "relicanth",
+            "Rock Head"
+        ],
+        "category": [
+            "Longevity",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Luvdisc",
+        "price": 55.0,
+        "tags": [
+            "luvdisc",
+            "Rendezvous",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "Rendezvous"
+        ]
+    },
+    {
+        "name": "Bagon",
+        "price": 128.0,
+        "tags": [
+            "bagon",
+            "Rock Head"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock Head"
+        ]
+    },
+    {
+        "name": "Shelgon",
+        "price": 185.0,
+        "tags": [
+            "Endurance",
+            "Rock Head",
+            "shelgon"
+        ],
+        "category": [
+            "Endurance",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Salamence",
+        "price": 84.0,
+        "tags": [
+            "Dragon",
+            "Intimidate",
+            "salamence"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Beldum",
+        "price": 182.0,
+        "tags": [
+            "beldum",
+            "Clear Body",
+            "Iron Ball"
+        ],
+        "category": [
+            "Iron Ball",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Metang",
+        "price": 133.0,
+        "tags": [
+            "Clear Body",
+            "Iron Claw",
+            "metang"
+        ],
+        "category": [
+            "Iron Claw",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Metagross",
+        "price": 105.0,
+        "tags": [
+            "Clear Body",
+            "Iron Leg",
+            "metagross"
+        ],
+        "category": [
+            "Iron Leg",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Regirock",
+        "price": 156.0,
+        "tags": [
+            "Clear Body",
+            "regirock",
+            "Rock Peak"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock Peak"
+        ]
+    },
+    {
+        "name": "Regice",
+        "price": 87.0,
+        "tags": [
+            "Clear Body",
+            "Iceberg",
+            "regice"
+        ],
+        "category": [
+            "Iceberg",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Registeel",
+        "price": 25.0,
+        "tags": [
+            "Clear Body",
+            "Iron",
+            "registeel"
+        ],
+        "category": [
+            "Iron",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Latias",
+        "price": 159.0,
+        "tags": [
+            "Eon",
+            "latias",
+            "Levitate"
+        ],
+        "category": [
+            "Eon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Latios",
+        "price": 182.0,
+        "tags": [
+            "Eon",
+            "latios",
+            "Levitate"
+        ],
+        "category": [
+            "Eon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kyogre",
+        "price": 105.0,
+        "tags": [
+            "Drizzle",
+            "kyogre",
+            "Sea Basin"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Basin"
+        ]
+    },
+    {
+        "name": "Groudon",
+        "price": 156.0,
+        "tags": [
+            "Continent",
+            "Drought",
+            "groudon"
+        ],
+        "category": [
+            "Continent",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rayquaza",
+        "price": 130.0,
+        "tags": [
+            "Air Lock",
+            "rayquaza",
+            "Sky High"
+        ],
+        "category": [
+            "Pokemon",
+            "Sky High"
+        ]
+    },
+    {
+        "name": "Jirachi",
+        "price": 60.0,
+        "tags": [
+            "jirachi",
+            "Serene Grace",
+            "Wish"
+        ],
+        "category": [
+            "Pokemon",
+            "Wish"
+        ]
+    },
+    {
+        "name": "Turtwig",
+        "price": 95.0,
+        "tags": [
+            "Overgrow",
+            "Tiny Leaf",
+            "turtwig"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Leaf"
+        ]
+    },
+    {
+        "name": "Grotle",
+        "price": 156.0,
+        "tags": [
+            "grotle",
+            "Grove",
+            "Overgrow"
+        ],
+        "category": [
+            "Grove",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Torterra",
+        "price": 148.0,
+        "tags": [
+            "Continent",
+            "Overgrow",
+            "torterra"
+        ],
+        "category": [
+            "Continent",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chimchar",
+        "price": 55.0,
+        "tags": [
+            "Blaze",
+            "chimchar",
+            "Chimp"
+        ],
+        "category": [
+            "Chimp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Monferno",
+        "price": 25.0,
+        "tags": [
+            "Blaze",
+            "monferno",
+            "Playful"
+        ],
+        "category": [
+            "Playful",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Infernape",
+        "price": 182.0,
+        "tags": [
+            "Blaze",
+            "Flame",
+            "infernape"
+        ],
+        "category": [
+            "Flame",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Prinplup",
+        "price": 165.0,
+        "tags": [
+            "Penguin",
+            "prinplup",
+            "Torrent"
+        ],
+        "category": [
+            "Penguin",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Empoleon",
+        "price": 123.0,
+        "tags": [
+            "Emperor",
+            "empoleon",
+            "Torrent"
+        ],
+        "category": [
+            "Emperor",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Starly",
+        "price": 165.0,
+        "tags": [
+            "Keen Eye",
+            "Starling",
+            "starly"
+        ],
+        "category": [
+            "Pokemon",
+            "Starling"
+        ]
+    },
+    {
+        "name": "Staravia",
+        "price": 87.0,
+        "tags": [
+            "Intimidate",
+            "staravia",
+            "Starling"
+        ],
+        "category": [
+            "Pokemon",
+            "Starling"
+        ]
+    },
+    {
+        "name": "Staraptor",
+        "price": 148.0,
+        "tags": [
+            "Intimidate",
+            "Predator",
+            "staraptor"
+        ],
+        "category": [
+            "Pokemon",
+            "Predator"
+        ]
+    },
+    {
+        "name": "Bidoof",
+        "price": 128.0,
+        "tags": [
+            "bidoof",
+            "Plump Mouse",
+            "Simple"
+        ],
+        "category": [
+            "Plump Mouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bibarel",
+        "price": 159.0,
+        "tags": [
+            "Beaver",
+            "bibarel",
+            "Simple"
+        ],
+        "category": [
+            "Beaver",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kricketot",
+        "price": 182.0,
+        "tags": [
+            "Cricket",
+            "kricketot",
+            "Shed Skin"
+        ],
+        "category": [
+            "Cricket",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kricketune",
+        "price": 159.0,
+        "tags": [
+            "Cricket",
+            "kricketune",
+            "Swarm"
+        ],
+        "category": [
+            "Cricket",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shinx",
+        "price": 162.0,
+        "tags": [
+            "Flash",
+            "Intimidate",
+            "shinx"
+        ],
+        "category": [
+            "Flash",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Luxio",
+        "price": 60.0,
+        "tags": [
+            "Intimidate",
+            "luxio",
+            "Spark"
+        ],
+        "category": [
+            "Pokemon",
+            "Spark"
+        ]
+    },
+    {
+        "name": "Luxray",
+        "price": 148.0,
+        "tags": [
+            "Gleam Eyes",
+            "Intimidate",
+            "luxray"
+        ],
+        "category": [
+            "Gleam Eyes",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Budew",
+        "price": 123.0,
+        "tags": [
+            "Bud",
+            "budew",
+            "Poison Point"
+        ],
+        "category": [
+            "Bud",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Roserade",
+        "price": 162.0,
+        "tags": [
+            "Bouquet",
+            "Poison Point",
+            "roserade"
+        ],
+        "category": [
+            "Bouquet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cranidos",
+        "price": 162.0,
+        "tags": [
+            "cranidos",
+            "Head Butt",
+            "Mold Breaker"
+        ],
+        "category": [
+            "Head Butt",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rampardos",
+        "price": 162.0,
+        "tags": [
+            "Head Butt",
+            "Mold Breaker",
+            "rampardos"
+        ],
+        "category": [
+            "Head Butt",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shieldon",
+        "price": 133.0,
+        "tags": [
+            "Shield",
+            "shieldon",
+            "Sturdy"
+        ],
+        "category": [
+            "Pokemon",
+            "Shield"
+        ]
+    },
+    {
+        "name": "Bastiodon",
+        "price": 55.0,
+        "tags": [
+            "bastiodon",
+            "Shield",
+            "Sturdy"
+        ],
+        "category": [
+            "Pokemon",
+            "Shield"
+        ]
+    },
+    {
+        "name": "Burmy",
+        "price": 123.0,
+        "tags": [
+            "Bagworm",
+            "burmy",
+            "Shed Skin"
+        ],
+        "category": [
+            "Bagworm",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mothim",
+        "price": 60.0,
+        "tags": [
+            "Moth",
+            "mothim",
+            "Swarm"
+        ],
+        "category": [
+            "Moth",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Combee",
+        "price": 25.0,
+        "tags": [
+            "combee",
+            "Honey Gather",
+            "Tiny Bee"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Bee"
+        ]
+    },
+    {
+        "name": "Vespiquen",
+        "price": 105.0,
+        "tags": [
+            "Beehive",
+            "Pressure",
+            "vespiquen"
+        ],
+        "category": [
+            "Beehive",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pachirisu",
+        "price": 148.0,
+        "tags": [
+            "EleSquirrel",
+            "pachirisu",
+            "Run Away"
+        ],
+        "category": [
+            "EleSquirrel",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Buizel",
+        "price": 185.0,
+        "tags": [
+            "buizel",
+            "Sea Weasel",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Weasel"
+        ]
+    },
+    {
+        "name": "Floatzel",
+        "price": 105.0,
+        "tags": [
+            "floatzel",
+            "Sea Weasel",
+            "Swift Swim"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Weasel"
+        ]
+    },
+    {
+        "name": "Cherubi",
+        "price": 60.0,
+        "tags": [
+            "Cherry",
+            "cherubi",
+            "Chlorophyll"
+        ],
+        "category": [
+            "Cherry",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cherrim",
+        "price": 130.0,
+        "tags": [
+            "Blossom",
+            "cherrim",
+            "Flower Gift"
+        ],
+        "category": [
+            "Blossom",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shellos",
+        "price": 156.0,
+        "tags": [
+            "Sea Slug",
+            "shellos",
+            "Sticky Hold"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Slug"
+        ]
+    },
+    {
+        "name": "Gastrodon",
+        "price": 73.0,
+        "tags": [
+            "gastrodon",
+            "Sea Slug",
+            "Sticky Hold"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Slug"
+        ]
+    },
+    {
+        "name": "Ambipom",
+        "price": 156.0,
+        "tags": [
+            "ambipom",
+            "Long Tail",
+            "Pickup"
+        ],
+        "category": [
+            "Long Tail",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Drifloon",
+        "price": 60.0,
+        "tags": [
+            "Aftermath",
+            "Balloon",
+            "drifloon"
+        ],
+        "category": [
+            "Balloon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Drifblim",
+        "price": 123.0,
+        "tags": [
+            "Aftermath",
+            "Blimp",
+            "drifblim"
+        ],
+        "category": [
+            "Blimp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Buneary",
+        "price": 60.0,
+        "tags": [
+            "buneary",
+            "Rabbit",
+            "Run Away"
+        ],
+        "category": [
+            "Pokemon",
+            "Rabbit"
+        ]
+    },
+    {
+        "name": "Lopunny",
+        "price": 185.0,
+        "tags": [
+            "Cute Charm",
+            "lopunny",
+            "Rabbit"
+        ],
+        "category": [
+            "Pokemon",
+            "Rabbit"
+        ]
+    },
+    {
+        "name": "Mismagius",
+        "price": 165.0,
+        "tags": [
+            "Levitate",
+            "Magical",
+            "mismagius"
+        ],
+        "category": [
+            "Magical",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Honchkrow",
+        "price": 84.0,
+        "tags": [
+            "Big Boss",
+            "honchkrow",
+            "Insomnia"
+        ],
+        "category": [
+            "Big Boss",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Glameow",
+        "price": 182.0,
+        "tags": [
+            "Catty",
+            "glameow",
+            "Limber"
+        ],
+        "category": [
+            "Catty",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Purugly",
+        "price": 48.0,
+        "tags": [
+            "Own Tempo",
+            "purugly",
+            "Tiger Cat"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiger Cat"
+        ]
+    },
+    {
+        "name": "Stunky",
+        "price": 128.0,
+        "tags": [
+            "Skunk",
+            "Stench",
+            "stunky"
+        ],
+        "category": [
+            "Pokemon",
+            "Skunk"
+        ]
+    },
+    {
+        "name": "Skuntank",
+        "price": 25.0,
+        "tags": [
+            "Skunk",
+            "skuntank",
+            "Stench"
+        ],
+        "category": [
+            "Pokemon",
+            "Skunk"
+        ]
+    },
+    {
+        "name": "Bronzong",
+        "price": 84.0,
+        "tags": [
+            "Bronze Bell",
+            "bronzong",
+            "Levitate"
+        ],
+        "category": [
+            "Bronze Bell",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bonsly",
+        "price": 76.0,
+        "tags": [
+            "Bonsai",
+            "bonsly",
+            "Rock Head"
+        ],
+        "category": [
+            "Bonsai",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mime-jr",
+        "price": 60.0,
+        "tags": [
+            "Mime",
+            "mime-jr",
+            "Soundproof"
+        ],
+        "category": [
+            "Mime",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Happiny",
+        "price": 165.0,
+        "tags": [
+            "happiny",
+            "Natural Cure",
+            "Playhouse"
+        ],
+        "category": [
+            "Playhouse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chatot",
+        "price": 76.0,
+        "tags": [
+            "chatot",
+            "Keen Eye",
+            "Music Note"
+        ],
+        "category": [
+            "Music Note",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spiritomb",
+        "price": 123.0,
+        "tags": [
+            "Forbidden",
+            "Pressure",
+            "spiritomb"
+        ],
+        "category": [
+            "Forbidden",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gible",
+        "price": 162.0,
+        "tags": [
+            "gible",
+            "Land Shark",
+            "Sand Veil"
+        ],
+        "category": [
+            "Land Shark",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gabite",
+        "price": 148.0,
+        "tags": [
+            "Cave",
+            "gabite",
+            "Sand Veil"
+        ],
+        "category": [
+            "Cave",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Garchomp",
+        "price": 162.0,
+        "tags": [
+            "garchomp",
+            "Mach",
+            "Sand Veil"
+        ],
+        "category": [
+            "Mach",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Munchlax",
+        "price": 76.0,
+        "tags": [
+            "Big Eater",
+            "munchlax",
+            "Pickup"
+        ],
+        "category": [
+            "Big Eater",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Riolu",
+        "price": 123.0,
+        "tags": [
+            "Emanation",
+            "Inner Focus",
+            "riolu"
+        ],
+        "category": [
+            "Emanation",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lucario",
+        "price": 133.0,
+        "tags": [
+            "Aura",
+            "Inner Focus",
+            "lucario"
+        ],
+        "category": [
+            "Aura",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hippopotas",
+        "price": 25.0,
+        "tags": [
+            "Hippo",
+            "hippopotas",
+            "Sand Stream"
+        ],
+        "category": [
+            "Hippo",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hippowdon",
+        "price": 156.0,
+        "tags": [
+            "Heavyweight",
+            "hippowdon",
+            "Sand Stream"
+        ],
+        "category": [
+            "Heavyweight",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skorupi",
+        "price": 156.0,
+        "tags": [
+            "Scorpion",
+            "skorupi",
+            "Sniper"
+        ],
+        "category": [
+            "Pokemon",
+            "Scorpion"
+        ]
+    },
+    {
+        "name": "Drapion",
+        "price": 165.0,
+        "tags": [
+            "drapion",
+            "Ogre Scorpion",
+            "Sniper"
+        ],
+        "category": [
+            "Ogre Scorpion",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Croagunk",
+        "price": 25.0,
+        "tags": [
+            "croagunk",
+            "Dry Skin",
+            "Toxic Mouth"
+        ],
+        "category": [
+            "Pokemon",
+            "Toxic Mouth"
+        ]
+    },
+    {
+        "name": "Toxicroak",
+        "price": 123.0,
+        "tags": [
+            "Dry Skin",
+            "Toxic Mouth",
+            "toxicroak"
+        ],
+        "category": [
+            "Pokemon",
+            "Toxic Mouth"
+        ]
+    },
+    {
+        "name": "Carnivine",
+        "price": 95.0,
+        "tags": [
+            "Bug Catcher",
+            "carnivine",
+            "Levitate"
+        ],
+        "category": [
+            "Bug Catcher",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Finneon",
+        "price": 60.0,
+        "tags": [
+            "finneon",
+            "Swift Swim",
+            "Wing Fish"
+        ],
+        "category": [
+            "Pokemon",
+            "Wing Fish"
+        ]
+    },
+    {
+        "name": "Lumineon",
+        "price": 168.0,
+        "tags": [
+            "lumineon",
+            "Neon",
+            "Swift Swim"
+        ],
+        "category": [
+            "Neon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mantyke",
+        "price": 185.0,
+        "tags": [
+            "Kite",
+            "mantyke",
+            "Water Absorb"
+        ],
+        "category": [
+            "Kite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Snover",
+        "price": 165.0,
+        "tags": [
+            "Frost Tree",
+            "snover",
+            "Snow Warning"
+        ],
+        "category": [
+            "Frost Tree",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Abomasnow",
+        "price": 128.0,
+        "tags": [
+            "abomasnow",
+            "Frost Tree",
+            "Snow Warning"
+        ],
+        "category": [
+            "Frost Tree",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Magnezone",
+        "price": 148.0,
+        "tags": [
+            "Magnet Area",
+            "magnezone",
+            "Sturdy"
+        ],
+        "category": [
+            "Magnet Area",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lickilicky",
+        "price": 73.0,
+        "tags": [
+            "lickilicky",
+            "Licking",
+            "Oblivious"
+        ],
+        "category": [
+            "Licking",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rhyperior",
+        "price": 55.0,
+        "tags": [
+            "Drill",
+            "Lightning Rod",
+            "rhyperior"
+        ],
+        "category": [
+            "Drill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tangrowth",
+        "price": 128.0,
+        "tags": [
+            "Chlorophyll",
+            "tangrowth",
+            "Vine"
+        ],
+        "category": [
+            "Pokemon",
+            "Vine"
+        ]
+    },
+    {
+        "name": "Electivire",
+        "price": 130.0,
+        "tags": [
+            "electivire",
+            "Motor Drive",
+            "Thunderbolt"
+        ],
+        "category": [
+            "Pokemon",
+            "Thunderbolt"
+        ]
+    },
+    {
+        "name": "Magmortar",
+        "price": 95.0,
+        "tags": [
+            "Blast",
+            "Flame Body",
+            "magmortar"
+        ],
+        "category": [
+            "Blast",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Togekiss",
+        "price": 87.0,
+        "tags": [
+            "Jubilee",
+            "Serene Grace",
+            "togekiss"
+        ],
+        "category": [
+            "Jubilee",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Yanmega",
+        "price": 130.0,
+        "tags": [
+            "Ogre Darner",
+            "Tinted Lens",
+            "yanmega"
+        ],
+        "category": [
+            "Ogre Darner",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Leafeon",
+        "price": 130.0,
+        "tags": [
+            "Leaf Guard",
+            "leafeon",
+            "Verdant"
+        ],
+        "category": [
+            "Pokemon",
+            "Verdant"
+        ]
+    },
+    {
+        "name": "Glaceon",
+        "price": 48.0,
+        "tags": [
+            "Fresh Snow",
+            "glaceon",
+            "Snow Cloak"
+        ],
+        "category": [
+            "Fresh Snow",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gliscor",
+        "price": 95.0,
+        "tags": [
+            "Fang Scorpion",
+            "gliscor",
+            "Sand Veil"
+        ],
+        "category": [
+            "Fang Scorpion",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mamoswine",
+        "price": 185.0,
+        "tags": [
+            "mamoswine",
+            "Oblivious",
+            "Twin Tusk"
+        ],
+        "category": [
+            "Pokemon",
+            "Twin Tusk"
+        ]
+    },
+    {
+        "name": "Gallade",
+        "price": 87.0,
+        "tags": [
+            "Blade",
+            "gallade",
+            "Steadfast"
+        ],
+        "category": [
+            "Blade",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Probopass",
+        "price": 162.0,
+        "tags": [
+            "Compass",
+            "probopass",
+            "Sturdy"
+        ],
+        "category": [
+            "Compass",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dusknoir",
+        "price": 76.0,
+        "tags": [
+            "dusknoir",
+            "Gripper",
+            "Pressure"
+        ],
+        "category": [
+            "Gripper",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Froslass",
+        "price": 130.0,
+        "tags": [
+            "froslass",
+            "Snow Cloak",
+            "Snow Land"
+        ],
+        "category": [
+            "Pokemon",
+            "Snow Land"
+        ]
+    },
+    {
+        "name": "Rotom",
+        "price": 182.0,
+        "tags": [
+            "Levitate",
+            "Plasma",
+            "rotom"
+        ],
+        "category": [
+            "Plasma",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Uxie",
+        "price": 87.0,
+        "tags": [
+            "Knowledge",
+            "Levitate",
+            "uxie"
+        ],
+        "category": [
+            "Knowledge",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mesprit",
+        "price": 130.0,
+        "tags": [
+            "Emotion",
+            "Levitate",
+            "mesprit"
+        ],
+        "category": [
+            "Emotion",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Azelf",
+        "price": 55.0,
+        "tags": [
+            "azelf",
+            "Levitate",
+            "Willpower"
+        ],
+        "category": [
+            "Pokemon",
+            "Willpower"
+        ]
+    },
+    {
+        "name": "Dialga",
+        "price": 182.0,
+        "tags": [
+            "dialga",
+            "Pressure",
+            "Temporal"
+        ],
+        "category": [
+            "Pokemon",
+            "Temporal"
+        ]
+    },
+    {
+        "name": "Palkia",
+        "price": 148.0,
+        "tags": [
+            "palkia",
+            "Pressure",
+            "Spatial"
+        ],
+        "category": [
+            "Pokemon",
+            "Spatial"
+        ]
+    },
+    {
+        "name": "Heatran",
+        "price": 133.0,
+        "tags": [
+            "Flash Fire",
+            "heatran",
+            "Lava Dome"
+        ],
+        "category": [
+            "Lava Dome",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Regigigas",
+        "price": 105.0,
+        "tags": [
+            "Colossal",
+            "regigigas",
+            "Slow Start"
+        ],
+        "category": [
+            "Colossal",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cresselia",
+        "price": 148.0,
+        "tags": [
+            "cresselia",
+            "Levitate",
+            "Lunar"
+        ],
+        "category": [
+            "Lunar",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Phione",
+        "price": 165.0,
+        "tags": [
+            "Hydration",
+            "phione",
+            "Sea Drifter"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Drifter"
+        ]
+    },
+    {
+        "name": "Manaphy",
+        "price": 159.0,
+        "tags": [
+            "Hydration",
+            "manaphy",
+            "Seafaring"
+        ],
+        "category": [
+            "Pokemon",
+            "Seafaring"
+        ]
+    },
+    {
+        "name": "Darkrai",
+        "price": 55.0,
+        "tags": [
+            "Bad Dreams",
+            "darkrai",
+            "Pitch-Black"
+        ],
+        "category": [
+            "Pitch-Black",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Arceus",
+        "price": 182.0,
+        "tags": [
+            "Alpha",
+            "arceus",
+            "Multitype"
+        ],
+        "category": [
+            "Alpha",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Victini",
+        "price": 133.0,
+        "tags": [
+            "victini",
+            "Victory",
+            "Victory Star"
+        ],
+        "category": [
+            "Pokemon",
+            "Victory"
+        ]
+    },
+    {
+        "name": "Snivy",
+        "price": 148.0,
+        "tags": [
+            "Grass Snake",
+            "Overgrow",
+            "snivy"
+        ],
+        "category": [
+            "Grass Snake",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Servine",
+        "price": 162.0,
+        "tags": [
+            "Grass Snake",
+            "Overgrow",
+            "servine"
+        ],
+        "category": [
+            "Grass Snake",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Serperior",
+        "price": 130.0,
+        "tags": [
+            "Overgrow",
+            "Regal",
+            "serperior"
+        ],
+        "category": [
+            "Pokemon",
+            "Regal"
+        ]
+    },
+    {
+        "name": "Tepig",
+        "price": 148.0,
+        "tags": [
+            "Blaze",
+            "Fire Pig",
+            "tepig"
+        ],
+        "category": [
+            "Fire Pig",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pignite",
+        "price": 87.0,
+        "tags": [
+            "Blaze",
+            "Fire Pig",
+            "pignite"
+        ],
+        "category": [
+            "Fire Pig",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Emboar",
+        "price": 168.0,
+        "tags": [
+            "Blaze",
+            "emboar",
+            "Mega Fire Pig"
+        ],
+        "category": [
+            "Mega Fire Pig",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Oshawott",
+        "price": 87.0,
+        "tags": [
+            "oshawott",
+            "Sea Otter",
+            "Torrent"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Otter"
+        ]
+    },
+    {
+        "name": "Dewott",
+        "price": 84.0,
+        "tags": [
+            "dewott",
+            "Discipline",
+            "Torrent"
+        ],
+        "category": [
+            "Discipline",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Samurott",
+        "price": 130.0,
+        "tags": [
+            "Formidable",
+            "samurott",
+            "Torrent"
+        ],
+        "category": [
+            "Formidable",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Patrat",
+        "price": 123.0,
+        "tags": [
+            "Keen Eye",
+            "patrat",
+            "Scout"
+        ],
+        "category": [
+            "Pokemon",
+            "Scout"
+        ]
+    },
+    {
+        "name": "Watchog",
+        "price": 55.0,
+        "tags": [
+            "Keen Eye",
+            "Lookout",
+            "watchog"
+        ],
+        "category": [
+            "Lookout",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lillipup",
+        "price": 156.0,
+        "tags": [
+            "lillipup",
+            "Pickup",
+            "Puppy"
+        ],
+        "category": [
+            "Pokemon",
+            "Puppy"
+        ]
+    },
+    {
+        "name": "Herdier",
+        "price": 128.0,
+        "tags": [
+            "herdier",
+            "Intimidate",
+            "Loyal Dog"
+        ],
+        "category": [
+            "Loyal Dog",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Stoutland",
+        "price": 60.0,
+        "tags": [
+            "Big-Hearted",
+            "Intimidate",
+            "stoutland"
+        ],
+        "category": [
+            "Big-Hearted",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Purrloin",
+        "price": 55.0,
+        "tags": [
+            "Devious",
+            "Limber",
+            "purrloin"
+        ],
+        "category": [
+            "Devious",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Liepard",
+        "price": 60.0,
+        "tags": [
+            "Cruel",
+            "liepard",
+            "Limber"
+        ],
+        "category": [
+            "Cruel",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pansage",
+        "price": 162.0,
+        "tags": [
+            "Gluttony",
+            "Grass Monkey",
+            "pansage"
+        ],
+        "category": [
+            "Grass Monkey",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Simisage",
+        "price": 48.0,
+        "tags": [
+            "Gluttony",
+            "simisage",
+            "Thorn Monkey"
+        ],
+        "category": [
+            "Pokemon",
+            "Thorn Monkey"
+        ]
+    },
+    {
+        "name": "Pansear",
+        "price": 48.0,
+        "tags": [
+            "Gluttony",
+            "High Temp",
+            "pansear"
+        ],
+        "category": [
+            "High Temp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Simisear",
+        "price": 185.0,
+        "tags": [
+            "Ember",
+            "Gluttony",
+            "simisear"
+        ],
+        "category": [
+            "Ember",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Panpour",
+        "price": 105.0,
+        "tags": [
+            "Gluttony",
+            "panpour",
+            "Spray"
+        ],
+        "category": [
+            "Pokemon",
+            "Spray"
+        ]
+    },
+    {
+        "name": "Simipour",
+        "price": 55.0,
+        "tags": [
+            "Geyser",
+            "Gluttony",
+            "simipour"
+        ],
+        "category": [
+            "Geyser",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Munna",
+        "price": 156.0,
+        "tags": [
+            "Dream Eater",
+            "munna",
+            "Synchronize"
+        ],
+        "category": [
+            "Dream Eater",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Musharna",
+        "price": 185.0,
+        "tags": [
+            "Drowsing",
+            "musharna",
+            "Synchronize"
+        ],
+        "category": [
+            "Drowsing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pidove",
+        "price": 165.0,
+        "tags": [
+            "pidove",
+            "Super Luck",
+            "Tiny Pigeon"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Pigeon"
+        ]
+    },
+    {
+        "name": "Tranquill",
+        "price": 133.0,
+        "tags": [
+            "Super Luck",
+            "tranquill",
+            "Wild Pigeon"
+        ],
+        "category": [
+            "Pokemon",
+            "Wild Pigeon"
+        ]
+    },
+    {
+        "name": "Unfezant",
+        "price": 95.0,
+        "tags": [
+            "Proud",
+            "Super Luck",
+            "unfezant"
+        ],
+        "category": [
+            "Pokemon",
+            "Proud"
+        ]
+    },
+    {
+        "name": "Zebstrika",
+        "price": 148.0,
+        "tags": [
+            "Lightning Rod",
+            "Thunderbolt",
+            "zebstrika"
+        ],
+        "category": [
+            "Pokemon",
+            "Thunderbolt"
+        ]
+    },
+    {
+        "name": "Roggenrola",
+        "price": 87.0,
+        "tags": [
+            "Mantle",
+            "roggenrola",
+            "Sturdy"
+        ],
+        "category": [
+            "Mantle",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Boldore",
+        "price": 60.0,
+        "tags": [
+            "boldore",
+            "Ore",
+            "Sturdy"
+        ],
+        "category": [
+            "Ore",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gigalith",
+        "price": 185.0,
+        "tags": [
+            "Compressed",
+            "gigalith",
+            "Sturdy"
+        ],
+        "category": [
+            "Compressed",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Woobat",
+        "price": 130.0,
+        "tags": [
+            "Bat",
+            "Unaware",
+            "woobat"
+        ],
+        "category": [
+            "Bat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Swoobat",
+        "price": 182.0,
+        "tags": [
+            "Courting",
+            "swoobat",
+            "Unaware"
+        ],
+        "category": [
+            "Courting",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Drilbur",
+        "price": 73.0,
+        "tags": [
+            "drilbur",
+            "Mole",
+            "Sand Rush"
+        ],
+        "category": [
+            "Mole",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Excadrill",
+        "price": 128.0,
+        "tags": [
+            "excadrill",
+            "Sand Rush",
+            "Subterrene"
+        ],
+        "category": [
+            "Pokemon",
+            "Subterrene"
+        ]
+    },
+    {
+        "name": "Audino",
+        "price": 55.0,
+        "tags": [
+            "audino",
+            "Healer",
+            "Hearing"
+        ],
+        "category": [
+            "Hearing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Timburr",
+        "price": 105.0,
+        "tags": [
+            "Guts",
+            "Muscular",
+            "timburr"
+        ],
+        "category": [
+            "Muscular",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gurdurr",
+        "price": 95.0,
+        "tags": [
+            "gurdurr",
+            "Guts",
+            "Muscular"
+        ],
+        "category": [
+            "Muscular",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Conkeldurr",
+        "price": 76.0,
+        "tags": [
+            "conkeldurr",
+            "Guts",
+            "Muscular"
+        ],
+        "category": [
+            "Muscular",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Palpitoad",
+        "price": 148.0,
+        "tags": [
+            "Hydration",
+            "palpitoad",
+            "Vibration"
+        ],
+        "category": [
+            "Pokemon",
+            "Vibration"
+        ]
+    },
+    {
+        "name": "Seismitoad",
+        "price": 73.0,
+        "tags": [
+            "seismitoad",
+            "Swift Swim",
+            "Vibration"
+        ],
+        "category": [
+            "Pokemon",
+            "Vibration"
+        ]
+    },
+    {
+        "name": "Throh",
+        "price": 87.0,
+        "tags": [
+            "Guts",
+            "Judo",
+            "throh"
+        ],
+        "category": [
+            "Judo",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sawk",
+        "price": 130.0,
+        "tags": [
+            "Inner Focus",
+            "Karate",
+            "sawk"
+        ],
+        "category": [
+            "Karate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sewaddle",
+        "price": 95.0,
+        "tags": [
+            "sewaddle",
+            "Sewing",
+            "Swarm"
+        ],
+        "category": [
+            "Pokemon",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Swadloon",
+        "price": 95.0,
+        "tags": [
+            "Chlorophyll",
+            "Leaf-Wrapped",
+            "swadloon"
+        ],
+        "category": [
+            "Leaf-Wrapped",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Leavanny",
+        "price": 123.0,
+        "tags": [
+            "leavanny",
+            "Nurturing",
+            "Swarm"
+        ],
+        "category": [
+            "Nurturing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Venipede",
+        "price": 73.0,
+        "tags": [
+            "Centipede",
+            "Swarm",
+            "venipede"
+        ],
+        "category": [
+            "Centipede",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Whirlipede",
+        "price": 87.0,
+        "tags": [
+            "Curlipede",
+            "Swarm",
+            "whirlipede"
+        ],
+        "category": [
+            "Curlipede",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Scolipede",
+        "price": 55.0,
+        "tags": [
+            "Megapede",
+            "scolipede",
+            "Swarm"
+        ],
+        "category": [
+            "Megapede",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cottonee",
+        "price": 148.0,
+        "tags": [
+            "Cotton Puff",
+            "cottonee",
+            "Prankster"
+        ],
+        "category": [
+            "Cotton Puff",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Whimsicott",
+        "price": 168.0,
+        "tags": [
+            "Prankster",
+            "whimsicott",
+            "Windveiled"
+        ],
+        "category": [
+            "Pokemon",
+            "Windveiled"
+        ]
+    },
+    {
+        "name": "Petilil",
+        "price": 182.0,
+        "tags": [
+            "Bulb",
+            "Chlorophyll",
+            "petilil"
+        ],
+        "category": [
+            "Bulb",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lilligant",
+        "price": 162.0,
+        "tags": [
+            "Chlorophyll",
+            "Flowering",
+            "lilligant"
+        ],
+        "category": [
+            "Flowering",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sandile",
+        "price": 48.0,
+        "tags": [
+            "Desert Croc",
+            "Intimidate",
+            "sandile"
+        ],
+        "category": [
+            "Desert Croc",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Krokorok",
+        "price": 48.0,
+        "tags": [
+            "Desert Croc",
+            "Intimidate",
+            "krokorok"
+        ],
+        "category": [
+            "Desert Croc",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Krookodile",
+        "price": 133.0,
+        "tags": [
+            "Intimidate",
+            "Intimidation",
+            "krookodile"
+        ],
+        "category": [
+            "Intimidation",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Darumaka",
+        "price": 148.0,
+        "tags": [
+            "darumaka",
+            "Hustle",
+            "Zen Charm"
+        ],
+        "category": [
+            "Pokemon",
+            "Zen Charm"
+        ]
+    },
+    {
+        "name": "Maractus",
+        "price": 185.0,
+        "tags": [
+            "Cactus",
+            "Chlorophyll",
+            "maractus"
+        ],
+        "category": [
+            "Cactus",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dwebble",
+        "price": 60.0,
+        "tags": [
+            "dwebble",
+            "Rock Inn",
+            "Sturdy"
+        ],
+        "category": [
+            "Pokemon",
+            "Rock Inn"
+        ]
+    },
+    {
+        "name": "Crustle",
+        "price": 185.0,
+        "tags": [
+            "crustle",
+            "Stone Home",
+            "Sturdy"
+        ],
+        "category": [
+            "Pokemon",
+            "Stone Home"
+        ]
+    },
+    {
+        "name": "Scraggy",
+        "price": 105.0,
+        "tags": [
+            "scraggy",
+            "Shed Skin",
+            "Shedding"
+        ],
+        "category": [
+            "Pokemon",
+            "Shedding"
+        ]
+    },
+    {
+        "name": "Scrafty",
+        "price": 105.0,
+        "tags": [
+            "Hoodlum",
+            "scrafty",
+            "Shed Skin"
+        ],
+        "category": [
+            "Hoodlum",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sigilyph",
+        "price": 148.0,
+        "tags": [
+            "Avianoid",
+            "Magic Guard",
+            "sigilyph"
+        ],
+        "category": [
+            "Avianoid",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Yamask",
+        "price": 87.0,
+        "tags": [
+            "Mummy",
+            "Spirit",
+            "yamask"
+        ],
+        "category": [
+            "Pokemon",
+            "Spirit"
+        ]
+    },
+    {
+        "name": "Cofagrigus",
+        "price": 48.0,
+        "tags": [
+            "cofagrigus",
+            "Coffin",
+            "Mummy"
+        ],
+        "category": [
+            "Coffin",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tirtouga",
+        "price": 60.0,
+        "tags": [
+            "Prototurtle",
+            "Sturdy",
+            "tirtouga"
+        ],
+        "category": [
+            "Pokemon",
+            "Prototurtle"
+        ]
+    },
+    {
+        "name": "Carracosta",
+        "price": 148.0,
+        "tags": [
+            "carracosta",
+            "Prototurtle",
+            "Sturdy"
+        ],
+        "category": [
+            "Pokemon",
+            "Prototurtle"
+        ]
+    },
+    {
+        "name": "Archen",
+        "price": 87.0,
+        "tags": [
+            "archen",
+            "Defeatist",
+            "First Bird"
+        ],
+        "category": [
+            "First Bird",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Archeops",
+        "price": 148.0,
+        "tags": [
+            "archeops",
+            "Defeatist",
+            "First Bird"
+        ],
+        "category": [
+            "First Bird",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Trubbish",
+        "price": 87.0,
+        "tags": [
+            "Stench",
+            "Trash Bag",
+            "trubbish"
+        ],
+        "category": [
+            "Pokemon",
+            "Trash Bag"
+        ]
+    },
+    {
+        "name": "Garbodor",
+        "price": 55.0,
+        "tags": [
+            "garbodor",
+            "Stench",
+            "Trash Heap"
+        ],
+        "category": [
+            "Pokemon",
+            "Trash Heap"
+        ]
+    },
+    {
+        "name": "Zorua",
+        "price": 133.0,
+        "tags": [
+            "Illusion",
+            "Tricky Fox",
+            "zorua"
+        ],
+        "category": [
+            "Pokemon",
+            "Tricky Fox"
+        ]
+    },
+    {
+        "name": "Minccino",
+        "price": 165.0,
+        "tags": [
+            "Chinchilla",
+            "Cute Charm",
+            "minccino"
+        ],
+        "category": [
+            "Chinchilla",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cinccino",
+        "price": 148.0,
+        "tags": [
+            "cinccino",
+            "Cute Charm",
+            "Scarf"
+        ],
+        "category": [
+            "Pokemon",
+            "Scarf"
+        ]
+    },
+    {
+        "name": "Gothita",
+        "price": 148.0,
+        "tags": [
+            "Fixation",
+            "Frisk",
+            "gothita"
+        ],
+        "category": [
+            "Fixation",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gothorita",
+        "price": 185.0,
+        "tags": [
+            "Frisk",
+            "gothorita",
+            "Manipulate"
+        ],
+        "category": [
+            "Manipulate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gothitelle",
+        "price": 165.0,
+        "tags": [
+            "Astral Body",
+            "Frisk",
+            "gothitelle"
+        ],
+        "category": [
+            "Astral Body",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Solosis",
+        "price": 156.0,
+        "tags": [
+            "Cell",
+            "Magic Guard",
+            "solosis"
+        ],
+        "category": [
+            "Cell",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Duosion",
+        "price": 60.0,
+        "tags": [
+            "duosion",
+            "Magic Guard",
+            "Mitosis"
+        ],
+        "category": [
+            "Mitosis",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Reuniclus",
+        "price": 73.0,
+        "tags": [
+            "Magic Guard",
+            "Multiplying",
+            "reuniclus"
+        ],
+        "category": [
+            "Multiplying",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ducklett",
+        "price": 128.0,
+        "tags": [
+            "ducklett",
+            "Keen Eye",
+            "Water Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Bird"
+        ]
+    },
+    {
+        "name": "Swanna",
+        "price": 148.0,
+        "tags": [
+            "Keen Eye",
+            "swanna",
+            "White Bird"
+        ],
+        "category": [
+            "Pokemon",
+            "White Bird"
+        ]
+    },
+    {
+        "name": "Vanillite",
+        "price": 168.0,
+        "tags": [
+            "Fresh Snow",
+            "Ice Body",
+            "vanillite"
+        ],
+        "category": [
+            "Fresh Snow",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vanillish",
+        "price": 165.0,
+        "tags": [
+            "Ice Body",
+            "Icy Snow",
+            "vanillish"
+        ],
+        "category": [
+            "Icy Snow",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vanilluxe",
+        "price": 87.0,
+        "tags": [
+            "Ice Body",
+            "Snowstorm",
+            "vanilluxe"
+        ],
+        "category": [
+            "Pokemon",
+            "Snowstorm"
+        ]
+    },
+    {
+        "name": "Deerling",
+        "price": 105.0,
+        "tags": [
+            "Chlorophyll",
+            "deerling",
+            "Season"
+        ],
+        "category": [
+            "Pokemon",
+            "Season"
+        ]
+    },
+    {
+        "name": "Sawsbuck",
+        "price": 182.0,
+        "tags": [
+            "Chlorophyll",
+            "sawsbuck",
+            "Season"
+        ],
+        "category": [
+            "Pokemon",
+            "Season"
+        ]
+    },
+    {
+        "name": "Karrablast",
+        "price": 87.0,
+        "tags": [
+            "Clamping",
+            "karrablast",
+            "Shed Skin"
+        ],
+        "category": [
+            "Clamping",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Escavalier",
+        "price": 168.0,
+        "tags": [
+            "Cavalry",
+            "escavalier",
+            "Swarm"
+        ],
+        "category": [
+            "Cavalry",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Foongus",
+        "price": 130.0,
+        "tags": [
+            "Effect Spore",
+            "foongus",
+            "Mushroom"
+        ],
+        "category": [
+            "Mushroom",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Frillish",
+        "price": 84.0,
+        "tags": [
+            "Floating",
+            "frillish",
+            "Water Absorb"
+        ],
+        "category": [
+            "Floating",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jellicent",
+        "price": 133.0,
+        "tags": [
+            "Floating",
+            "jellicent",
+            "Water Absorb"
+        ],
+        "category": [
+            "Floating",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Alomomola",
+        "price": 48.0,
+        "tags": [
+            "alomomola",
+            "Caring",
+            "Hydration"
+        ],
+        "category": [
+            "Caring",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Joltik",
+        "price": 133.0,
+        "tags": [
+            "Attaching",
+            "Compound Eyes",
+            "joltik"
+        ],
+        "category": [
+            "Attaching",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Galvantula",
+        "price": 84.0,
+        "tags": [
+            "Compound Eyes",
+            "EleSpider",
+            "galvantula"
+        ],
+        "category": [
+            "EleSpider",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ferroseed",
+        "price": 60.0,
+        "tags": [
+            "ferroseed",
+            "Iron Barbs",
+            "Thorn Seed"
+        ],
+        "category": [
+            "Pokemon",
+            "Thorn Seed"
+        ]
+    },
+    {
+        "name": "Ferrothorn",
+        "price": 73.0,
+        "tags": [
+            "ferrothorn",
+            "Iron Barbs",
+            "Thorn Pod"
+        ],
+        "category": [
+            "Pokemon",
+            "Thorn Pod"
+        ]
+    },
+    {
+        "name": "Klink",
+        "price": 148.0,
+        "tags": [
+            "Gear",
+            "klink",
+            "Plus"
+        ],
+        "category": [
+            "Gear",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Klang",
+        "price": 73.0,
+        "tags": [
+            "Gear",
+            "klang",
+            "Plus"
+        ],
+        "category": [
+            "Gear",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Klinklang",
+        "price": 105.0,
+        "tags": [
+            "Gear",
+            "klinklang",
+            "Plus"
+        ],
+        "category": [
+            "Gear",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tynamo",
+        "price": 148.0,
+        "tags": [
+            "EleFish",
+            "Levitate",
+            "tynamo"
+        ],
+        "category": [
+            "EleFish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Eelektrik",
+        "price": 165.0,
+        "tags": [
+            "eelektrik",
+            "EleFish",
+            "Levitate"
+        ],
+        "category": [
+            "EleFish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Eelektross",
+        "price": 95.0,
+        "tags": [
+            "eelektross",
+            "EleFish",
+            "Levitate"
+        ],
+        "category": [
+            "EleFish",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Elgyem",
+        "price": 55.0,
+        "tags": [
+            "Cerebral",
+            "elgyem",
+            "Synchronize"
+        ],
+        "category": [
+            "Cerebral",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Beheeyem",
+        "price": 60.0,
+        "tags": [
+            "beheeyem",
+            "Cerebral",
+            "Synchronize"
+        ],
+        "category": [
+            "Cerebral",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Litwick",
+        "price": 105.0,
+        "tags": [
+            "Candle",
+            "Flash Fire",
+            "litwick"
+        ],
+        "category": [
+            "Candle",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lampent",
+        "price": 165.0,
+        "tags": [
+            "Flash Fire",
+            "Lamp",
+            "lampent"
+        ],
+        "category": [
+            "Lamp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Axew",
+        "price": 185.0,
+        "tags": [
+            "axew",
+            "Rivalry",
+            "Tusk"
+        ],
+        "category": [
+            "Pokemon",
+            "Tusk"
+        ]
+    },
+    {
+        "name": "Fraxure",
+        "price": 48.0,
+        "tags": [
+            "Axe Jaw",
+            "fraxure",
+            "Rivalry"
+        ],
+        "category": [
+            "Axe Jaw",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Haxorus",
+        "price": 182.0,
+        "tags": [
+            "Axe Jaw",
+            "haxorus",
+            "Rivalry"
+        ],
+        "category": [
+            "Axe Jaw",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cubchoo",
+        "price": 73.0,
+        "tags": [
+            "Chill",
+            "cubchoo",
+            "Snow Cloak"
+        ],
+        "category": [
+            "Chill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Beartic",
+        "price": 156.0,
+        "tags": [
+            "beartic",
+            "Freezing",
+            "Snow Cloak"
+        ],
+        "category": [
+            "Freezing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cryogonal",
+        "price": 95.0,
+        "tags": [
+            "cryogonal",
+            "Crystallizing",
+            "Levitate"
+        ],
+        "category": [
+            "Crystallizing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shelmet",
+        "price": 55.0,
+        "tags": [
+            "Hydration",
+            "shelmet",
+            "Snail"
+        ],
+        "category": [
+            "Pokemon",
+            "Snail"
+        ]
+    },
+    {
+        "name": "Accelgor",
+        "price": 76.0,
+        "tags": [
+            "accelgor",
+            "Hydration",
+            "Shell Out"
+        ],
+        "category": [
+            "Pokemon",
+            "Shell Out"
+        ]
+    },
+    {
+        "name": "Stunfisk",
+        "price": 168.0,
+        "tags": [
+            "Static",
+            "stunfisk",
+            "Trap"
+        ],
+        "category": [
+            "Pokemon",
+            "Trap"
+        ]
+    },
+    {
+        "name": "Mienfoo",
+        "price": 123.0,
+        "tags": [
+            "Inner Focus",
+            "Martial Arts",
+            "mienfoo"
+        ],
+        "category": [
+            "Martial Arts",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mienshao",
+        "price": 95.0,
+        "tags": [
+            "Inner Focus",
+            "Martial Arts",
+            "mienshao"
+        ],
+        "category": [
+            "Martial Arts",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Druddigon",
+        "price": 168.0,
+        "tags": [
+            "Cave",
+            "druddigon",
+            "Rough Skin"
+        ],
+        "category": [
+            "Cave",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Golett",
+        "price": 159.0,
+        "tags": [
+            "Automaton",
+            "golett",
+            "Iron Fist"
+        ],
+        "category": [
+            "Automaton",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Golurk",
+        "price": 165.0,
+        "tags": [
+            "Automaton",
+            "golurk",
+            "Iron Fist"
+        ],
+        "category": [
+            "Automaton",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pawniard",
+        "price": 185.0,
+        "tags": [
+            "Inner Focus",
+            "pawniard",
+            "Sharp Blade"
+        ],
+        "category": [
+            "Pokemon",
+            "Sharp Blade"
+        ]
+    },
+    {
+        "name": "Bisharp",
+        "price": 105.0,
+        "tags": [
+            "bisharp",
+            "Inner Focus",
+            "Sword Blade"
+        ],
+        "category": [
+            "Pokemon",
+            "Sword Blade"
+        ]
+    },
+    {
+        "name": "Bouffalant",
+        "price": 159.0,
+        "tags": [
+            "Bash Buffalo",
+            "bouffalant",
+            "Reckless"
+        ],
+        "category": [
+            "Bash Buffalo",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rufflet",
+        "price": 95.0,
+        "tags": [
+            "Eaglet",
+            "Keen Eye",
+            "rufflet"
+        ],
+        "category": [
+            "Eaglet",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Braviary",
+        "price": 76.0,
+        "tags": [
+            "braviary",
+            "Keen Eye",
+            "Valiant"
+        ],
+        "category": [
+            "Pokemon",
+            "Valiant"
+        ]
+    },
+    {
+        "name": "Vullaby",
+        "price": 148.0,
+        "tags": [
+            "Big Pecks",
+            "Diapered",
+            "vullaby"
+        ],
+        "category": [
+            "Diapered",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mandibuzz",
+        "price": 60.0,
+        "tags": [
+            "Big Pecks",
+            "Bone Vulture",
+            "mandibuzz"
+        ],
+        "category": [
+            "Bone Vulture",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Heatmor",
+        "price": 165.0,
+        "tags": [
+            "Anteater",
+            "Flash Fire",
+            "heatmor"
+        ],
+        "category": [
+            "Anteater",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Durant",
+        "price": 130.0,
+        "tags": [
+            "durant",
+            "Iron Ant",
+            "Swarm"
+        ],
+        "category": [
+            "Iron Ant",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Deino",
+        "price": 159.0,
+        "tags": [
+            "deino",
+            "Hustle",
+            "Irate"
+        ],
+        "category": [
+            "Irate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zweilous",
+        "price": 95.0,
+        "tags": [
+            "Hostile",
+            "Hustle",
+            "zweilous"
+        ],
+        "category": [
+            "Hostile",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hydreigon",
+        "price": 87.0,
+        "tags": [
+            "Brutal",
+            "hydreigon",
+            "Levitate"
+        ],
+        "category": [
+            "Brutal",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Volcarona",
+        "price": 185.0,
+        "tags": [
+            "Flame Body",
+            "sun",
+            "volcarona"
+        ],
+        "category": [
+            "Pokemon",
+            "Sun"
+        ]
+    },
+    {
+        "name": "Cobalion",
+        "price": 73.0,
+        "tags": [
+            "cobalion",
+            "Iron Will",
+            "Justified"
+        ],
+        "category": [
+            "Iron Will",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Terrakion",
+        "price": 162.0,
+        "tags": [
+            "Cavern",
+            "Justified",
+            "terrakion"
+        ],
+        "category": [
+            "Cavern",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Virizion",
+        "price": 156.0,
+        "tags": [
+            "Grassland",
+            "Justified",
+            "virizion"
+        ],
+        "category": [
+            "Grassland",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Reshiram",
+        "price": 148.0,
+        "tags": [
+            "reshiram",
+            "Turboblaze",
+            "Vast White"
+        ],
+        "category": [
+            "Pokemon",
+            "Vast White"
+        ]
+    },
+    {
+        "name": "Zekrom",
+        "price": 133.0,
+        "tags": [
+            "Deep Black",
+            "Teravolt",
+            "zekrom"
+        ],
+        "category": [
+            "Deep Black",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Genesect",
+        "price": 130.0,
+        "tags": [
+            "Download",
+            "genesect",
+            "Paleozoic"
+        ],
+        "category": [
+            "Paleozoic",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chespin",
+        "price": 123.0,
+        "tags": [
+            "chespin",
+            "Overgrow",
+            "Spiny Nut"
+        ],
+        "category": [
+            "Pokemon",
+            "Spiny Nut"
+        ]
+    },
+    {
+        "name": "Quilladin",
+        "price": 148.0,
+        "tags": [
+            "Overgrow",
+            "quilladin",
+            "Spiny Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "Spiny Armor"
+        ]
+    },
+    {
+        "name": "Chesnaught",
+        "price": 76.0,
+        "tags": [
+            "chesnaught",
+            "Overgrow",
+            "Spiny Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "Spiny Armor"
+        ]
+    },
+    {
+        "name": "Fennekin",
+        "price": 25.0,
+        "tags": [
+            "Blaze",
+            "fennekin",
+            "Fox"
+        ],
+        "category": [
+            "Fox",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Braixen",
+        "price": 162.0,
+        "tags": [
+            "Blaze",
+            "braixen",
+            "Fox"
+        ],
+        "category": [
+            "Fox",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Delphox",
+        "price": 133.0,
+        "tags": [
+            "Blaze",
+            "delphox",
+            "Fox"
+        ],
+        "category": [
+            "Fox",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Froakie",
+        "price": 148.0,
+        "tags": [
+            "Bubble Frog",
+            "froakie",
+            "Torrent"
+        ],
+        "category": [
+            "Bubble Frog",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Frogadier",
+        "price": 130.0,
+        "tags": [
+            "Bubble Frog",
+            "frogadier",
+            "Torrent"
+        ],
+        "category": [
+            "Bubble Frog",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Greninja",
+        "price": 148.0,
+        "tags": [
+            "greninja",
+            "Ninja",
+            "Torrent"
+        ],
+        "category": [
+            "Ninja",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bunnelby",
+        "price": 84.0,
+        "tags": [
+            "bunnelby",
+            "Digging",
+            "Pickup"
+        ],
+        "category": [
+            "Digging",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Fletchling",
+        "price": 162.0,
+        "tags": [
+            "Big Pecks",
+            "fletchling",
+            "Tiny Robin"
+        ],
+        "category": [
+            "Pokemon",
+            "Tiny Robin"
+        ]
+    },
+    {
+        "name": "Fletchinder",
+        "price": 148.0,
+        "tags": [
+            "Ember",
+            "Flame Body",
+            "fletchinder"
+        ],
+        "category": [
+            "Ember",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Talonflame",
+        "price": 84.0,
+        "tags": [
+            "Flame Body",
+            "Scorching",
+            "talonflame"
+        ],
+        "category": [
+            "Pokemon",
+            "Scorching"
+        ]
+    },
+    {
+        "name": "Scatterbug",
+        "price": 156.0,
+        "tags": [
+            "scatterbug",
+            "Scatterdust",
+            "Shield Dust"
+        ],
+        "category": [
+            "Pokemon",
+            "Scatterdust"
+        ]
+    },
+    {
+        "name": "Spewpa",
+        "price": 73.0,
+        "tags": [
+            "Scatterdust",
+            "Shed Skin",
+            "spewpa"
+        ],
+        "category": [
+            "Pokemon",
+            "Scatterdust"
+        ]
+    },
+    {
+        "name": "Vivillon",
+        "price": 128.0,
+        "tags": [
+            "Scale",
+            "Shield Dust",
+            "vivillon"
+        ],
+        "category": [
+            "Pokemon",
+            "Scale"
+        ]
+    },
+    {
+        "name": "Litleo",
+        "price": 182.0,
+        "tags": [
+            "Lion Cub",
+            "litleo",
+            "Rivalry"
+        ],
+        "category": [
+            "Lion Cub",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pyroar",
+        "price": 73.0,
+        "tags": [
+            "pyroar",
+            "Rivalry",
+            "Royal"
+        ],
+        "category": [
+            "Pokemon",
+            "Royal"
+        ]
+    },
+    {
+        "name": "Flabebe",
+        "price": 148.0,
+        "tags": [
+            "flabebe",
+            "Flower Veil",
+            "Single Bloom"
+        ],
+        "category": [
+            "Pokemon",
+            "Single Bloom"
+        ]
+    },
+    {
+        "name": "Floette",
+        "price": 148.0,
+        "tags": [
+            "floette",
+            "Flower Veil",
+            "Single Bloom"
+        ],
+        "category": [
+            "Pokemon",
+            "Single Bloom"
+        ]
+    },
+    {
+        "name": "Florges",
+        "price": 95.0,
+        "tags": [
+            "florges",
+            "Flower Veil",
+            "Garden"
+        ],
+        "category": [
+            "Garden",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skiddo",
+        "price": 148.0,
+        "tags": [
+            "Mount",
+            "Sap Sipper",
+            "skiddo"
+        ],
+        "category": [
+            "Mount",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gogoat",
+        "price": 185.0,
+        "tags": [
+            "gogoat",
+            "Mount",
+            "Sap Sipper"
+        ],
+        "category": [
+            "Mount",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pangoro",
+        "price": 84.0,
+        "tags": [
+            "Daunting",
+            "Iron Fist",
+            "pangoro"
+        ],
+        "category": [
+            "Daunting",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Furfrou",
+        "price": 128.0,
+        "tags": [
+            "Fur Coat",
+            "furfrou",
+            "Poodle"
+        ],
+        "category": [
+            "Pokemon",
+            "Poodle"
+        ]
+    },
+    {
+        "name": "Espurr",
+        "price": 185.0,
+        "tags": [
+            "espurr",
+            "Keen Eye",
+            "Restraint"
+        ],
+        "category": [
+            "Pokemon",
+            "Restraint"
+        ]
+    },
+    {
+        "name": "Honedge",
+        "price": 76.0,
+        "tags": [
+            "honedge",
+            "No Guard",
+            "Sword"
+        ],
+        "category": [
+            "Pokemon",
+            "Sword"
+        ]
+    },
+    {
+        "name": "Doublade",
+        "price": 123.0,
+        "tags": [
+            "doublade",
+            "No Guard",
+            "Sword"
+        ],
+        "category": [
+            "Pokemon",
+            "Sword"
+        ]
+    },
+    {
+        "name": "Spritzee",
+        "price": 159.0,
+        "tags": [
+            "Healer",
+            "Perfume",
+            "spritzee"
+        ],
+        "category": [
+            "Perfume",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Aromatisse",
+        "price": 130.0,
+        "tags": [
+            "aromatisse",
+            "Fragrance",
+            "Healer"
+        ],
+        "category": [
+            "Fragrance",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Swirlix",
+        "price": 48.0,
+        "tags": [
+            "Cotton Candy",
+            "Sweet Veil",
+            "swirlix"
+        ],
+        "category": [
+            "Cotton Candy",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slurpuff",
+        "price": 162.0,
+        "tags": [
+            "Meringue",
+            "slurpuff",
+            "Sweet Veil"
+        ],
+        "category": [
+            "Meringue",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Inkay",
+        "price": 128.0,
+        "tags": [
+            "inkay",
+            "Revolving",
+            "Suction Cups"
+        ],
+        "category": [
+            "Pokemon",
+            "Revolving"
+        ]
+    },
+    {
+        "name": "Malamar",
+        "price": 162.0,
+        "tags": [
+            "malamar",
+            "Overturning",
+            "Suction Cups"
+        ],
+        "category": [
+            "Overturning",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Binacle",
+        "price": 156.0,
+        "tags": [
+            "binacle",
+            "Sniper",
+            "Two-Handed"
+        ],
+        "category": [
+            "Pokemon",
+            "Two-Handed"
+        ]
+    },
+    {
+        "name": "Barbaracle",
+        "price": 87.0,
+        "tags": [
+            "barbaracle",
+            "Collective",
+            "Sniper"
+        ],
+        "category": [
+            "Collective",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skrelp",
+        "price": 95.0,
+        "tags": [
+            "Mock Kelp",
+            "Poison Point",
+            "skrelp"
+        ],
+        "category": [
+            "Mock Kelp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dragalge",
+        "price": 162.0,
+        "tags": [
+            "dragalge",
+            "Mock Kelp",
+            "Poison Point"
+        ],
+        "category": [
+            "Mock Kelp",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Clauncher",
+        "price": 182.0,
+        "tags": [
+            "clauncher",
+            "Mega Launcher",
+            "Water Gun"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Gun"
+        ]
+    },
+    {
+        "name": "Clawitzer",
+        "price": 105.0,
+        "tags": [
+            "clawitzer",
+            "Howitzer",
+            "Mega Launcher"
+        ],
+        "category": [
+            "Howitzer",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Helioptile",
+        "price": 185.0,
+        "tags": [
+            "Generator",
+            "helioptile",
+            "Sand Veil"
+        ],
+        "category": [
+            "Generator",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Heliolisk",
+        "price": 48.0,
+        "tags": [
+            "Generator",
+            "heliolisk",
+            "Sand Veil"
+        ],
+        "category": [
+            "Generator",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tyrunt",
+        "price": 76.0,
+        "tags": [
+            "Royal Heir",
+            "Strong Jaw",
+            "tyrunt"
+        ],
+        "category": [
+            "Pokemon",
+            "Royal Heir"
+        ]
+    },
+    {
+        "name": "Tyrantrum",
+        "price": 76.0,
+        "tags": [
+            "Despot",
+            "Strong Jaw",
+            "tyrantrum"
+        ],
+        "category": [
+            "Despot",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Amaura",
+        "price": 130.0,
+        "tags": [
+            "amaura",
+            "Refrigerate",
+            "Tundra"
+        ],
+        "category": [
+            "Pokemon",
+            "Tundra"
+        ]
+    },
+    {
+        "name": "Aurorus",
+        "price": 60.0,
+        "tags": [
+            "aurorus",
+            "Refrigerate",
+            "Tundra"
+        ],
+        "category": [
+            "Pokemon",
+            "Tundra"
+        ]
+    },
+    {
+        "name": "Sylveon",
+        "price": 159.0,
+        "tags": [
+            "Cute Charm",
+            "Intertwining",
+            "sylveon"
+        ],
+        "category": [
+            "Intertwining",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hawlucha",
+        "price": 95.0,
+        "tags": [
+            "hawlucha",
+            "Limber",
+            "Wrestling"
+        ],
+        "category": [
+            "Pokemon",
+            "Wrestling"
+        ]
+    },
+    {
+        "name": "Dedenne",
+        "price": 76.0,
+        "tags": [
+            "Antenna",
+            "dedenne",
+            "Pickup"
+        ],
+        "category": [
+            "Antenna",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Carbink",
+        "price": 60.0,
+        "tags": [
+            "carbink",
+            "Clear Body",
+            "Jewel"
+        ],
+        "category": [
+            "Jewel",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Goomy",
+        "price": 168.0,
+        "tags": [
+            "goomy",
+            "Hydration",
+            "Soft Tissue"
+        ],
+        "category": [
+            "Pokemon",
+            "Soft Tissue"
+        ]
+    },
+    {
+        "name": "Sliggoo",
+        "price": 182.0,
+        "tags": [
+            "Hydration",
+            "sliggoo",
+            "Soft Tissue"
+        ],
+        "category": [
+            "Pokemon",
+            "Soft Tissue"
+        ]
+    },
+    {
+        "name": "Goodra",
+        "price": 84.0,
+        "tags": [
+            "Dragon",
+            "goodra",
+            "Hydration"
+        ],
+        "category": [
+            "Dragon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Klefki",
+        "price": 105.0,
+        "tags": [
+            "Key Ring",
+            "klefki",
+            "Prankster"
+        ],
+        "category": [
+            "Key Ring",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Trevenant",
+        "price": 165.0,
+        "tags": [
+            "Elder Tree",
+            "Natural Cure",
+            "trevenant"
+        ],
+        "category": [
+            "Elder Tree",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bergmite",
+        "price": 185.0,
+        "tags": [
+            "bergmite",
+            "Ice Chunk",
+            "Own Tempo"
+        ],
+        "category": [
+            "Ice Chunk",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Avalugg",
+        "price": 156.0,
+        "tags": [
+            "avalugg",
+            "Iceberg",
+            "Own Tempo"
+        ],
+        "category": [
+            "Iceberg",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Noibat",
+        "price": 156.0,
+        "tags": [
+            "Frisk",
+            "noibat",
+            "Sound Wave"
+        ],
+        "category": [
+            "Pokemon",
+            "Sound Wave"
+        ]
+    },
+    {
+        "name": "Noivern",
+        "price": 168.0,
+        "tags": [
+            "Frisk",
+            "noivern",
+            "Sound Wave"
+        ],
+        "category": [
+            "Pokemon",
+            "Sound Wave"
+        ]
+    },
+    {
+        "name": "Xerneas",
+        "price": 73.0,
+        "tags": [
+            "Fairy Aura",
+            "Life",
+            "xerneas"
+        ],
+        "category": [
+            "Life",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Yveltal",
+        "price": 48.0,
+        "tags": [
+            "Dark Aura",
+            "Destruction",
+            "yveltal"
+        ],
+        "category": [
+            "Destruction",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zygarde",
+        "price": 185.0,
+        "tags": [
+            "Aura Break",
+            "Order",
+            "zygarde"
+        ],
+        "category": [
+            "Order",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Diancie",
+        "price": 60.0,
+        "tags": [
+            "Clear Body",
+            "diancie",
+            "Jewel"
+        ],
+        "category": [
+            "Jewel",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hoopa",
+        "price": 95.0,
+        "tags": [
+            "hoopa",
+            "Magician",
+            "Mischief"
+        ],
+        "category": [
+            "Mischief",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Volcanion",
+        "price": 84.0,
+        "tags": [
+            "Steam",
+            "volcanion",
+            "Water Absorb"
+        ],
+        "category": [
+            "Pokemon",
+            "Steam"
+        ]
+    },
+    {
+        "name": "Dartrix",
+        "price": 168.0,
+        "tags": [
+            "Blade Quill",
+            "dartrix",
+            "Overgrow"
+        ],
+        "category": [
+            "Blade Quill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Decidueye",
+        "price": 48.0,
+        "tags": [
+            "Arrow Quill",
+            "decidueye",
+            "Overgrow"
+        ],
+        "category": [
+            "Arrow Quill",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Litten",
+        "price": 128.0,
+        "tags": [
+            "Blaze",
+            "Fire Cat",
+            "litten"
+        ],
+        "category": [
+            "Fire Cat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Torracat",
+        "price": 76.0,
+        "tags": [
+            "Blaze",
+            "Fire Cat",
+            "torracat"
+        ],
+        "category": [
+            "Fire Cat",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Incineroar",
+        "price": 128.0,
+        "tags": [
+            "Blaze",
+            "Heel",
+            "incineroar"
+        ],
+        "category": [
+            "Heel",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Popplio",
+        "price": 84.0,
+        "tags": [
+            "popplio",
+            "Sea Lion",
+            "Torrent"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Lion"
+        ]
+    },
+    {
+        "name": "Brionne",
+        "price": 168.0,
+        "tags": [
+            "brionne",
+            "Pop Star",
+            "Torrent"
+        ],
+        "category": [
+            "Pokemon",
+            "Pop Star"
+        ]
+    },
+    {
+        "name": "Primarina",
+        "price": 87.0,
+        "tags": [
+            "primarina",
+            "Soloist",
+            "Torrent"
+        ],
+        "category": [
+            "Pokemon",
+            "Soloist"
+        ]
+    },
+    {
+        "name": "Pikipek",
+        "price": 105.0,
+        "tags": [
+            "Keen Eye",
+            "pikipek",
+            "Woodpecker"
+        ],
+        "category": [
+            "Pokemon",
+            "Woodpecker"
+        ]
+    },
+    {
+        "name": "Trumbeak",
+        "price": 25.0,
+        "tags": [
+            "Bugle Beak",
+            "Keen Eye",
+            "trumbeak"
+        ],
+        "category": [
+            "Bugle Beak",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Toucannon",
+        "price": 95.0,
+        "tags": [
+            "Cannon",
+            "Keen Eye",
+            "toucannon"
+        ],
+        "category": [
+            "Cannon",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Yungoos",
+        "price": 84.0,
+        "tags": [
+            "Loitering",
+            "Strong Jaw",
+            "yungoos"
+        ],
+        "category": [
+            "Loitering",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gumshoos",
+        "price": 105.0,
+        "tags": [
+            "gumshoos",
+            "Stakeout",
+            "Strong Jaw"
+        ],
+        "category": [
+            "Pokemon",
+            "Stakeout"
+        ]
+    },
+    {
+        "name": "Grubbin",
+        "price": 95.0,
+        "tags": [
+            "grubbin",
+            "Larva",
+            "Swarm"
+        ],
+        "category": [
+            "Larva",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Charjabug",
+        "price": 130.0,
+        "tags": [
+            "Battery",
+            "charjabug"
+        ],
+        "category": [
+            "Battery",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vikavolt",
+        "price": 165.0,
+        "tags": [
+            "Levitate",
+            "Stag Beetle",
+            "vikavolt"
+        ],
+        "category": [
+            "Pokemon",
+            "Stag Beetle"
+        ]
+    },
+    {
+        "name": "Crabrawler",
+        "price": 165.0,
+        "tags": [
+            "Boxing",
+            "crabrawler",
+            "Hyper Cutter"
+        ],
+        "category": [
+            "Boxing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Crabominable",
+        "price": 84.0,
+        "tags": [
+            "crabominable",
+            "Hyper Cutter",
+            "Woolly Crab"
+        ],
+        "category": [
+            "Pokemon",
+            "Woolly Crab"
+        ]
+    },
+    {
+        "name": "Cutiefly",
+        "price": 162.0,
+        "tags": [
+            "Bee Fly",
+            "cutiefly",
+            "Shield Dust"
+        ],
+        "category": [
+            "Bee Fly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ribombee",
+        "price": 48.0,
+        "tags": [
+            "Bee Fly",
+            "ribombee",
+            "Shield Dust"
+        ],
+        "category": [
+            "Bee Fly",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rockruff",
+        "price": 128.0,
+        "tags": [
+            "Keen Eye",
+            "Puppy",
+            "rockruff"
+        ],
+        "category": [
+            "Pokemon",
+            "Puppy"
+        ]
+    },
+    {
+        "name": "Mareanie",
+        "price": 95.0,
+        "tags": [
+            "Brutal Star",
+            "Limber",
+            "mareanie"
+        ],
+        "category": [
+            "Brutal Star",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Toxapex",
+        "price": 48.0,
+        "tags": [
+            "Brutal Star",
+            "Limber",
+            "toxapex"
+        ],
+        "category": [
+            "Brutal Star",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mudbray",
+        "price": 159.0,
+        "tags": [
+            "Donkey",
+            "mudbray",
+            "Own Tempo"
+        ],
+        "category": [
+            "Donkey",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mudsdale",
+        "price": 159.0,
+        "tags": [
+            "Draft Horse",
+            "mudsdale",
+            "Own Tempo"
+        ],
+        "category": [
+            "Draft Horse",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dewpider",
+        "price": 105.0,
+        "tags": [
+            "dewpider",
+            "Water Bubble"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Bubble"
+        ]
+    },
+    {
+        "name": "Araquanid",
+        "price": 123.0,
+        "tags": [
+            "araquanid",
+            "Water Bubble"
+        ],
+        "category": [
+            "Pokemon",
+            "Water Bubble"
+        ]
+    },
+    {
+        "name": "Fomantis",
+        "price": 159.0,
+        "tags": [
+            "fomantis",
+            "Leaf Guard",
+            "Sickle Grass"
+        ],
+        "category": [
+            "Pokemon",
+            "Sickle Grass"
+        ]
+    },
+    {
+        "name": "Lurantis",
+        "price": 133.0,
+        "tags": [
+            "Bloom Sickle",
+            "Leaf Guard",
+            "lurantis"
+        ],
+        "category": [
+            "Bloom Sickle",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Morelull",
+        "price": 105.0,
+        "tags": [
+            "Effect Spore",
+            "Illuminating",
+            "morelull"
+        ],
+        "category": [
+            "Illuminating",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Shiinotic",
+        "price": 156.0,
+        "tags": [
+            "Effect Spore",
+            "Illuminating",
+            "shiinotic"
+        ],
+        "category": [
+            "Illuminating",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Salandit",
+        "price": 123.0,
+        "tags": [
+            "Corrosion",
+            "salandit",
+            "Toxic Lizard"
+        ],
+        "category": [
+            "Pokemon",
+            "Toxic Lizard"
+        ]
+    },
+    {
+        "name": "Salazzle",
+        "price": 182.0,
+        "tags": [
+            "Corrosion",
+            "salazzle",
+            "Toxic Lizard"
+        ],
+        "category": [
+            "Pokemon",
+            "Toxic Lizard"
+        ]
+    },
+    {
+        "name": "Stufful",
+        "price": 156.0,
+        "tags": [
+            "Flailing",
+            "Klutz",
+            "stufful"
+        ],
+        "category": [
+            "Flailing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bewear",
+        "price": 55.0,
+        "tags": [
+            "bewear",
+            "Klutz",
+            "Strong Arm"
+        ],
+        "category": [
+            "Pokemon",
+            "Strong Arm"
+        ]
+    },
+    {
+        "name": "Bounsweet",
+        "price": 84.0,
+        "tags": [
+            "bounsweet",
+            "fruit",
+            "Oblivious"
+        ],
+        "category": [
+            "Fruit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Steenee",
+        "price": 186.0,
+        "tags": [
+            "fruit",
+            "Oblivious",
+            "steenee"
+        ],
+        "category": [
+            "Fruit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tsareena",
+        "price": 60.0,
+        "tags": [
+            "fruit",
+            "Leaf Guard",
+            "tsareena"
+        ],
+        "category": [
+            "Fruit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Comfey",
+        "price": 128.0,
+        "tags": [
+            "comfey",
+            "Flower Veil",
+            "Posy Picker"
+        ],
+        "category": [
+            "Pokemon",
+            "Posy Picker"
+        ]
+    },
+    {
+        "name": "Oranguru",
+        "price": 123.0,
+        "tags": [
+            "Inner Focus",
+            "oranguru",
+            "Sage"
+        ],
+        "category": [
+            "Pokemon",
+            "Sage"
+        ]
+    },
+    {
+        "name": "Passimian",
+        "price": 48.0,
+        "tags": [
+            "passimian",
+            "Receiver",
+            "Teamwork"
+        ],
+        "category": [
+            "Pokemon",
+            "Teamwork"
+        ]
+    },
+    {
+        "name": "Wimpod",
+        "price": 159.0,
+        "tags": [
+            "Turn Tail",
+            "Wimp Out",
+            "wimpod"
+        ],
+        "category": [
+            "Pokemon",
+            "Turn Tail"
+        ]
+    },
+    {
+        "name": "Golisopod",
+        "price": 60.0,
+        "tags": [
+            "Emergency Exit",
+            "golisopod",
+            "Hard Scale"
+        ],
+        "category": [
+            "Hard Scale",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sandygast",
+        "price": 162.0,
+        "tags": [
+            "Sand Heap",
+            "sandygast",
+            "Water Compaction"
+        ],
+        "category": [
+            "Pokemon",
+            "Sand Heap"
+        ]
+    },
+    {
+        "name": "Palossand",
+        "price": 182.0,
+        "tags": [
+            "palossand",
+            "Sand Castle",
+            "Water Compaction"
+        ],
+        "category": [
+            "Pokemon",
+            "Sand Castle"
+        ]
+    },
+    {
+        "name": "Pyukumuku",
+        "price": 156.0,
+        "tags": [
+            "Innards Out",
+            "pyukumuku",
+            "Sea Cucumber"
+        ],
+        "category": [
+            "Pokemon",
+            "Sea Cucumber"
+        ]
+    },
+    {
+        "name": "Silvally",
+        "price": 60.0,
+        "tags": [
+            "RKS System",
+            "silvally",
+            "Synthetic"
+        ],
+        "category": [
+            "Pokemon",
+            "Synthetic"
+        ]
+    },
+    {
+        "name": "Komala",
+        "price": 73.0,
+        "tags": [
+            "Comatose",
+            "Drowsing",
+            "komala"
+        ],
+        "category": [
+            "Drowsing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Turtonator",
+        "price": 48.0,
+        "tags": [
+            "Blast Turtle",
+            "Shell Armor",
+            "turtonator"
+        ],
+        "category": [
+            "Blast Turtle",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Togedemaru",
+        "price": 87.0,
+        "tags": [
+            "Lightning Rod",
+            "Roly-Poly",
+            "togedemaru"
+        ],
+        "category": [
+            "Pokemon",
+            "Roly-Poly"
+        ]
+    },
+    {
+        "name": "Drampa",
+        "price": 133.0,
+        "tags": [
+            "drampa",
+            "placid",
+            "Sap Sipper"
+        ],
+        "category": [
+            "Placid",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jangmo-o",
+        "price": 76.0,
+        "tags": [
+            "jangmo-o",
+            "Scaly",
+            "Soundproof"
+        ],
+        "category": [
+            "Pokemon",
+            "Scaly"
+        ]
+    },
+    {
+        "name": "Hakamo-o",
+        "price": 156.0,
+        "tags": [
+            "hakamo-o",
+            "Scaly",
+            "Soundproof"
+        ],
+        "category": [
+            "Pokemon",
+            "Scaly"
+        ]
+    },
+    {
+        "name": "Kommo-o",
+        "price": 48.0,
+        "tags": [
+            "kommo-o",
+            "Scaly",
+            "Soundproof"
+        ],
+        "category": [
+            "Pokemon",
+            "Scaly"
+        ]
+    },
+    {
+        "name": "Tapu-koko",
+        "price": 60.0,
+        "tags": [
+            "Electric Surge",
+            "Land Spirit",
+            "tapu-koko"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tapu-lele",
+        "price": 185.0,
+        "tags": [
+            "Land Spirit",
+            "Psychic Surge",
+            "tapu-lele"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tapu-bulu",
+        "price": 87.0,
+        "tags": [
+            "Grassy Surge",
+            "Land Spirit",
+            "tapu-bulu"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Tapu-fini",
+        "price": 60.0,
+        "tags": [
+            "Land Spirit",
+            "Misty Surge",
+            "tapu-fini"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Solgaleo",
+        "price": 156.0,
+        "tags": [
+            "Full Metal Body",
+            "solgaleo",
+            "Sunne"
+        ],
+        "category": [
+            "Pokemon",
+            "Sunne"
+        ]
+    },
+    {
+        "name": "Lunala",
+        "price": 130.0,
+        "tags": [
+            "lunala",
+            "Moone",
+            "Shadow Shield"
+        ],
+        "category": [
+            "Moone",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nihilego",
+        "price": 162.0,
+        "tags": [
+            "Beast Boost",
+            "nihilego",
+            "Parasite"
+        ],
+        "category": [
+            "Parasite",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Buzzwole",
+        "price": 133.0,
+        "tags": [
+            "Beast Boost",
+            "buzzwole",
+            "Swollen"
+        ],
+        "category": [
+            "Pokemon",
+            "Swollen"
+        ]
+    },
+    {
+        "name": "Pheromosa",
+        "price": 168.0,
+        "tags": [
+            "Beast Boost",
+            "Lissome",
+            "pheromosa"
+        ],
+        "category": [
+            "Lissome",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Xurkitree",
+        "price": 76.0,
+        "tags": [
+            "Beast Boost",
+            "Glowing",
+            "xurkitree"
+        ],
+        "category": [
+            "Glowing",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Celesteela",
+        "price": 60.0,
+        "tags": [
+            "Beast Boost",
+            "celesteela",
+            "Launch"
+        ],
+        "category": [
+            "Launch",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kartana",
+        "price": 87.0,
+        "tags": [
+            "Beast Boost",
+            "Drawn Sword",
+            "kartana"
+        ],
+        "category": [
+            "Drawn Sword",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Guzzlord",
+        "price": 55.0,
+        "tags": [
+            "Beast Boost",
+            "guzzlord",
+            "Junkivore"
+        ],
+        "category": [
+            "Junkivore",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Necrozma",
+        "price": 148.0,
+        "tags": [
+            "necrozma",
+            "Prism",
+            "Prism Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "Prism"
+        ]
+    },
+    {
+        "name": "Marshadow",
+        "price": 48.0,
+        "tags": [
+            "Gloomdweller",
+            "marshadow",
+            "Technician"
+        ],
+        "category": [
+            "Gloomdweller",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Poipole",
+        "price": 148.0,
+        "tags": [
+            "Beast Boost",
+            "poipole",
+            "Poison Pin"
+        ],
+        "category": [
+            "Poison Pin",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Naganadel",
+        "price": 156.0,
+        "tags": [
+            "Beast Boost",
+            "naganadel",
+            "Poison Pin"
+        ],
+        "category": [
+            "Poison Pin",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Stakataka",
+        "price": 95.0,
+        "tags": [
+            "Beast Boost",
+            "Rampart",
+            "stakataka"
+        ],
+        "category": [
+            "Pokemon",
+            "Rampart"
+        ]
+    },
+    {
+        "name": "Blacephalon",
+        "price": 105.0,
+        "tags": [
+            "Beast Boost",
+            "blacephalon",
+            "Fireworks"
+        ],
+        "category": [
+            "Fireworks",
+            "Pokemon"
+        ]
+    }
+]
