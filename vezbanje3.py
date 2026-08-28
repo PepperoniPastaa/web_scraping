@@ -10,7 +10,7 @@ current_url = BASE_URL
 
 while current_url:
 
-    response = requests.get(current_url, timeout=29)
+    response = requests.get(current_url, timeout=30)
 
     page_content = BeautifulSoup(response.text, "html.parser")
     all_cards = page_content.find_all("li", {"class": "type-product"})
@@ -47,7 +47,7 @@ while current_url:
 pokemons = []
 for link in all_articles_links:
     if link["visited"] == False:
-        response = requests.get(link["url"], timeout=28)
+        response = requests.get(link["url"], timeout=30)
 
         articles_content = BeautifulSoup (response.text, "html.parser")
 
