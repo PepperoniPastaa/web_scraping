@@ -32,7 +32,7 @@ while current_url:
             if len(all_articles_links) % 40 == 0:
                 print (f"{len(all_articles_links)} links have been scraped :)")
         else:
-                print("Url not found, wompica.")
+                print("Url not found  :(")
 
     with open ("links.json", "w", encoding="utf-8") as file:
         json.dump(all_articles_links, file, indent=4, ensure_ascii= False)
