@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import uuid
 
 BASE_URL = "https://scrapeme.live/shop/"
 
@@ -54,12 +55,15 @@ for link in all_articles_links:
             counter+= 1
             articles_content = BeautifulSoup (response.text, "html.parser")
 
+
+
             name = articles_content.find ("h1", {"class": "product_title"})
             name = name.get_text(strip=True)
 
             price = articles_content.find ("span", {"class": "price"})
             price = price.get_text(strip=True)
             price = float(price.replace("£", ""))
+
 
 
             tags_container = articles_content.find("span", {"class": "tagged_as"})
@@ -84,6 +88,7 @@ for link in all_articles_links:
 
 
             pokemon_dict = {
+                "id" : str(uuid.uuid4()),
                 "name" : name,
                 "price" : price,
                 "tags" : tags, 
@@ -91,11 +96,16 @@ for link in all_articles_links:
             }
 
             pokemons.append(pokemon_dict)
-
+            print(pokemon_dict)
             link ["visited"] = True
+            with open ("links.json", "w", encoding="utf-8") as file:
+                json.dump(all_articles_links, file, indent=4, ensure_ascii=False)
+
+            
     except Exception as e:
         print (e)
             
+
 
 
 
@@ -103,7 +113,7 @@ with open("pokemon_data.json", "w", encoding="utf-8") as file:
     json.dump(pokemons, file, indent=4, ensure_ascii= False)
 
 
-    print(pokemon_dict)
+    
    
      
 
