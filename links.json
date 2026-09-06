@@ -1,3022 +1,402 @@
 [
     {
-        "url": "https://scrapeme.live/shop/Bulbasaur/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Ivysaur/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Venusaur/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Charmander/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Charmeleon/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-f40-1984-c005",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Charizard/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Squirtle/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-2000gt-1970-c007",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Wartortle/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-mr2-aw11-1969-c008",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Blastoise/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1978-c009",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Caterpie/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-308-gts-1970-c010",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Metapod/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-911-carrera-1980-c011",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Butterfree/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-gt40-1973-c012",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Weedle/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-ae86-sprinter-trueno-1954-c013",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Kakuna/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1986-c014",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Beedrill/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-928-s4-1973-c015",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Pidgey/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-gt40-1952-c016",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Pidgeotto/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-2002-1978-c017",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Pidgeot/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1962-c018",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Rattata/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e28-535i-1970-c019",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Raticate/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-944-turbo-1956-c020",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Spearow/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1955-c021",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Fearow/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-f40-1953-c022",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Ekans/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1975-c023",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Arbok/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-944-turbo-1952-c024",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Pikachu/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e30-m3-1975-c025",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Raichu/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-mustang-fastback-1956-c026",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Sandshrew/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e28-535i-1968-c027",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Sandslash/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-sl-560-1963-c028",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Nidorina/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1962-c029",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Nidoqueen/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-911-carrera-1953-c030",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Nidorino/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-250-gt-1959-c031",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Nidoking/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1982-c032",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Clefairy/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-f40-1951-c033",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Clefable/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-gt40-1961-c034",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Vulpix/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1980-c035",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Ninetales/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-944-turbo-1982-c036",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Jigglypuff/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e28-535i-1978-c037",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Wigglytuff/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1980-c038",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Zubat/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1976-c039",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Golbat/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-e-type-1957-c040",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Oddish/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-gt40-1972-c041",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Gloom/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1980-c042",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Vileplume/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-skyline-gt-r-kpgc10-1971-c043",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Paras/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-190e-1976-c044",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Parasect/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e28-535i-1979-c045",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Venonat/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-250-gt-1969-c046",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Venomoth/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-944-turbo-1977-c047",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Diglett/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1981-c048",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Dugtrio/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-911-carrera-1981-c049",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Meowth/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1965-c050",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Persian/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-e-type-1978-c051",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Psyduck/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1966-c052",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Golduck/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-f40-1959-c053",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Mankey/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-308-gts-1959-c054",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Primeape/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-911-carrera-1965-c055",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Growlithe/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-e-type-1973-c056",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Arcanine/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-mustang-fastback-1962-c057",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Poliwag/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1962-c058",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Poliwhirl/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1951-c059",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Poliwrath/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-e-type-1987-c060",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Abra/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-mr2-aw11-1953-c061",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Kadabra/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-ae86-sprinter-trueno-1962-c062",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Alakazam/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e28-535i-1974-c063",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Machop/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1989-c064",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Machoke/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-f40-1971-c065",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Machamp/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1984-c066",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Bellsprout/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e30-m3-1982-c067",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Weepinbell/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-ae86-sprinter-trueno-1952-c068",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Victreebel/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1954-c069",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Tentacool/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-gt40-1990-c070",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Tentacruel/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj-s-1985-c071",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Geodude/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-250-gt-1956-c072",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Graveler/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1964-c073",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Golem/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-f40-1978-c074",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Ponyta/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-250-gt-1952-c075",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Rapidash/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e30-m3-1979-c076",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Slowpoke/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-911-carrera-1962-c077",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Slowbro/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1970-c078",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Magnemite/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e30-m3-1962-c079",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Magneton/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-2002-1970-c080",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Farfetchd/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ferrari-250-gt-1950-c081",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Doduo/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1974-c082",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Dodrio/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1976-c083",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Seel/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-190e-1980-c084",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Dewgong/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1965-c085",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Grimer/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e24-635csi-1985-c086",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Muk/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-mustang-fastback-1977-c087",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Shellder/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1965-c088",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Cloyster/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e28-535i-1959-c089",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Gastly/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/mercedes-benz-sl-560-1979-c090",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Haunter/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-2002-1974-c091",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Gengar/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/jaguar-xj6-1973-c092",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Onix/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/toyota-mr2-aw11-1952-c093",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Drowzee/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-356-1973-c094",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Hypno/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/bmw-e30-m3-1989-c095",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Krabby/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1985-c096",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Kingler/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-928-s4-1971-c097",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Voltorb/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1951-c098",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Electrode/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/porsche-911-carrera-1957-c099",
+        "visited": false
     },
     {
-        "url": "https://scrapeme.live/shop/Exeggcute/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Exeggutor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cubone/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Marowak/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hitmonlee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hitmonchan/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lickitung/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Koffing/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Weezing/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rhyhorn/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rhydon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chansey/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tangela/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kangaskhan/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Horsea/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Seadra/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Goldeen/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Seaking/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Staryu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Starmie/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mr-mime/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Scyther/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Jynx/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Electabuzz/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Magmar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pinsir/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tauros/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Magikarp/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gyarados/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lapras/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ditto/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Eevee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vaporeon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Jolteon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Flareon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Porygon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Omanyte/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Omastar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kabuto/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kabutops/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Aerodactyl/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Snorlax/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Articuno/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zapdos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Moltres/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dratini/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dragonair/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dragonite/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mewtwo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mew/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chikorita/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bayleef/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Meganium/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cyndaquil/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Quilava/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Typhlosion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Totodile/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Croconaw/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Feraligatr/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sentret/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Furret/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hoothoot/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Noctowl/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ledyba/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ledian/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spinarak/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ariados/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Crobat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chinchou/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lanturn/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pichu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cleffa/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Igglybuff/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Togepi/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Togetic/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Natu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Xatu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mareep/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Flaaffy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ampharos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bellossom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Marill/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Azumarill/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sudowoodo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Politoed/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hoppip/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skiploom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Jumpluff/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Aipom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sunkern/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sunflora/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Yanma/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wooper/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Quagsire/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Espeon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Umbreon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Murkrow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Slowking/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Misdreavus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Unown/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wobbuffet/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Girafarig/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gligar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Steelix/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Snubbull/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Granbull/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Qwilfish/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Scizor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shuckle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Heracross/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sneasel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Teddiursa/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ursaring/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Magcargo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swinub/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Piloswine/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Corsola/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Remoraid/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Octillery/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Delibird/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mantine/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skarmory/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Houndour/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Houndoom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kingdra/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Phanpy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Donphan/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Porygon2/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Stantler/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Smeargle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tyrogue/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hitmontop/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Smoochum/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Elekid/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Magby/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Miltank/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Blissey/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Raikou/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Entei/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Suicune/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Larvitar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pupitar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tyranitar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lugia/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ho-oh/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Celebi/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Treecko/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Grovyle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sceptile/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Torchic/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Combusken/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Blaziken/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mudkip/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Marshtomp/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swampert/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Poochyena/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mightyena/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zigzagoon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Linoone/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wurmple/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Silcoon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Beautifly/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cascoon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dustox/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lotad/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lombre/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ludicolo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Seedot/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Nuzleaf/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shiftry/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Taillow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swellow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wingull/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pelipper/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ralts/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kirlia/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gardevoir/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Surskit/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Masquerain/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shroomish/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Breloom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Slakoth/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vigoroth/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Slaking/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Nincada/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ninjask/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shedinja/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Whismur/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Loudred/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Exploud/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Makuhita/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hariyama/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Azurill/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Nosepass/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skitty/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Delcatty/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sableye/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mawile/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Aron/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lairon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Aggron/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Meditite/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Medicham/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Electrike/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Manectric/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Plusle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Minun/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Volbeat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Illumise/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Roselia/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gulpin/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swalot/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Carvanha/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sharpedo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wailmer/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wailord/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Numel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Camerupt/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Torkoal/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spoink/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Grumpig/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spinda/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Trapinch/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vibrava/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Flygon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cacnea/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cacturne/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swablu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Altaria/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Seviper/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lunatone/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Solrock/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Whiscash/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Corphish/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Crawdaunt/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Baltoy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Claydol/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lileep/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cradily/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Anorith/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Armaldo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Feebas/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Milotic/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Castform/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kecleon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shuppet/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Banette/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Duskull/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dusclops/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tropius/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chimecho/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Absol/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wynaut/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Snorunt/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Glalie/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spheal/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sealeo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Walrein/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Clamperl/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Huntail/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gorebyss/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Relicanth/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Luvdisc/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bagon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shelgon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Salamence/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Beldum/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Metang/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Metagross/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Regirock/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Regice/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Registeel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Latias/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Latios/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kyogre/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Groudon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rayquaza/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Jirachi/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Turtwig/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Grotle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Torterra/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chimchar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Monferno/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Infernape/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Prinplup/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Empoleon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Starly/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Staravia/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Staraptor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bidoof/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bibarel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kricketot/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kricketune/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shinx/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Luxio/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Luxray/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Budew/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Roserade/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cranidos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rampardos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shieldon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bastiodon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Burmy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mothim/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Combee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vespiquen/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pachirisu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Buizel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Floatzel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cherubi/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cherrim/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shellos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gastrodon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ambipom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Drifloon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Drifblim/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Buneary/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lopunny/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mismagius/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Honchkrow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Glameow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Purugly/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Stunky/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skuntank/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bronzong/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bonsly/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mime-jr/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Happiny/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chatot/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spiritomb/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gible/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gabite/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Garchomp/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Munchlax/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Riolu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lucario/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hippopotas/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hippowdon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skorupi/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Drapion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Croagunk/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Toxicroak/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Carnivine/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Finneon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lumineon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mantyke/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Snover/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Abomasnow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Magnezone/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lickilicky/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rhyperior/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tangrowth/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Electivire/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Magmortar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Togekiss/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Yanmega/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Leafeon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Glaceon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gliscor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mamoswine/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gallade/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Probopass/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dusknoir/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Froslass/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rotom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Uxie/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mesprit/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Azelf/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dialga/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Palkia/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Heatran/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Regigigas/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cresselia/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Phione/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Manaphy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Darkrai/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Arceus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Victini/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Snivy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Servine/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Serperior/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tepig/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pignite/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Emboar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Oshawott/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dewott/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Samurott/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Patrat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Watchog/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lillipup/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Herdier/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Stoutland/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Purrloin/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Liepard/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pansage/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Simisage/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pansear/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Simisear/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Panpour/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Simipour/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Munna/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Musharna/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pidove/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tranquill/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Unfezant/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zebstrika/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Roggenrola/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Boldore/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gigalith/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Woobat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swoobat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Drilbur/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Excadrill/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Audino/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Timburr/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gurdurr/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Conkeldurr/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Palpitoad/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Seismitoad/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Throh/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sawk/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sewaddle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swadloon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Leavanny/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Venipede/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Whirlipede/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Scolipede/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cottonee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Whimsicott/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Petilil/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lilligant/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sandile/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Krokorok/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Krookodile/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Darumaka/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Maractus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dwebble/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Crustle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Scraggy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Scrafty/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sigilyph/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Yamask/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cofagrigus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tirtouga/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Carracosta/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Archen/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Archeops/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Trubbish/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Garbodor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zorua/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Minccino/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cinccino/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gothita/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gothorita/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gothitelle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Solosis/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Duosion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Reuniclus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ducklett/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swanna/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vanillite/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vanillish/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vanilluxe/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Deerling/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sawsbuck/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Karrablast/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Escavalier/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Foongus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Frillish/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Jellicent/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Alomomola/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Joltik/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Galvantula/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ferroseed/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ferrothorn/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Klink/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Klang/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Klinklang/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tynamo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Eelektrik/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Eelektross/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Elgyem/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Beheeyem/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Litwick/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lampent/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Axew/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Fraxure/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Haxorus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cubchoo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Beartic/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cryogonal/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shelmet/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Accelgor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Stunfisk/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mienfoo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mienshao/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Druddigon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Golett/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Golurk/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pawniard/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bisharp/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bouffalant/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rufflet/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Braviary/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vullaby/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mandibuzz/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Heatmor/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Durant/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Deino/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zweilous/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hydreigon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Volcarona/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cobalion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Terrakion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Virizion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Reshiram/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zekrom/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Genesect/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chespin/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Quilladin/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Chesnaught/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Fennekin/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Braixen/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Delphox/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Froakie/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Frogadier/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Greninja/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bunnelby/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Fletchling/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Fletchinder/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Talonflame/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Scatterbug/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spewpa/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vivillon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Litleo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pyroar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Flabebe/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Floette/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Florges/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skiddo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gogoat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pangoro/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Furfrou/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Espurr/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Honedge/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Doublade/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Spritzee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Aromatisse/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Swirlix/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Slurpuff/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Inkay/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Malamar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Binacle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Barbaracle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Skrelp/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dragalge/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Clauncher/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Clawitzer/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Helioptile/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Heliolisk/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tyrunt/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tyrantrum/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Amaura/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Aurorus/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sylveon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hawlucha/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dedenne/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Carbink/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Goomy/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sliggoo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Goodra/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Klefki/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Trevenant/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bergmite/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Avalugg/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Noibat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Noivern/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Xerneas/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Yveltal/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Zygarde/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Diancie/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hoopa/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Volcanion/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dartrix/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Decidueye/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Litten/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Torracat/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Incineroar/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Popplio/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Brionne/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Primarina/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pikipek/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Trumbeak/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Toucannon/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Yungoos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Gumshoos/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Grubbin/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Charjabug/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Vikavolt/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Crabrawler/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Crabominable/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Cutiefly/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Ribombee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Rockruff/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mareanie/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Toxapex/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mudbray/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Mudsdale/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Dewpider/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Araquanid/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Fomantis/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lurantis/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Morelull/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Shiinotic/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Salandit/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Salazzle/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Stufful/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bewear/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Bounsweet/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Steenee/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tsareena/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Comfey/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Oranguru/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Passimian/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Wimpod/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Golisopod/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Sandygast/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Palossand/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pyukumuku/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Silvally/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Komala/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Turtonator/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Togedemaru/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Drampa/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Jangmo-o/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Hakamo-o/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kommo-o/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tapu-koko/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tapu-lele/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tapu-bulu/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Tapu-fini/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Solgaleo/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Lunala/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Nihilego/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Buzzwole/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Pheromosa/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Xurkitree/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Celesteela/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Kartana/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Guzzlord/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Necrozma/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Marshadow/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Poipole/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Naganadel/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Stakataka/",
-        "visited": true
-    },
-    {
-        "url": "https://scrapeme.live/shop/Blacephalon/",
-        "visited": true
+        "url": "https://webscraper.io/test-sites/product/ford-gt40-1989-c100",
+        "visited": false
     }
 ]
