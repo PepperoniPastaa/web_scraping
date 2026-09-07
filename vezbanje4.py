@@ -1,6 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import uuid
 
 BASE_URL = ('https://webscraper.io/test-sites/pagination?page=1')
 current_url = BASE_URL
@@ -44,23 +45,37 @@ while current_url:
 
 
 product_dict = []
+counter = 1
 for link in all_links:
-    url = link['url']
-    print("VISITING: ", url)
+    try:
+        url = link['url']
+        print("VISITING: ", url)
+        if link['visited'] == False:
 
-    product_response = requests.get(url, timeout=30)
-    product_content = BeautifulSoup(product_response.text, 'html.parser')
-    name = product_content.find('h3').get_text(strip=True)
-    details = product_content.find_all('p', {'class' : 'card-text'})
-    year = details[0].get_text(strip=True)
-    mileage = details[1].get_text(strip=True)
+            product_response = requests.get(url, timeout=30)
+            print("Working on product ", counter)
+            counter +=1
+            product_content = BeautifulSoup(product_response.text, 'html.parser')
 
-    product_info = {
-        'name': name,
-        'year': year,
-        'mileage': mileage
-    }
-    product_dict.append(product_info) 
+            name = product_content.find('h2', {'class': 'title'}).get_text(strip=True)
+            price = product_content.find('h3', {'class': 'price'}).get_text(strip=True)
+            year = product_content.find('td', {'class': 'year'}).get_text(strip=True)
+            mileage = product_content.find('td', {'class': 'mileage'}).get_text(strip=True)
+
+            product_info = {
+                'id' : str(uuid.uuid4()),
+                'name': name,
+                'price': price,
+                'year': year,
+                'mileage': mileage
+            }
+            product_dict.append(product_info)
+            link ['visited'] = True
+            with open("products.json", "w", encoding="utf-8") as file:
+                json.dump(product_dict, file, indent=4, ensure_ascii=False)
+
+    except Exception as e:
+         print(e) 
 
 
 
@@ -71,5 +86,4 @@ with open("links.json", "w", encoding="utf-8") as file:
         json.dump(all_links, file, indent=4, ensure_ascii=False)
 
 
-with open("products.json", "w", encoding="utf-8") as file:
-    json.dump(product_dict, file, indent=4, ensure_ascii=False)
+
