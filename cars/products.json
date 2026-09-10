@@ -1,702 +1,702 @@
 [
     {
-        "id": "8f9d3bf4-c100-48c2-9951-de7264076710",
+        "id": "fb4da622-f55a-4091-8f84-c2531b46d423",
         "name": "Mercedes-Benz W123 280E 1955",
-        "price": "USD228 511",
+        "price": 228.511,
         "year": "1955",
-        "mileage": "104 338 km"
+        "mileage": 104338
     },
     {
-        "id": "9f1e00a4-f749-4922-a836-7d39b2e82054",
+        "id": "17517395-ff18-4e76-9298-e530ec82374b",
         "name": "BMW E24 635CSi 1954",
-        "price": "USD18 457",
+        "price": 18.457,
         "year": "1954",
-        "mileage": "189 886 km"
+        "mileage": 189886
     },
     {
-        "id": "7f746c27-d181-4c63-9d06-118e3de09ae8",
+        "id": "9acf5bda-4238-4b8c-9dac-e0977b06d010",
         "name": "Jaguar XJ6 1983",
-        "price": "USD268 210",
+        "price": 268.21,
         "year": "1983",
-        "mileage": "119 395 km"
+        "mileage": 119395
     },
     {
-        "id": "be17f20d-b49c-4fd7-8ec6-d4b23d5decf3",
+        "id": "01761a12-49ed-4923-a251-26dde3ec33ac",
         "name": "Nissan 300ZX Z31 1966",
-        "price": "USD104 195",
+        "price": 104.195,
         "year": "1966",
-        "mileage": "134 738 km"
+        "mileage": 134738
     },
     {
-        "id": "4f1705d4-8b26-44e9-84d6-7e5624cd9ef6",
+        "id": "d58a5af1-989b-403f-aba2-a3f55d1bc64d",
         "name": "Ferrari F40 1984",
-        "price": "USD277 672",
+        "price": 277.672,
         "year": "1984",
-        "mileage": "141 828 km"
+        "mileage": 141828
     },
     {
-        "id": "9ac2cbbb-0493-4f0c-bbef-04da7345865d",
+        "id": "2b831f3c-29e5-4048-9fd7-f20527e74b6c",
         "name": "Mercedes-Benz W123 280E 1972",
-        "price": "USD157 569",
+        "price": 157.569,
         "year": "1972",
-        "mileage": "31 412 km"
+        "mileage": 31412
     },
     {
-        "id": "88693c85-6da7-4ffa-b5e1-b39e2ba8b3e2",
+        "id": "0b3c183a-c374-41a9-8633-3f222cc0d9cd",
         "name": "Toyota 2000GT 1970",
-        "price": "USD152 646",
+        "price": 152.646,
         "year": "1970",
-        "mileage": "182 543 km"
+        "mileage": 182543
     },
     {
-        "id": "d610d005-0ed8-4c2f-ab37-78e8bdd197bb",
+        "id": "35142ba2-d296-4a71-9488-7019e4f21f84",
         "name": "Toyota MR2 AW11 1969",
-        "price": "USD91 619",
+        "price": 91.619,
         "year": "1969",
-        "mileage": "150 555 km"
+        "mileage": 150555
     },
     {
-        "id": "6b5cc291-0d71-487b-9f3d-4739de60d928",
+        "id": "d64cb8ca-4380-45ef-99d1-4c36dffa8639",
         "name": "Nissan 300ZX Z31 1978",
-        "price": "USD174 281",
+        "price": 174.281,
         "year": "1978",
-        "mileage": "160 903 km"
+        "mileage": 160903
     },
     {
-        "id": "a6f5f1f9-f1e9-4264-bbb8-ec1e2921ac32",
+        "id": "6b1aa7df-7538-4ce2-96f0-7e623e783c05",
         "name": "Ferrari 308 GTS 1970",
-        "price": "USD153 699",
+        "price": 153.699,
         "year": "1970",
-        "mileage": "213 735 km"
+        "mileage": 213735
     },
     {
-        "id": "0c4d7518-993f-4d5e-b622-3e27ee3451cb",
+        "id": "39f8ddb9-78af-45cd-9c1f-1267ba846552",
         "name": "Porsche 911 Carrera 1980",
-        "price": "USD273 100",
+        "price": 273.1,
         "year": "1980",
-        "mileage": "73 759 km"
+        "mileage": 73759
     },
     {
-        "id": "4eb97d2c-f478-455b-b693-e194a5ec42c6",
+        "id": "59349401-4e8f-4902-a8a5-39fb326687d4",
         "name": "Ford GT40 1973",
-        "price": "USD235 600",
+        "price": 235.6,
         "year": "1973",
-        "mileage": "212 581 km"
+        "mileage": 212581
     },
     {
-        "id": "ad58e005-a5d6-4e94-80a0-e50e344b8738",
+        "id": "a74d878e-bf1d-4e96-9955-3b6e04f639d3",
         "name": "Toyota AE86 Sprinter Trueno 1954",
-        "price": "USD170 136",
+        "price": 170.136,
         "year": "1954",
-        "mileage": "114 768 km"
+        "mileage": 114768
     },
     {
-        "id": "09114618-fe5a-43bd-b8f2-09f3742fe922",
+        "id": "eea0f8eb-7fd6-4d5e-8c6a-a8fcd2ba3c73",
         "name": "Jaguar XJ6 1986",
-        "price": "USD314 641",
+        "price": 314.641,
         "year": "1986",
-        "mileage": "27 784 km"
+        "mileage": 27784
     },
     {
-        "id": "fc5d5a6d-40f0-42c1-912d-658c4c7477a9",
+        "id": "ee60c398-6488-4d94-82f8-34a1f32b8a69",
         "name": "Porsche 928 S4 1973",
-        "price": "USD130 792",
+        "price": 130.792,
         "year": "1973",
-        "mileage": "167 070 km"
+        "mileage": 167070
     },
     {
-        "id": "0434219f-92ef-4ad6-a104-9cad6cc149d3",
+        "id": "1acf9576-d55f-44ba-958f-f195718b0f5c",
         "name": "Ford GT40 1952",
-        "price": "USD333 273",
+        "price": 333.273,
         "year": "1952",
-        "mileage": "152 565 km"
+        "mileage": 152565
     },
     {
-        "id": "dfc91388-45aa-49dc-a580-422f00784a42",
+        "id": "0b694110-027a-4e97-b66e-770302987179",
         "name": "BMW 2002 1978",
-        "price": "USD336 315",
+        "price": 336.315,
         "year": "1978",
-        "mileage": "181 589 km"
+        "mileage": 181589
     },
     {
-        "id": "9c0ad2b9-de51-4c51-9b92-7e829fc729b6",
+        "id": "81528599-d2bb-4222-b05a-869799c19039",
         "name": "Nissan Fairlady Z (S30) 1962",
-        "price": "USD125 955",
+        "price": 125.955,
         "year": "1962",
-        "mileage": "17 872 km"
+        "mileage": 17872
     },
     {
-        "id": "b63784f2-56f5-4537-a202-5d9e48cc67ed",
+        "id": "cc676c2b-7183-4814-8762-22737ff9f4d9",
         "name": "BMW E28 535i 1970",
-        "price": "USD126 154",
+        "price": 126.154,
         "year": "1970",
-        "mileage": "73 208 km"
+        "mileage": 73208
     },
     {
-        "id": "c4b31d30-1730-485c-b871-15a9275830c1",
+        "id": "8b616539-7cec-4a94-a965-c4e66791c92e",
         "name": "Porsche 944 Turbo 1956",
-        "price": "USD81 049",
+        "price": 81.049,
         "year": "1956",
-        "mileage": "131 662 km"
+        "mileage": 131662
     },
     {
-        "id": "b49a744a-5d2d-4587-8543-0ac62a2b1355",
+        "id": "e6092c89-faf2-4267-9e57-afd3bb9a3bcb",
         "name": "Ford Sierra Cosworth 1955",
-        "price": "USD122 977",
+        "price": 122.977,
         "year": "1955",
-        "mileage": "241 170 km"
+        "mileage": 241170
     },
     {
-        "id": "61252bc1-2a04-4b1d-acff-48020e402d71",
+        "id": "8945f237-cefd-48b5-8e3e-0f3ec4466cfc",
         "name": "Ferrari F40 1953",
-        "price": "USD44 553",
+        "price": 44.553,
         "year": "1953",
-        "mileage": "130 205 km"
+        "mileage": 130205
     },
     {
-        "id": "7518092e-1319-4045-bdcf-3ce4dcd4e705",
+        "id": "d96f2ee7-8543-4953-b489-e15a604f67b0",
         "name": "Jaguar XJ6 1975",
-        "price": "USD196 170",
+        "price": 196.17,
         "year": "1975",
-        "mileage": "90 515 km"
+        "mileage": 90515
     },
     {
-        "id": "3e6736ec-1a06-4a00-bb1f-0f3e2d16b40e",
+        "id": "6599ef77-20b5-46d4-b755-b235e4c347bf",
         "name": "Porsche 944 Turbo 1952",
-        "price": "USD330 964",
+        "price": 330.964,
         "year": "1952",
-        "mileage": "106 892 km"
+        "mileage": 106892
     },
     {
-        "id": "7cec65d0-321b-4898-ab49-ccdc0fc07441",
+        "id": "d65322b5-8a7b-447a-87e8-d36b5175ce11",
         "name": "BMW E30 M3 1975",
-        "price": "USD347 873",
+        "price": 347.873,
         "year": "1975",
-        "mileage": "186 306 km"
+        "mileage": 186306
     },
     {
-        "id": "111540e3-7536-4024-99ea-f8ebbca07072",
+        "id": "0f794a14-0db9-4b9b-aaae-dca7d89e6d9e",
         "name": "Ford Mustang Fastback 1956",
-        "price": "USD86 503",
+        "price": 86.503,
         "year": "1956",
-        "mileage": "81 807 km"
+        "mileage": 81807
     },
     {
-        "id": "f7a8c152-0f77-4af5-baeb-6bcde29e7177",
+        "id": "79d47cab-1868-489f-86c4-65fbe608e403",
         "name": "BMW E28 535i 1968",
-        "price": "USD349 488",
+        "price": 349.488,
         "year": "1968",
-        "mileage": "44 686 km"
+        "mileage": 44686
     },
     {
-        "id": "41a37fd3-b1b4-45a1-84a7-b54ac42a73b0",
+        "id": "3db4332c-b39b-4ab6-8e85-188afdfc4165",
         "name": "Mercedes-Benz SL 560 1963",
-        "price": "USD140 819",
+        "price": 140.819,
         "year": "1963",
-        "mileage": "84 909 km"
+        "mileage": 84909
     },
     {
-        "id": "f1956476-1982-4658-b28f-4d8690da339b",
+        "id": "0e498639-83a1-4d3a-8966-4e14f27ae769",
         "name": "Mercedes-Benz SEC 500 1962",
-        "price": "USD177 703",
+        "price": 177.703,
         "year": "1962",
-        "mileage": "189 478 km"
+        "mileage": 189478
     },
     {
-        "id": "ef046904-f87a-4eec-9da4-574b01795b42",
+        "id": "eb0d6d7e-e87d-4bfa-8bcf-02a3a401108e",
         "name": "Porsche 911 Carrera 1953",
-        "price": "USD303 295",
+        "price": 303.295,
         "year": "1953",
-        "mileage": "203 308 km"
+        "mileage": 203308
     },
     {
-        "id": "87199392-9bd0-4d81-9a5d-91ab387c0979",
+        "id": "2528d9bb-d150-4c00-8dff-9dd45628b4c7",
         "name": "Ferrari 250 GT 1959",
-        "price": "USD290 422",
+        "price": 290.422,
         "year": "1959",
-        "mileage": "115 751 km"
+        "mileage": 115751
     },
     {
-        "id": "10e8756d-6c5d-4d87-a239-3618d8951b42",
+        "id": "1171f25c-794c-4636-a2b5-10fb604aecf1",
         "name": "Jaguar XJ6 1982",
-        "price": "USD235 621",
+        "price": 235.621,
         "year": "1982",
-        "mileage": "236 555 km"
+        "mileage": 236555
     },
     {
-        "id": "1b6fac14-143b-41bd-bc24-5263a9ee7bef",
+        "id": "a084cdf8-5ff1-4712-82dd-c8f48854c00d",
         "name": "Ferrari F40 1951",
-        "price": "USD209 858",
+        "price": 209.858,
         "year": "1951",
-        "mileage": "156 165 km"
+        "mileage": 156165
     },
     {
-        "id": "92baa2c5-3c51-402b-a15e-65092beda22e",
+        "id": "13c74fc6-5039-45f8-ae56-acdfcd93e934",
         "name": "Ford GT40 1961",
-        "price": "USD69 904",
+        "price": 69.904,
         "year": "1961",
-        "mileage": "193 161 km"
+        "mileage": 193161
     },
     {
-        "id": "c704a7ab-3074-4f0a-9e5e-09386f3bae6e",
+        "id": "d54b586f-a239-403a-b5ef-05d825977124",
         "name": "Ford Sierra Cosworth 1980",
-        "price": "USD107 513",
+        "price": 107.513,
         "year": "1980",
-        "mileage": "25 622 km"
+        "mileage": 25622
     },
     {
-        "id": "224d1b58-f79a-424c-8310-88ad6fc6a507",
+        "id": "73db40de-7cea-4f69-b8aa-5d6bfbe01cd1",
         "name": "Porsche 944 Turbo 1982",
-        "price": "USD17 747",
+        "price": 17.747,
         "year": "1982",
-        "mileage": "130 019 km"
+        "mileage": 130019
     },
     {
-        "id": "3d574e04-b9cc-415d-a62f-fbd934fd8946",
+        "id": "bc3133a7-dbcd-473f-af39-67f4bb57b989",
         "name": "BMW E28 535i 1978",
-        "price": "USD258 187",
+        "price": 258.187,
         "year": "1978",
-        "mileage": "77 472 km"
+        "mileage": 77472
     },
     {
-        "id": "8c6dff33-6c74-4d39-a5f5-27081fc843ad",
+        "id": "1d837cd5-58fb-4af3-8e1a-19f7ed0cdfc4",
         "name": "Nissan Fairlady Z (S30) 1980",
-        "price": "USD239 692",
+        "price": 239.692,
         "year": "1980",
-        "mileage": "96 463 km"
+        "mileage": 96463
     },
     {
-        "id": "784816d3-dcc8-4f26-9f81-81c7c6014d16",
+        "id": "c9175002-6711-4a1f-a8c5-17837eefa118",
         "name": "Nissan 300ZX Z31 1976",
-        "price": "USD224 552",
+        "price": 224.552,
         "year": "1976",
-        "mileage": "197 971 km"
+        "mileage": 197971
     },
     {
-        "id": "7f4c0732-a353-4a43-8f71-7aa7bea694ca",
+        "id": "34cd6274-9719-4f9b-8656-564a243d8060",
         "name": "Jaguar E-Type 1957",
-        "price": "USD208 036",
+        "price": 208.036,
         "year": "1957",
-        "mileage": "129 496 km"
+        "mileage": 129496
     },
     {
-        "id": "099f4334-5b2b-4ff2-8753-0b8d83c8e913",
+        "id": "48021e2a-d87c-457f-81e7-27f0549f5c3b",
         "name": "Ford GT40 1972",
-        "price": "USD48 086",
+        "price": 48.086,
         "year": "1972",
-        "mileage": "117 717 km"
+        "mileage": 117717
     },
     {
-        "id": "8ed4c925-6420-4ad0-b6d3-0ab6f2da249d",
+        "id": "a4af8f70-acd4-46f6-bfc7-8ec9e8402653",
         "name": "Ford Sierra Cosworth 1980",
-        "price": "USD204 109",
+        "price": 204.109,
         "year": "1980",
-        "mileage": "55 820 km"
+        "mileage": 55820
     },
     {
-        "id": "9c94c6ab-c1b3-4ecc-8a98-c3a69a05d25e",
+        "id": "8ed8d0df-156e-4f28-96b4-5fcb39ad95e6",
         "name": "Nissan Skyline GT-R (KPGC10) 1971",
-        "price": "USD264 577",
+        "price": 264.577,
         "year": "1971",
-        "mileage": "185 735 km"
+        "mileage": 185735
     },
     {
-        "id": "89a7fc3b-ba91-417f-8fa2-ca4e3f170d56",
+        "id": "dde6f174-7b0d-4241-a46f-8a67753b1200",
         "name": "Mercedes-Benz 190E 1976",
-        "price": "USD281 984",
+        "price": 281.984,
         "year": "1976",
-        "mileage": "218 705 km"
+        "mileage": 218705
     },
     {
-        "id": "6c3e27a4-1fb4-4f0b-8ce9-eda598dae0ac",
+        "id": "b32c03fe-8c88-4f49-9707-c4331efe755d",
         "name": "BMW E28 535i 1979",
-        "price": "USD346 703",
+        "price": 346.703,
         "year": "1979",
-        "mileage": "94 772 km"
+        "mileage": 94772
     },
     {
-        "id": "cc58e279-ef97-4c50-b411-7bc7b2ec9236",
+        "id": "0c4fa07b-36a5-497e-bc66-4eff5ac396d9",
         "name": "Ferrari 250 GT 1969",
-        "price": "USD115 563",
+        "price": 115.563,
         "year": "1969",
-        "mileage": "102 304 km"
+        "mileage": 102304
     },
     {
-        "id": "b235fc26-5a5e-4dfd-be20-5595ed78fd86",
+        "id": "4b4d1c71-2729-4e9f-bfe6-747a49c67833",
         "name": "Porsche 944 Turbo 1977",
-        "price": "USD105 199",
+        "price": 105.199,
         "year": "1977",
-        "mileage": "77 140 km"
+        "mileage": 77140
     },
     {
-        "id": "fe0e9864-6c2b-4715-a202-50b46c448abe",
+        "id": "5ccddefc-71bf-429b-9658-d3ddb3e036e8",
         "name": "Mercedes-Benz SEC 500 1981",
-        "price": "USD178 008",
+        "price": 178.008,
         "year": "1981",
-        "mileage": "65 447 km"
+        "mileage": 65447
     },
     {
-        "id": "ed1761c6-b667-4aff-b470-2a8a2935c064",
+        "id": "cf2680b6-2d3f-413f-95ff-6302fda9067a",
         "name": "Porsche 911 Carrera 1981",
-        "price": "USD77 234",
+        "price": 77.234,
         "year": "1981",
-        "mileage": "203 484 km"
+        "mileage": 203484
     },
     {
-        "id": "d1efd63e-7fa0-416c-9432-2d9e935e2aec",
+        "id": "6eaa7970-595c-4449-99bf-bb47ad9b0468",
         "name": "Jaguar XJ6 1965",
-        "price": "USD94 414",
+        "price": 94.414,
         "year": "1965",
-        "mileage": "149 463 km"
+        "mileage": 149463
     },
     {
-        "id": "84c6a52f-aca5-44a2-83fe-5938a923ffe1",
+        "id": "558ffecd-5ef3-429e-a03a-41edf0b97288",
         "name": "Jaguar E-Type 1978",
-        "price": "USD349 028",
+        "price": 349.028,
         "year": "1978",
-        "mileage": "211 204 km"
+        "mileage": 211204
     },
     {
-        "id": "f5b547b7-2d18-4a27-b194-f1197148565b",
+        "id": "fbe15468-6327-4be6-a2ff-5cc281277b84",
         "name": "Ford Sierra Cosworth 1966",
-        "price": "USD155 193",
+        "price": 155.193,
         "year": "1966",
-        "mileage": "202 085 km"
+        "mileage": 202085
     },
     {
-        "id": "c1853746-472f-451b-9d85-0ce5b353cf3d",
+        "id": "dbc5c55b-2e55-4da3-b176-d5b443749d86",
         "name": "Ferrari F40 1959",
-        "price": "USD302 521",
+        "price": 302.521,
         "year": "1959",
-        "mileage": "82 731 km"
+        "mileage": 82731
     },
     {
-        "id": "7db5ad1a-e4b8-4441-8070-7d7206eba8dc",
+        "id": "8b18f5ea-5f21-4020-9bf2-d5cdb97a6d28",
         "name": "Ferrari 308 GTS 1959",
-        "price": "USD329 084",
+        "price": 329.084,
         "year": "1959",
-        "mileage": "137 225 km"
+        "mileage": 137225
     },
     {
-        "id": "b147abb8-64f3-4a74-9460-614765a147bd",
+        "id": "fe84f709-ca5d-4159-9007-69f6a376890a",
         "name": "Porsche 911 Carrera 1965",
-        "price": "USD293 234",
+        "price": 293.234,
         "year": "1965",
-        "mileage": "115 053 km"
+        "mileage": 115053
     },
     {
-        "id": "c8d82294-9a58-4156-92fb-758d1e4a6342",
+        "id": "4b30d3b1-4988-4b71-a89b-8c42b51f9f7f",
         "name": "Jaguar E-Type 1973",
-        "price": "USD103 048",
+        "price": 103.048,
         "year": "1973",
-        "mileage": "25 559 km"
+        "mileage": 25559
     },
     {
-        "id": "d812fb59-6331-4394-9080-bf080cdad9d6",
+        "id": "49df2763-44a6-4a70-888e-f50fcc890b5a",
         "name": "Ford Mustang Fastback 1962",
-        "price": "USD131 451",
+        "price": 131.451,
         "year": "1962",
-        "mileage": "147 155 km"
+        "mileage": 147155
     },
     {
-        "id": "3d54fb1e-8d9e-411d-87de-4af93fd74e7b",
+        "id": "187b3c7c-1a60-4f95-9a5f-42d67dc54fd3",
         "name": "Mercedes-Benz SEC 500 1962",
-        "price": "USD343 370",
+        "price": 343.37,
         "year": "1962",
-        "mileage": "229 751 km"
+        "mileage": 229751
     },
     {
-        "id": "0dad7444-db21-44d1-b00e-6f9c437f3772",
+        "id": "7c95308f-09a9-40b1-9d4a-42b4b03d0d94",
         "name": "Nissan Fairlady Z (S30) 1951",
-        "price": "USD208 956",
+        "price": 208.956,
         "year": "1951",
-        "mileage": "205 239 km"
+        "mileage": 205239
     },
     {
-        "id": "2137e163-35f6-40da-adb4-424d3eaf7692",
+        "id": "4e334177-5cfd-41b3-976a-ddf801b05121",
         "name": "Jaguar E-Type 1987",
-        "price": "USD188 315",
+        "price": 188.315,
         "year": "1987",
-        "mileage": "142 287 km"
+        "mileage": 142287
     },
     {
-        "id": "2b12d9ad-5edb-4bb1-b34d-393e2702333e",
+        "id": "2425f497-e6b2-4c25-abe1-2e67251c6ff7",
         "name": "Toyota MR2 AW11 1953",
-        "price": "USD204 066",
+        "price": 204.066,
         "year": "1953",
-        "mileage": "101 124 km"
+        "mileage": 101124
     },
     {
-        "id": "bc0246ad-dc56-431a-9b26-a3939582f960",
+        "id": "f3670457-5d03-4754-9dcf-92c2c7f5c93c",
         "name": "Toyota AE86 Sprinter Trueno 1962",
-        "price": "USD17 872",
+        "price": 17.872,
         "year": "1962",
-        "mileage": "190 147 km"
+        "mileage": 190147
     },
     {
-        "id": "56b468cf-4f9b-4f5e-93c4-86c4871f8d12",
+        "id": "90ecf176-ec24-4dd4-89a4-77f103076fe4",
         "name": "BMW E28 535i 1974",
-        "price": "USD109 962",
+        "price": 109.962,
         "year": "1974",
-        "mileage": "155 295 km"
+        "mileage": 155295
     },
     {
-        "id": "1b618eae-dffb-405e-8d91-86bf0f71fbfd",
+        "id": "cd7aebb2-c3b9-42e4-b4ed-9622c2b17457",
         "name": "Nissan Fairlady Z (S30) 1989",
-        "price": "USD44 895",
+        "price": 44.895,
         "year": "1989",
-        "mileage": "64 909 km"
+        "mileage": 64909
     },
     {
-        "id": "b688ee64-e3a5-43a7-bfac-98ed6085ed48",
+        "id": "17b0c087-8436-4403-8ef8-1bd6e0a11b3b",
         "name": "Ferrari F40 1971",
-        "price": "USD304 752",
+        "price": 304.752,
         "year": "1971",
-        "mileage": "140 508 km"
+        "mileage": 140508
     },
     {
-        "id": "570a2711-64f7-4d7d-9c62-c9aa38727026",
+        "id": "6bd7fca8-dd16-4eda-a968-2aa8d374fc5b",
         "name": "Nissan 300ZX Z31 1984",
-        "price": "USD136 099",
+        "price": 136.099,
         "year": "1984",
-        "mileage": "243 270 km"
+        "mileage": 243270
     },
     {
-        "id": "438d5f43-c81a-42de-bd12-9e688d4559c7",
+        "id": "7c30cd5b-159a-4021-a057-0ad2180997b8",
         "name": "BMW E30 M3 1982",
-        "price": "USD178 474",
+        "price": 178.474,
         "year": "1982",
-        "mileage": "222 858 km"
+        "mileage": 222858
     },
     {
-        "id": "1b278da1-5e3d-4539-a88b-1276a5fb7f87",
+        "id": "e7072077-ddae-46a7-8119-fbceb7603963",
         "name": "Toyota AE86 Sprinter Trueno 1952",
-        "price": "USD53 714",
+        "price": 53.714,
         "year": "1952",
-        "mileage": "234 956 km"
+        "mileage": 234956
     },
     {
-        "id": "8bc18d73-d4c1-4405-bf05-8b9bb9a4ab56",
+        "id": "e7b270bd-0217-4288-b64b-a5ffaec8662b",
         "name": "Jaguar XJ6 1954",
-        "price": "USD249 295",
+        "price": 249.295,
         "year": "1954",
-        "mileage": "189 516 km"
+        "mileage": 189516
     },
     {
-        "id": "a0398eb1-4244-4324-b3ca-ce59f22624b3",
+        "id": "69bf3c1b-73bc-438a-bbbe-115c2445387e",
         "name": "Ford GT40 1990",
-        "price": "USD316 585",
+        "price": 316.585,
         "year": "1990",
-        "mileage": "33 861 km"
+        "mileage": 33861
     },
     {
-        "id": "bb8dbc0b-225e-4729-b38e-fbd2717ef204",
+        "id": "f851aca2-5ec2-4fb9-920c-821f9d1b26e8",
         "name": "Jaguar XJ-S 1985",
-        "price": "USD325 092",
+        "price": 325.092,
         "year": "1985",
-        "mileage": "130 148 km"
+        "mileage": 130148
     },
     {
-        "id": "0a00ffd4-ed87-4489-bf49-392e0f012f26",
+        "id": "14adda6e-0c2b-4fb9-bdc8-7edc20771eef",
         "name": "Ferrari 250 GT 1956",
-        "price": "USD336 014",
+        "price": 336.014,
         "year": "1956",
-        "mileage": "129 563 km"
+        "mileage": 129563
     },
     {
-        "id": "84fb9677-ca52-48df-8bc8-7dfadb0481e9",
+        "id": "979eb984-5ee8-418e-841b-57e76a28c64a",
         "name": "Mercedes-Benz W123 280E 1964",
-        "price": "USD169 116",
+        "price": 169.116,
         "year": "1964",
-        "mileage": "70 032 km"
+        "mileage": 70032
     },
     {
-        "id": "6def9625-49e2-4685-93c6-339da5cf4e9e",
+        "id": "e9300e17-3ef8-484c-82a9-fc4f3e4fced5",
         "name": "Ferrari F40 1978",
-        "price": "USD98 263",
+        "price": 98.263,
         "year": "1978",
-        "mileage": "202 743 km"
+        "mileage": 202743
     },
     {
-        "id": "47a8481f-a630-49df-9161-41d71fbbf294",
+        "id": "96385bd7-1f5f-4fda-ae46-1562f5a98329",
         "name": "Ferrari 250 GT 1952",
-        "price": "USD205 986",
+        "price": 205.986,
         "year": "1952",
-        "mileage": "135 513 km"
+        "mileage": 135513
     },
     {
-        "id": "20534005-ae67-4c58-86d8-093fb7989bb4",
+        "id": "1fc5f121-9908-4e96-821e-7e296a8cd2e9",
         "name": "BMW E30 M3 1979",
-        "price": "USD266 205",
+        "price": 266.205,
         "year": "1979",
-        "mileage": "39 638 km"
+        "mileage": 39638
     },
     {
-        "id": "192b592b-a65c-47de-9566-27bb5a0b6822",
+        "id": "f0e119dd-436a-4b8f-8c15-a3d9d79964b2",
         "name": "Porsche 911 Carrera 1962",
-        "price": "USD168 221",
+        "price": 168.221,
         "year": "1962",
-        "mileage": "174 886 km"
+        "mileage": 174886
     },
     {
-        "id": "eaa57728-8a5a-4beb-b8de-4276fc6d7151",
+        "id": "ef90bd7c-1375-4313-9614-282a16b6ad70",
         "name": "Nissan 300ZX Z31 1970",
-        "price": "USD54 668",
+        "price": 54.668,
         "year": "1970",
-        "mileage": "188 121 km"
+        "mileage": 188121
     },
     {
-        "id": "94b20501-2b9f-49e7-8a5e-d32ff34a68da",
+        "id": "d5b65b98-4825-4a92-9577-97b00d1af0dd",
         "name": "BMW E30 M3 1962",
-        "price": "USD38 102",
+        "price": 38.102,
         "year": "1962",
-        "mileage": "82 600 km"
+        "mileage": 82600
     },
     {
-        "id": "9328d7e8-3735-48e7-b0ee-98b75ef025b2",
+        "id": "8a67ac28-dba0-484d-a7cf-0d4af42b556e",
         "name": "BMW 2002 1970",
-        "price": "USD220 508",
+        "price": 220.508,
         "year": "1970",
-        "mileage": "137 568 km"
+        "mileage": 137568
     },
     {
-        "id": "fe2235e6-c357-495a-b9f0-f37a21801ead",
+        "id": "8f16e1ed-440e-4e26-aa1d-3309f7666570",
         "name": "Ferrari 250 GT 1950",
-        "price": "USD228 180",
+        "price": 228.18,
         "year": "1950",
-        "mileage": "110 957 km"
+        "mileage": 110957
     },
     {
-        "id": "b19e6dc4-6fa3-4039-b5ff-ec72d1d5792a",
+        "id": "6a2fce35-2af6-406e-8ffc-f8dcbaba006a",
         "name": "Jaguar XJ6 1974",
-        "price": "USD30 601",
+        "price": 30.601,
         "year": "1974",
-        "mileage": "33 941 km"
+        "mileage": 33941
     },
     {
-        "id": "0a8fd1b4-3cbb-4a35-a5c6-49241daae356",
+        "id": "581e27b4-11a4-4261-a8a9-873d4acacbb6",
         "name": "Ford Sierra Cosworth 1976",
-        "price": "USD157 822",
+        "price": 157.822,
         "year": "1976",
-        "mileage": "122 536 km"
+        "mileage": 122536
     },
     {
-        "id": "f9bd1f17-0ba2-486e-9fe9-523dc4c180e6",
+        "id": "c0e3ac6d-9362-4673-a63a-16bf91db79d9",
         "name": "Mercedes-Benz 190E 1980",
-        "price": "USD85 476",
+        "price": 85.476,
         "year": "1980",
-        "mileage": "159 167 km"
+        "mileage": 159167
     },
     {
-        "id": "2c554a5b-ce84-4cf0-bff2-d8acdfb3bd19",
+        "id": "d1594b66-7345-4cd7-8e34-7c440bed73d3",
         "name": "Ford Sierra Cosworth 1965",
-        "price": "USD262 719",
+        "price": 262.719,
         "year": "1965",
-        "mileage": "243 755 km"
+        "mileage": 243755
     },
     {
-        "id": "7845fac0-f5a7-4329-865d-3db567f4b2e0",
+        "id": "4701844b-9fbb-4ea4-9ece-174768aa89e9",
         "name": "BMW E24 635CSi 1985",
-        "price": "USD88 474",
+        "price": 88.474,
         "year": "1985",
-        "mileage": "45 883 km"
+        "mileage": 45883
     },
     {
-        "id": "5bc866e0-724e-4e82-9a3a-04a7a3d95c6d",
+        "id": "9b659ffd-10a1-4bdf-b677-9c5eae19d753",
         "name": "Ford Mustang Fastback 1977",
-        "price": "USD73 056",
+        "price": 73.056,
         "year": "1977",
-        "mileage": "71 037 km"
+        "mileage": 71037
     },
     {
-        "id": "7aa9997c-cdaf-4758-a6a0-661e3de66202",
+        "id": "ee9633da-f610-4b3d-b7a8-5532dc7cff14",
         "name": "Mercedes-Benz SEC 500 1965",
-        "price": "USD265 704",
+        "price": 265.704,
         "year": "1965",
-        "mileage": "127 489 km"
+        "mileage": 127489
     },
     {
-        "id": "cf9a4233-2593-4e36-8582-a8aa339b883b",
+        "id": "cecc4027-6450-4ca9-8fc2-b13f41545fc9",
         "name": "BMW E28 535i 1959",
-        "price": "USD245 217",
+        "price": 245.217,
         "year": "1959",
-        "mileage": "32 163 km"
+        "mileage": 32163
     },
     {
-        "id": "b49740f6-fa72-406d-a997-ac6524505272",
+        "id": "42683d74-35d3-4d0b-9f71-5d527d8809f3",
         "name": "Mercedes-Benz SL 560 1979",
-        "price": "USD297 732",
+        "price": 297.732,
         "year": "1979",
-        "mileage": "142 353 km"
+        "mileage": 142353
     },
     {
-        "id": "7854b7bd-d8f5-4061-b83d-c113eafecce3",
+        "id": "657f1d13-69c6-4cd3-8fa2-9a631398cddb",
         "name": "BMW 2002 1974",
-        "price": "USD58 380",
+        "price": 58.38,
         "year": "1974",
-        "mileage": "203 903 km"
+        "mileage": 203903
     },
     {
-        "id": "e7a7798e-ebb2-491b-a0da-ab16a82f25ab",
+        "id": "b1b87418-0735-4570-9bdf-ca454841054e",
         "name": "Jaguar XJ6 1973",
-        "price": "USD282 023",
+        "price": 282.023,
         "year": "1973",
-        "mileage": "87 371 km"
+        "mileage": 87371
     },
     {
-        "id": "91d50954-8730-4f8b-a616-9e83cf38d511",
+        "id": "219fd3e6-4724-461a-9d09-30a8284d59ce",
         "name": "Toyota MR2 AW11 1952",
-        "price": "USD265 373",
+        "price": 265.373,
         "year": "1952",
-        "mileage": "27 208 km"
+        "mileage": 27208
     },
     {
-        "id": "741b633c-aa61-4f62-a688-57e933b455e3",
+        "id": "39303b92-462e-49e2-8b3a-f717a2f0e64d",
         "name": "Porsche 356 1973",
-        "price": "USD188 422",
+        "price": 188.422,
         "year": "1973",
-        "mileage": "70 725 km"
+        "mileage": 70725
     },
     {
-        "id": "0f4ebd5d-25fd-4510-bb59-0eb1d8dc3cd5",
+        "id": "09e0ddca-8856-4ea7-bbb9-cbbf20cda644",
         "name": "BMW E30 M3 1989",
-        "price": "USD258 239",
+        "price": 258.239,
         "year": "1989",
-        "mileage": "226 990 km"
+        "mileage": 226990
     },
     {
-        "id": "e761b88d-bfa7-42c6-9cce-b791db9b5fe1",
+        "id": "79a57c39-6e2a-49ac-adbe-3a160c96971e",
         "name": "Ford Sierra Cosworth 1985",
-        "price": "USD157 520",
+        "price": 157.52,
         "year": "1985",
-        "mileage": "137 129 km"
+        "mileage": 137129
     },
     {
-        "id": "12a16654-d1b4-415c-b73a-800f751ca647",
+        "id": "5ec15e4c-477b-4a05-9171-e8b7aecc5149",
         "name": "Porsche 928 S4 1971",
-        "price": "USD212 637",
+        "price": 212.637,
         "year": "1971",
-        "mileage": "233 990 km"
+        "mileage": 233990
     },
     {
-        "id": "69193940-a8d8-4cbc-abd6-644f59d5ca5a",
+        "id": "d4a2802b-089e-4f07-92ca-91b7dcf842e5",
         "name": "Ford Sierra Cosworth 1951",
-        "price": "USD106 642",
+        "price": 106.642,
         "year": "1951",
-        "mileage": "73 565 km"
+        "mileage": 73565
     },
     {
-        "id": "c4dff29b-6435-4e88-9cb8-e902c189853c",
+        "id": "3d42a569-b45e-438e-88cc-f1f118aa6dc2",
         "name": "Porsche 911 Carrera 1957",
-        "price": "USD221 588",
+        "price": 221.588,
         "year": "1957",
-        "mileage": "24 400 km"
+        "mileage": 24400
     },
     {
-        "id": "72ac06f3-3418-46b5-a435-17b2e63d6ded",
+        "id": "feecd9f9-6abf-4257-b8e8-b6c76fc2ab7b",
         "name": "Ford GT40 1989",
-        "price": "USD34 655",
+        "price": 34.655,
         "year": "1989",
-        "mileage": "162 554 km"
+        "mileage": 162554
     }
 ]

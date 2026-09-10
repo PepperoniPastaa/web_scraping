@@ -2,6 +2,17 @@ import requests
 import json
 from bs4 import BeautifulSoup
 import uuid
+from sqlmodel import JSON, Column, Session, select, Field, SQLModel, create_engine
+
+class Car(SQLModel, table=True):
+    id: int = Field(default=None, primary_key=True)
+    name: str = Field(max_length=50)
+    price : float = Field(default=0.0, ge=0.0)
+    year: int = Field(default=0)
+    mileage: int = Field(default=0)
+
+engine = create_engine('sqlite:///cars.db')
+SQLModel.metadata.create_all(engine)
 
 BASE_URL = ('https://webscraper.io/test-sites/pagination?page=1')
 current_url = BASE_URL
@@ -59,8 +70,10 @@ for link in all_links:
 
             name = product_content.find('h2', {'class': 'title'}).get_text(strip=True)
             price = product_content.find('h3', {'class': 'price'}).get_text(strip=True)
+            price = float(price.replace("USD", "").replace(" ", "."))
             year = product_content.find('td', {'class': 'year'}).get_text(strip=True)
             mileage = product_content.find('td', {'class': 'mileage'}).get_text(strip=True)
+            mileage = int(mileage.replace(" ", "").replace("km", ""))
 
             product_info = {
                 'id' : str(uuid.uuid4()),
@@ -69,6 +82,18 @@ for link in all_links:
                 'year': year,
                 'mileage': mileage
             }
+
+            with Session(engine) as session:
+                new_car = Car(
+                     name = product_info['name'],
+                     price = product_info['price'],
+                     year = int(product_info['year']),
+                     mileage = product_info['mileage']
+                )
+                session.add(new_car)
+                session.commit()
+                print(f"Car {new_car.name} added to the database.")
+
             product_dict.append(product_info)
             link ['visited'] = True
             with open("products.json", "w", encoding="utf-8") as file:
