@@ -2,8 +2,20 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import uuid
+from sqlmodel import JSON, Column, Session, select, Field, SQLModel, create_engine
 
-BASE_URL = "https://scrapeme.live/shop/"
+class Pokemon(SQLModel, table=True):
+    id: int = Field(default=None, primary_key=True)
+    name: str = Field(max_length=50)
+    price : float = Field(default=0.0, ge=0.0)
+    tags: list[str] = Field(sa_column=Column(JSON))
+    category: list[str] = Field(sa_column=Column(JSON))
+
+
+engine = create_engine("sqlite:///pokemons.db")
+SQLModel.metadata.create_all(engine)
+
+BASE_URL = "https://scrapeme.live/shop/page/47/"
 
 
 all_articles_links = []
@@ -95,8 +107,19 @@ for link in all_articles_links:
                 "category" : categories
             }
 
+            with Session(engine) as session:
+                new_pokemon = Pokemon(
+                    name=pokemon_dict["name"],
+                    price=pokemon_dict["price"],
+                    tags=pokemon_dict["tags"],
+                    category=pokemon_dict["category"]
+                )
+                session.add(new_pokemon)
+                session.commit()
+                print(f"Pokemon {new_pokemon.name} added to the database.")
+            
+
             pokemons.append(pokemon_dict)
-            print(pokemon_dict)
             link ["visited"] = True
             with open ("links.json", "w", encoding="utf-8") as file:
                 json.dump(all_articles_links, file, indent=4, ensure_ascii=False)
@@ -105,6 +128,7 @@ for link in all_articles_links:
     except Exception as e:
         print (e)
             
+
 
 
 

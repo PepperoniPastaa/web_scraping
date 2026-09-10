@@ -1,0 +1,268 @@
+[
+    {
+        "id": "e5d9e6bd-ae18-4c6b-bee7-ac62e67c6246",
+        "name": "Tapu-koko",
+        "price": 25.0,
+        "tags": [
+            "Electric Surge",
+            "Land Spirit",
+            "tapu-koko"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "fc858830-f28d-49e0-b280-07e716951b1a",
+        "name": "Tapu-lele",
+        "price": 128.0,
+        "tags": [
+            "Land Spirit",
+            "Psychic Surge",
+            "tapu-lele"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "7c48d064-04f5-4be1-89ed-b966e53796cb",
+        "name": "Tapu-bulu",
+        "price": 133.0,
+        "tags": [
+            "Grassy Surge",
+            "Land Spirit",
+            "tapu-bulu"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "277e9baf-3de2-4fd7-99bd-3388e9e6e8c5",
+        "name": "Tapu-fini",
+        "price": 182.0,
+        "tags": [
+            "Land Spirit",
+            "Misty Surge",
+            "tapu-fini"
+        ],
+        "category": [
+            "Land Spirit",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "4d047b7b-2e1b-4c1b-85e3-03d01aa4ae72",
+        "name": "Solgaleo",
+        "price": 168.0,
+        "tags": [
+            "Full Metal Body",
+            "solgaleo",
+            "Sunne"
+        ],
+        "category": [
+            "Pokemon",
+            "Sunne"
+        ]
+    },
+    {
+        "id": "e20c7a72-d0da-46db-bc88-b2a5df043a7d",
+        "name": "Lunala",
+        "price": 95.0,
+        "tags": [
+            "lunala",
+            "Moone",
+            "Shadow Shield"
+        ],
+        "category": [
+            "Moone",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "f49c9fcd-d410-4d03-9435-40e13400a3e5",
+        "name": "Nihilego",
+        "price": 84.0,
+        "tags": [
+            "Beast Boost",
+            "nihilego",
+            "Parasite"
+        ],
+        "category": [
+            "Parasite",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "415fe7c7-ddfe-4bcb-9e61-52f3482bc830",
+        "name": "Buzzwole",
+        "price": 185.0,
+        "tags": [
+            "Beast Boost",
+            "buzzwole",
+            "Swollen"
+        ],
+        "category": [
+            "Pokemon",
+            "Swollen"
+        ]
+    },
+    {
+        "id": "3bacef73-44d9-405f-9da0-6984aa61f951",
+        "name": "Pheromosa",
+        "price": 73.0,
+        "tags": [
+            "Beast Boost",
+            "Lissome",
+            "pheromosa"
+        ],
+        "category": [
+            "Lissome",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "d73c9e1a-47be-4db8-8abe-57a5014d1551",
+        "name": "Xurkitree",
+        "price": 123.0,
+        "tags": [
+            "Beast Boost",
+            "Glowing",
+            "xurkitree"
+        ],
+        "category": [
+            "Glowing",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "5c86bb33-f78e-416f-a895-a28c2583206e",
+        "name": "Celesteela",
+        "price": 156.0,
+        "tags": [
+            "Beast Boost",
+            "celesteela",
+            "Launch"
+        ],
+        "category": [
+            "Launch",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "91f8973b-f869-4c23-b2dd-947aa637d290",
+        "name": "Kartana",
+        "price": 105.0,
+        "tags": [
+            "Beast Boost",
+            "Drawn Sword",
+            "kartana"
+        ],
+        "category": [
+            "Drawn Sword",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "30043df5-dc26-4cfd-a3ea-f75003a9d99b",
+        "name": "Guzzlord",
+        "price": 156.0,
+        "tags": [
+            "Beast Boost",
+            "guzzlord",
+            "Junkivore"
+        ],
+        "category": [
+            "Junkivore",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "a0983217-783e-45f7-8715-7d4e5e78ac86",
+        "name": "Necrozma",
+        "price": 133.0,
+        "tags": [
+            "necrozma",
+            "Prism",
+            "Prism Armor"
+        ],
+        "category": [
+            "Pokemon",
+            "Prism"
+        ]
+    },
+    {
+        "id": "eac0afed-a188-4f6b-aba9-fc4c252dfcdc",
+        "name": "Marshadow",
+        "price": 148.0,
+        "tags": [
+            "Gloomdweller",
+            "marshadow",
+            "Technician"
+        ],
+        "category": [
+            "Gloomdweller",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "aa801818-51cc-463e-88c5-958065e66fd0",
+        "name": "Poipole",
+        "price": 84.0,
+        "tags": [
+            "Beast Boost",
+            "poipole",
+            "Poison Pin"
+        ],
+        "category": [
+            "Poison Pin",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "16b3a701-cd89-429a-8a85-0d86842a680a",
+        "name": "Naganadel",
+        "price": 159.0,
+        "tags": [
+            "Beast Boost",
+            "naganadel",
+            "Poison Pin"
+        ],
+        "category": [
+            "Poison Pin",
+            "Pokemon"
+        ]
+    },
+    {
+        "id": "a3aeafc4-1b1c-4542-84d0-3c5dabeae067",
+        "name": "Stakataka",
+        "price": 148.0,
+        "tags": [
+            "Beast Boost",
+            "Rampart",
+            "stakataka"
+        ],
+        "category": [
+            "Pokemon",
+            "Rampart"
+        ]
+    },
+    {
+        "id": "974c66f6-b1eb-4d3a-bd6c-1449d80921c9",
+        "name": "Blacephalon",
+        "price": 95.0,
+        "tags": [
+            "Beast Boost",
+            "blacephalon",
+            "Fireworks"
+        ],
+        "category": [
+            "Fireworks",
+            "Pokemon"
+        ]
+    }
+]
