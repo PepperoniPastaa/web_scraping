@@ -58,14 +58,18 @@ with Session(engine) as session:
     for product_link in product_links:
         product_dict = scrape_product(product_link)
 
+        if not product_dict:
+            print("No Product JSON-LD found:", product_link)
+            continue
+
         print("Checking productID...", product_dict["name"], "| ID:", product_dict["product_id"])
         
-        if product_dict:
-            existing_product = session.exec(select(Product).where(Product.product_id == product_dict["product_id"])).first()
+    
+        existing_product = session.exec(select(Product).where(Product.product_id == product_dict["product_id"])).first()
 
-        if not product_dict["product_id"]:
+        if existing_product:
             print(f"Already in the database.", product_dict["name"])
-            break
+            continue
         else:
 
             print("Scraping...", product_dict["name"])
