@@ -3,11 +3,17 @@ from sqlmodel import Session, select, Column, Field, create_engine, SQLModel
 from curl_cffi import requests
 import json
 
-class Book(SQLModel, table=True):
+class Product(SQLModel, table=True):
     id: int = Field(default=None, primary_key=True)
-    name: str
-    isbn: str
+    name: str = Field(default=None)
+    isbn: str | None = Field(default=None, index=True)
     price: float = Field(default=0.0, ge=0.0)
+    brand : str | None= Field(default=None)
+    description: str = Field(default=None)
+    product_id: str = Field(default=None)
+    availability: str = Field(default=None)
+    product_url: str = Field(default=None)
+
 engine = create_engine("sqlite:///books.db")
 SQLModel.metadata.create_all(engine)
 
@@ -17,47 +23,67 @@ def scrape(url):
     response = requests.get(url, impersonate='chrome120', timeout=30)
     page_cont = BeautifulSoup(response.text, 'html.parser')
     links = page_cont.find_all('loc')
-    book_links = [link.text for link in links]
-    return book_links
+    product_links = [link.text for link in links]
+    return product_links
 
-book_links = scrape(url) 
+product_links = scrape(url) 
 
-def scrape_book(url):
+
+def scrape_product(url):
     response = requests.get(url, impersonate='chrome120', timeout=30)
     page_cont = BeautifulSoup(response.text, 'html.parser')
 
-    book_cont = page_cont.find_all('script', {'type': 'application/ld+json'})
+    product_cont = page_cont.find_all('script', {'type': 'application/ld+json'})
 
-    for element in book_cont:
+    for element in product_cont:
         try:
             data = json.loads(element.string)
         except (json.JSONDecodeError, TypeError):
             continue
-        if data.get('@type') == 'Product' and data.get('isbn'):
+        if data.get('@type') == 'Product':
             book_dict = {
                 "name": data.get('name'),
                 "isbn": data.get('isbn'),
                 "price": data.get('offers', {}).get('price'),
+                "brand": data.get('brand', {}).get('name'),
+                "description": data.get('description'),
+                "product_id": data.get('productID'),
+                "availability": data.get('offers', {}).get('availability'),
+                "product_url": url
                 }
             return book_dict
     return None
 
 with Session(engine) as session:
-    for book_link in book_links:
-        book_dict = scrape_book(book_link)
+    for product_link in product_links:
+        product_dict = scrape_product(product_link)
 
-        if book_dict and book_dict["isbn"]:
-            print("Scraping:", book_dict["name"])
+        print("Checking productID...", product_dict["name"], "| ID:", product_dict["product_id"])
         
-            book = Book(
-                name=book_dict["name"],
-                isbn=book_dict["isbn"],
-                price=float(book_dict["price"])
-            )
+        if product_dict:
+            existing_product = session.exec(select(Product).where(Product.product_id == product_dict["product_id"])).first()
 
-          
-            session.add(book)
-            session.commit()
+            if not product_dict["product_id"]:
+                print(f"Already in the database.", product_dict["name"])
+                break
+            else:
+
+                print("Scraping...", product_dict["name"])
+            
+                product = Product(
+                    name=product_dict["name"],
+                    isbn=product_dict["isbn"],
+                    price=float(product_dict["price"]),
+                    brand=product_dict["brand"],
+                    description=product_dict["description"],
+                    product_id=product_dict["product_id"],
+                    availability=product_dict["availability"],
+                    product_url=product_dict["product_url"]    
+                )
+
+            
+                session.add(product)
+                session.commit()
 
 
 
