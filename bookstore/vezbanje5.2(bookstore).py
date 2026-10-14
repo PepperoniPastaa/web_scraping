@@ -63,27 +63,27 @@ with Session(engine) as session:
         if product_dict:
             existing_product = session.exec(select(Product).where(Product.product_id == product_dict["product_id"])).first()
 
-            if not product_dict["product_id"]:
-                print(f"Already in the database.", product_dict["name"])
-                break
-            else:
+        if not product_dict["product_id"]:
+            print(f"Already in the database.", product_dict["name"])
+            break
+        else:
 
-                print("Scraping...", product_dict["name"])
+            print("Scraping...", product_dict["name"])
             
-                product = Product(
-                    name=product_dict["name"],
-                    isbn=product_dict["isbn"],
-                    price=float(product_dict["price"]),
-                    brand=product_dict["brand"],
-                    description=product_dict["description"],
-                    product_id=product_dict["product_id"],
-                    availability=product_dict["availability"],
-                    product_url=product_dict["product_url"]    
-                )
+            product = Product(
+            name=product_dict["name"],
+            isbn=product_dict["isbn"],
+            price=float(product_dict["price"]),
+            brand=product_dict["brand"],
+            description=product_dict["description"],
+            product_id=product_dict["product_id"],
+            availability=product_dict["availability"],
+            product_url=product_dict["product_url"]    
+        )
 
             
-                session.add(product)
-                session.commit()
+        session.add(product)
+        session.commit()
 
 
 
