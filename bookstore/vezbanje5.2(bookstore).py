@@ -1,7 +1,9 @@
-from bs4 import BeautifulSoup
 from sqlmodel import Session, select, Column, Field, create_engine, SQLModel
 from curl_cffi import requests
+from html.parser import HTMLParser
 import json
+
+
 
 class Product(SQLModel, table=True):
     id: int = Field(default=None, primary_key=True)
@@ -21,23 +23,21 @@ url = "https://www.knjizare-vulkan.rs/files/sitemap/SRB_rs/product.xml"
 
 def scrape(url):
     response = requests.get(url, impersonate='chrome120', timeout=30)
-    page_cont = BeautifulSoup(response.text, 'html.parser')
-    links = page_cont.find_all('loc')
-    product_links = [link.text for link in links]
-    return product_links
+    parser = PageParser()
+    parser.feed(response.text)
+    return parser.links
 
 product_links = scrape(url) 
 
 
 def scrape_product(url):
     response = requests.get(url, impersonate='chrome120', timeout=30)
-    page_cont = BeautifulSoup(response.text, 'html.parser')
+    parser = PageParser()
+    parser.feed(response.text)
 
-    product_cont = page_cont.find_all('script', {'type': 'application/ld+json'})
-
-    for element in product_cont:
+    for element in parser.json_ld:
         try:
-            data = json.loads(element.string)
+            data = json.loads(element)
         except (json.JSONDecodeError, TypeError):
             continue
         if data.get('@type') == 'Product':
